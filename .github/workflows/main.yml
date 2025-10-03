@@ -18,7 +18,10 @@ jobs:
       # 第一步：检出你的仓库代码，这样脚本才能访问到仓库里的文件
       - name: Checkout repository
         uses: actions/checkout@v3
-
+        with:
+          # 这行是关键，确保 GITHUB_TOKEN 有权限推送
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
       # 第二步：运行合并脚本
       - name: Consolidate rules
         run: |
