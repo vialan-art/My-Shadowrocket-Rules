@@ -16,7 +16,11 @@ jobs:
     steps:
       # 步骤1：检出你的仓库代码
       - name: Checkout repository
-        uses: actions/checkout@v3
+        # --- Git 问题修复：升级到 v4 并使用完整克隆 ---
+        uses: actions/checkout@v4
+        with:
+          # fetch-depth: 0 会获取所有历史记录，能更好地处理同步问题
+          fetch-depth: 0
 
       # 步骤2：分类合并规则
       - name: Consolidate classified rules
@@ -40,13 +44,8 @@ jobs:
               fi
               echo "Fetching from $url"
               echo -e "\n# From: $url" >> $OUTPUT_FILE
-              
-              # --------------------------------------------------------------------
-              #  !!! 关键改动在这里 !!!
-              #  增加 -A 参数来模拟浏览器 User-Agent，防止被网站拦截
+              # 增加 User-Agent 对一些简单防护依然有效，我们保留它
               curl -sL -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" "$url" >> $OUTPUT_FILE
-              # --------------------------------------------------------------------
-
             done < "$SOURCE_FILE"
             echo "Successfully consolidated into $OUTPUT_FILE"
           }
