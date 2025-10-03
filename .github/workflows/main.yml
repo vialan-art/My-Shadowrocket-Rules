@@ -16,10 +16,8 @@ jobs:
     steps:
       # 步骤1：检出你的仓库代码
       - name: Checkout repository
-        # --- Git 问题修复：升级到 v4 并使用完整克隆 ---
         uses: actions/checkout@v4
         with:
-          # fetch-depth: 0 会获取所有历史记录，能更好地处理同步问题
           fetch-depth: 0
 
       # 步骤2：分类合并规则
@@ -44,7 +42,6 @@ jobs:
               fi
               echo "Fetching from $url"
               echo -e "\n# From: $url" >> $OUTPUT_FILE
-              # 增加 User-Agent 对一些简单防护依然有效，我们保留它
               curl -sL -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" "$url" >> $OUTPUT_FILE
             done < "$SOURCE_FILE"
             echo "Successfully consolidated into $OUTPUT_FILE"
@@ -63,6 +60,9 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "chore: Auto-update classified rules on $(date)"
-            git pull --rebase
-            git push
+            
+            # --------------------------------------------------------------------
+            #  !!! 最终修正：使用强制推送来覆盖远程文件，解决合并冲突 !!!
+            git push --force
+            # --------------------------------------------------------------------
           fi
