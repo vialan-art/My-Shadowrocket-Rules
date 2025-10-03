@@ -40,7 +40,13 @@ jobs:
               fi
               echo "Fetching from $url"
               echo -e "\n# From: $url" >> $OUTPUT_FILE
-              curl -sL "$url" >> $OUTPUT_FILE
+              
+              # --------------------------------------------------------------------
+              #  !!! 关键改动在这里 !!!
+              #  增加 -A 参数来模拟浏览器 User-Agent，防止被网站拦截
+              curl -sL -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" "$url" >> $OUTPUT_FILE
+              # --------------------------------------------------------------------
+
             done < "$SOURCE_FILE"
             echo "Successfully consolidated into $OUTPUT_FILE"
           }
@@ -53,19 +59,11 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          
           git add reject_rule.list direct_rule.list proxy_rule.list
-          
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
             git commit -m "chore: Auto-update classified rules on $(date)"
-            
-            # --------------------------------------------------------------------
-            #  !!! 关键的最终修正：在推送前，先拉取远程的最新更改 !!!
-            #  这会解决 (fetch first) 的错误
             git pull --rebase
-            # --------------------------------------------------------------------
-            
             git push
           fi
