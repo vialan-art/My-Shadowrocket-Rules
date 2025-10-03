@@ -3,19 +3,13 @@ name: Update Classified Shadowrocket Rules
 
 # 触发条件
 on:
-  # 更新定时任务：每4小时执行一次
-  # '0 */4 * * *' 表示在每4个小时的0分时刻执行
   schedule:
     - cron: '0 */4 * * *'
-  # 同样允许在 Actions 页面手动触发
   workflow_dispatch:
 
 jobs:
   build:
-    # 运行环境不变
     runs-on: ubuntu-latest
-
-    # 权限设置依然是必须的，保持不变
     permissions:
       contents: write
 
@@ -25,70 +19,53 @@ jobs:
         uses: actions/checkout@v3
 
       # 步骤2：分类合并规则
-      # 这个步骤被重写以处理多个文件
       - name: Consolidate classified rules
         run: |
           set -e
-
-          # 定义一个可重复使用的函数来处理单个规则文件
-          # 参数1: 规则类型 (e.g., "reject", "direct", "proxy")
           process_rules() {
             local type=$1
             local SOURCE_FILE="${type}_rule.txt"
             local OUTPUT_FILE="${type}_rule.list"
-
-            # 检查源文件是否存在，如果不存在则跳过，避免报错
             if [ ! -f "$SOURCE_FILE" ]; then
               echo "Source file $SOURCE_FILE not found, skipping."
               return
             fi
-
             echo "--- Processing $SOURCE_FILE into $OUTPUT_FILE ---"
-
-            # 开始前先清空输出文件，并写入一个注释头
-            # 使用 ${type^} 将首字母转为大写，例如 "Reject"
             echo "# ${type^} rules list for Shadowrocket" > $OUTPUT_FILE
             echo "# Generated on $(date -u)" >> $OUTPUT_FILE
             echo "" >> $OUTPUT_FILE
-
-            # 逐行读取源 .txt 文件
             while IFS= read -r url || [[ -n "$url" ]]; do
-              # 忽略空行和以#开头的注释行
               if [[ -z "$url" || "$url" =~ ^# ]]; then
                 continue
               fi
-
               echo "Fetching from $url"
-              # 在最终文件中添加一个源URL的注释，方便调试
               echo -e "\n# From: $url" >> $OUTPUT_FILE
-              # 使用 curl 下载规则内容并追加到输出文件中
               curl -sL "$url" >> $OUTPUT_FILE
             done < "$SOURCE_FILE"
-
             echo "Successfully consolidated into $OUTPUT_FILE"
           }
-
-          # --- 依次调用函数，处理每一种规则类型 ---
           process_rules "reject"
           process_rules "direct"
           process_rules "proxy"
 
       # 步骤3：提交并推送到仓库
-      # 这个步骤也需要更新以包含所有新的 .list 文件
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
-          # 将所有生成的 .list 文件都添加到暂存区
           git add reject_rule.list direct_rule.list proxy_rule.list
           
-          # 检查是否有变动，只有在文件内容改变时才进行提交
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
-            # 提交变动
             git commit -m "chore: Auto-update classified rules on $(date)"
-            # 推送到主分支
+            
+            # --------------------------------------------------------------------
+            #  !!! 关键的最终修正：在推送前，先拉取远程的最新更改 !!!
+            #  这会解决 (fetch first) 的错误
+            git pull --rebase
+            # --------------------------------------------------------------------
+            
             git push
           fi
