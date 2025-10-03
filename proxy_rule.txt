@@ -1,5 +1,3 @@
 https://raw.githubusercontent.com/vialan-art/AAA/refs/heads/main/Additional-proxy
 https://raw.githubusercontent.com/vialan-art/AAA/refs/heads/main/nsfwlist
 https://raw.githubusercontent.com/vialan-art/AAA/refs/heads/main/spdtstlist
-https://whatshub.top/rule/Proxy.list
-https://whatshub.top/rule/Global.list
