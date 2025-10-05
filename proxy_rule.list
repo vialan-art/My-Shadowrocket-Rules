@@ -1,12 +1,12 @@
 # Proxy rules list for Shadowrocket
-# Generated on Sun Oct  5 17:23:31 UTC 2025
+# Generated on Sun Oct  5 17:25:58 UTC 2025
 
 
 # From: https://raw.githubusercontent.com/vialan-art/AAA/refs/heads/main/Additional-proxy
 DOMAIN,kb.adguard.com
 DOMAIN,whatshub.top
 DOMAIN,unsplash.com
-DOMAIN-KEYWORD,5d293dac
+
 
 # From: https://raw.githubusercontent.com/vialan-art/AAA/refs/heads/main/nsfwlist
 DOMAIN-SUFFIX,pornhub.com
