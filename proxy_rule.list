@@ -1,5 +1,5 @@
 # Proxy rules list for Shadowrocket
-# Generated on Sun Oct  5 16:26:06 UTC 2025
+# Generated on Sun Oct  5 17:03:10 UTC 2025
 
 
 # From: https://raw.githubusercontent.com/vialan-art/AAA/refs/heads/main/Additional-proxy
@@ -52,8 +52,7 @@ DOMAIN-SUFFIX,rdtcdn.com
 DOMAIN-SUFFIX,redtube.com
 DOMAIN-SUFFIX,redtube.com.br
 DOMAIN-SUFFIX,redtubepremium.com
-
-
+DOMAIN-KEYWORD,fikfap
 
 # From: https://raw.githubusercontent.com/vialan-art/AAA/refs/heads/main/spdtstlist
 DOMAIN,speed.cloudflare.com
