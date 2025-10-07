@@ -4,7 +4,8 @@ name: Update Classified Shadowrocket Rules
 # 触发条件
 on:
   schedule:
-    - cron: '0 */4 * * *'
+    # --- 这里是唯一的改动：将 */4 修改为 *，实现每小时更新 ---
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
