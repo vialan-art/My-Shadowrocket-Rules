@@ -1,5 +1,5 @@
 # Reject rules list for Shadowrocket
-# Generated on Sat Dec  6 01:51:17 UTC 2025
+# Generated on Sat Dec  6 03:13:24 UTC 2025
 
 
 # From: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/BlockHttpDNS/BlockHttpDNS.list
@@ -300682,9 +300682,7 @@ DOMAIN-SUFFIX,leju.sina.com.cn
 DOMAIN-SUFFIX,log.mix.sina.com.cn
 DOMAIN-SUFFIX,mobileads.dx.cn
 DOMAIN-SUFFIX,newspush.sinajs.cn
-DOMAIN-SUFFIX,pay.mobile.sina.cn
 DOMAIN-SUFFIX,sax.mobile.sina.cn
-DOMAIN-SUFFIX,sax.sina.com.cn
 DOMAIN-SUFFIX,saxd.sina.com.cn
 DOMAIN-SUFFIX,sdkapp.mobile.sina.cn
 DOMAIN-SUFFIX,sdkapp.uve.weibo.com
@@ -301143,7 +301141,6 @@ DOMAIN-SUFFIX,dol.tianya.cn
 DOMAIN-SUFFIX,dol.tianyaui.cn
 DOMAIN-SUFFIX,dw.xcar.com.cn
 DOMAIN-SUFFIX,e.nexac.com
-DOMAIN-SUFFIX,eq.10jqka.com.cn
 DOMAIN-SUFFIX,exp.17wo.cn
 DOMAIN-SUFFIX,game.51yund.com
 DOMAIN-SUFFIX,ganjituiguang.ganji.com
@@ -301160,7 +301157,6 @@ DOMAIN-SUFFIX,mobile-pubt.ele.me
 DOMAIN-SUFFIX,mobileads.msn.com
 DOMAIN-SUFFIX,n.cosbot.cn
 DOMAIN-SUFFIX,newton-api.ele.me
-DOMAIN-SUFFIX,ozone.10jqka.com.cn
 DOMAIN-SUFFIX,pdl.gionee.com
 DOMAIN-SUFFIX,pica-juicy.picacomic.com
 DOMAIN-SUFFIX,pixel.wp.com
@@ -301173,7 +301169,6 @@ DOMAIN-SUFFIX,qdp.qidian.com
 DOMAIN-SUFFIX,res.gwifi.com.cn
 DOMAIN-SUFFIX,ssp.kssws.ks-cdn.com
 DOMAIN-SUFFIX,sta.ganji.com
-DOMAIN-SUFFIX,stat.10jqka.com.cn
 DOMAIN-SUFFIX,stat.it168.com
 DOMAIN-SUFFIX,stats.chinaz.com
 DOMAIN-SUFFIX,stats.developingperspective.com
@@ -301181,7 +301176,6 @@ DOMAIN-SUFFIX,track.hujiang.com
 DOMAIN-SUFFIX,tracker.yhd.com
 DOMAIN-SUFFIX,tralog.ganji.com
 DOMAIN-SUFFIX,up.qingdaonews.com
-DOMAIN-SUFFIX,vaserviece.10jqka.com.cn
 
 # From: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
 # 本碎片只包含常见广告关键字、广告联盟。无副作用，放心使用
@@ -301506,7 +301500,6 @@ DOMAIN-SUFFIX,sanya1.com
 DOMAIN-SUFFIX,scupio.com
 DOMAIN-SUFFIX,shuiguo.com
 DOMAIN-SUFFIX,shuzilm.cn
-DOMAIN-SUFFIX,similarweb.com
 DOMAIN-SUFFIX,sitemeter.com
 DOMAIN-SUFFIX,sitescout.com
 DOMAIN-SUFFIX,sitetag.us
