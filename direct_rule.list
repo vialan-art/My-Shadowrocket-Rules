@@ -1,5 +1,5 @@
 # Direct rules list for Shadowrocket
-# Generated on Sun Dec  7 17:19:44 UTC 2025
+# Generated on Sun Dec  7 18:32:34 UTC 2025
 
 
 # From: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
@@ -9137,12 +9137,12 @@ IP-CIDR,::1/128,DIRECT
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-28 02:10:16
+# UPDATED: 2025-12-08 02:10:04
 # DOMAIN: 289
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 117010
+# DOMAIN-SUFFIX: 116985
 # USER-AGENT: 65
-# TOTAL: 117377
+# TOTAL: 117352
 .0.zone
 .00.net
 .000.link
@@ -18881,7 +18881,6 @@ IP-CIDR,::1/128,DIRECT
 .aesucai.com
 .aevit.xyz
 .aexpec.com
-.af-south-1.myhuaweicloud.com
 .af122.com
 .af36.com
 .af360.com
@@ -20927,9 +20926,6 @@ IP-CIDR,::1/128,DIRECT
 .aozhanls.com
 .aozhougoufang.com
 .ap-china.com
-.ap-southeast-1.myhuaweicloud.com
-.ap-southeast-2.myhuaweicloud.com
-.ap-southeast-3.myhuaweicloud.com
 .ap1983.com
 .ap4r.com
 .ap88.com
@@ -21213,7 +21209,6 @@ IP-CIDR,::1/128,DIRECT
 .aqviwv.com
 .aqvx8mcr392mv7.com
 .aqxx.org
-.aqyad.com
 .aqyqqy.com
 .aqyun.com
 .aqyzm.com
@@ -31891,7 +31886,6 @@ IP-CIDR,::1/128,DIRECT
 .clloz.com
 .clmpg.com
 .clngaa.com
-.cloooud.com
 .cloopen.com
 .cloopen.net
 .cloopm.com
@@ -32333,8 +32327,6 @@ IP-CIDR,::1/128,DIRECT
 .cn-chx.com
 .cn-comfort.com
 .cn-cr.com
-.cn-east-2.myhuaweicloud.com
-.cn-east-3.myhuaweicloud.com
 .cn-elite.com
 .cn-em.com
 .cn-ferment.com
@@ -32358,14 +32350,6 @@ IP-CIDR,::1/128,DIRECT
 .cn-msedge.net
 .cn-mw.com
 .cn-natural.com
-.cn-north-1.myhuaweicloud.com
-.cn-north-2.myhuaweicloud.com
-.cn-north-3.myhuaweicloud.com
-.cn-north-4.myhuaweicloud.com
-.cn-north-5.myhuaweicloud.com
-.cn-north-6.myhuaweicloud.com
-.cn-north-9.myhuaweicloud.com
-.cn-northeast-1.myhuaweicloud.com
 .cn-only.com
 .cn-psy.com
 .cn-railway.net
@@ -32376,10 +32360,6 @@ IP-CIDR,::1/128,DIRECT
 .cn-sdf.com
 .cn-shine.com
 .cn-soft.com
-.cn-south-1.myhuaweicloud.com
-.cn-south-2.myhuaweicloud.com
-.cn-south-4.myhuaweicloud.com
-.cn-southwest-2.myhuaweicloud.com
 .cn-tf.com
 .cn-tom.com
 .cn-truck.com
@@ -42225,7 +42205,6 @@ IP-CIDR,::1/128,DIRECT
 .etzj.net
 .etzqw.com
 .etzzy.com
-.eu-west-0.myhuaweicloud.com
 .eu4cn.com
 .eub-inc.com
 .euci-software.com
@@ -70441,8 +70420,6 @@ IP-CIDR,::1/128,DIRECT
 .la-bbs.net
 .la-chinata.hk
 .la-mo.com
-.la-north-2.myhuaweicloud.com
-.la-south-2.myhuaweicloud.com
 .la-technology.com
 .la31.com
 .laawoo.com
@@ -75048,6 +75025,7 @@ IP-CIDR,::1/128,DIRECT
 .m-finder.com
 .m-hero.com
 .m-rainbow.com
+.m-team.cc
 .m.travelzoo.com
 .m1.run
 .m123.com
@@ -78945,6 +78923,7 @@ IP-CIDR,::1/128,DIRECT
 .myhuaweicloud-date.com
 .myhuaweicloud-koodrive.com
 .myhuaweicloud-obs.com
+.myhuaweicloud.com
 .myhuilv.com
 .myhwcdn.com
 .myhwcloudlive.com
@@ -79247,7 +79226,6 @@ IP-CIDR,::1/128,DIRECT
 .n802.com
 .n8soft.com
 .n9z.net
-.na-mexico-1.myhuaweicloud.com
 .na.ci
 .naaln.com
 .nabluemedia.com
@@ -84717,7 +84695,6 @@ IP-CIDR,::1/128,DIRECT
 .pkm360.com
 .pkma.cc
 .pko123.com
-.pkoplink.com
 .pkpky.com
 .pkpmjc.com
 .pkpmsoft.com
@@ -90100,7 +90077,6 @@ IP-CIDR,::1/128,DIRECT
 .rtyhfg.com
 .rtyxpt.com
 .rtyy.com
-.ru-northwest-2.myhuaweicloud.com
 .ru5sq.com
 .rua93.online
 .ruan.cloud
@@ -90558,7 +90534,6 @@ IP-CIDR,::1/128,DIRECT
 .s98s2.com
 .s9hospital.com
 .s9yun.com
-.sa-brazil-1.myhuaweicloud.com
 .sa-ec.com
 .sa-log.com
 .sa-tencentclb.cloud
@@ -126406,14 +126381,14 @@ zzq12345.gearhostpreview.com
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-06 02:09:59
+# UPDATED: 2025-12-08 02:09:31
 # DOMAIN: 290
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 117350
+# DOMAIN-SUFFIX: 117325
 # IP-ASN: 1
-# IP-CIDR: 20155
+# IP-CIDR: 20157
 # USER-AGENT: 65
-# TOTAL: 137874
+# TOTAL: 137851
 .0.zone
 .00.net
 .000.link
@@ -136155,7 +136130,6 @@ zzq12345.gearhostpreview.com
 .aesucai.com
 .aevit.xyz
 .aexpec.com
-.af-south-1.myhuaweicloud.com
 .af122.com
 .af36.com
 .af360.com
@@ -138380,9 +138354,6 @@ zzq12345.gearhostpreview.com
 .aozhanls.com
 .aozhougoufang.com
 .ap-china.com
-.ap-southeast-1.myhuaweicloud.com
-.ap-southeast-2.myhuaweicloud.com
-.ap-southeast-3.myhuaweicloud.com
 .ap1983.com
 .ap4r.com
 .ap88.com
@@ -138667,7 +138638,6 @@ zzq12345.gearhostpreview.com
 .aqviwv.com
 .aqvx8mcr392mv7.com
 .aqxx.org
-.aqyad.com
 .aqyqqy.com
 .aqyun.com
 .aqyzm.com
@@ -149419,7 +149389,6 @@ zzq12345.gearhostpreview.com
 .clloz.com
 .clmpg.com
 .clngaa.com
-.cloooud.com
 .cloopen.com
 .cloopen.net
 .cloopm.com
@@ -149861,8 +149830,6 @@ zzq12345.gearhostpreview.com
 .cn-chx.com
 .cn-comfort.com
 .cn-cr.com
-.cn-east-2.myhuaweicloud.com
-.cn-east-3.myhuaweicloud.com
 .cn-elite.com
 .cn-em.com
 .cn-ferment.com
@@ -149886,14 +149853,6 @@ zzq12345.gearhostpreview.com
 .cn-msedge.net
 .cn-mw.com
 .cn-natural.com
-.cn-north-1.myhuaweicloud.com
-.cn-north-2.myhuaweicloud.com
-.cn-north-3.myhuaweicloud.com
-.cn-north-4.myhuaweicloud.com
-.cn-north-5.myhuaweicloud.com
-.cn-north-6.myhuaweicloud.com
-.cn-north-9.myhuaweicloud.com
-.cn-northeast-1.myhuaweicloud.com
 .cn-only.com
 .cn-psy.com
 .cn-railway.net
@@ -149904,10 +149863,6 @@ zzq12345.gearhostpreview.com
 .cn-sdf.com
 .cn-shine.com
 .cn-soft.com
-.cn-south-1.myhuaweicloud.com
-.cn-south-2.myhuaweicloud.com
-.cn-south-4.myhuaweicloud.com
-.cn-southwest-2.myhuaweicloud.com
 .cn-tf.com
 .cn-tom.com
 .cn-truck.com
@@ -159756,7 +159711,6 @@ zzq12345.gearhostpreview.com
 .etzj.net
 .etzqw.com
 .etzzy.com
-.eu-west-0.myhuaweicloud.com
 .eu4cn.com
 .eub-inc.com
 .euci-software.com
@@ -187995,8 +187949,6 @@ zzq12345.gearhostpreview.com
 .la-bbs.net
 .la-chinata.hk
 .la-mo.com
-.la-north-2.myhuaweicloud.com
-.la-south-2.myhuaweicloud.com
 .la-technology.com
 .la31.com
 .laawoo.com
@@ -192603,6 +192555,7 @@ zzq12345.gearhostpreview.com
 .m-finder.com
 .m-hero.com
 .m-rainbow.com
+.m-team.cc
 .m.travelzoo.com
 .m1.run
 .m123.com
@@ -196501,6 +196454,7 @@ zzq12345.gearhostpreview.com
 .myhuaweicloud-date.com
 .myhuaweicloud-koodrive.com
 .myhuaweicloud-obs.com
+.myhuaweicloud.com
 .myhuilv.com
 .myhwcdn.com
 .myhwcloudlive.com
@@ -196803,7 +196757,6 @@ zzq12345.gearhostpreview.com
 .n802.com
 .n8soft.com
 .n9z.net
-.na-mexico-1.myhuaweicloud.com
 .na.ci
 .naaln.com
 .nabluemedia.com
@@ -202279,7 +202232,6 @@ zzq12345.gearhostpreview.com
 .pkm360.com
 .pkma.cc
 .pko123.com
-.pkoplink.com
 .pkpky.com
 .pkpmjc.com
 .pkpmsoft.com
@@ -207670,7 +207622,6 @@ zzq12345.gearhostpreview.com
 .rtyhfg.com
 .rtyxpt.com
 .rtyy.com
-.ru-northwest-2.myhuaweicloud.com
 .ru5sq.com
 .rua93.online
 .ruan.cloud
@@ -208128,7 +208079,6 @@ zzq12345.gearhostpreview.com
 .s98s2.com
 .s9hospital.com
 .s9yun.com
-.sa-brazil-1.myhuaweicloud.com
 .sa-ec.com
 .sa-log.com
 .sa-tencentclb.cloud
@@ -244015,13 +243965,13 @@ zzq12345.gearhostpreview.com
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-12 02:08:36
+# UPDATED: 2025-12-08 02:08:15
 # DOMAIN: 20
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 3677
+# DOMAIN-SUFFIX: 3678
 # IP-CIDR: 21
 # USER-AGENT: 31
-# TOTAL: 3758
+# TOTAL: 3759
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
 DOMAIN-KEYWORD,.tmall.com
@@ -244090,13 +244040,13 @@ IP-CIDR,2a0b:b583::/48,no-resolve
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-12 02:08:36
+# UPDATED: 2025-12-08 02:08:15
 # DOMAIN: 20
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 3677
+# DOMAIN-SUFFIX: 3678
 # IP-CIDR: 21
 # USER-AGENT: 31
-# TOTAL: 3758
+# TOTAL: 3759
 .00cdn.com
 .0123456789.com
 .0379home.com
@@ -246314,6 +246264,7 @@ IP-CIDR,2a0b:b583::/48,no-resolve
 .lxjapp.com
 .lxway.com
 .ly.com
+.m-team.cc
 .m1.run
 .m6.run
 .m9.run
@@ -247797,24 +247748,23 @@ www.yxssp.com
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-06 02:10:00
+# UPDATED: 2025-12-08 02:09:32
 # DOMAIN: 290
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 117350
+# DOMAIN-SUFFIX: 117325
 # IP-ASN: 1
-# IP-CIDR: 20155
+# IP-CIDR: 20157
 # USER-AGENT: 65
-# TOTAL: 137874
-DOMAIN-SUFFIX,cn
-DOMAIN-SUFFIX,ms
-DOMAIN-SUFFIX,alibaba
+# TOTAL: 137851
 DOMAIN-SUFFIX,alipay
-DOMAIN-SUFFIX,baidu
-DOMAIN-SUFFIX,citic
-DOMAIN-SUFFIX,icbc
-DOMAIN-SUFFIX,sohu
+DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,taobao
 DOMAIN-SUFFIX,tmall
+DOMAIN-SUFFIX,cn
+DOMAIN-SUFFIX,ms
+DOMAIN-SUFFIX,baidu
+DOMAIN-SUFFIX,citic
+DOMAIN-SUFFIX,sohu
 DOMAIN-SUFFIX,unicom
 DOMAIN-SUFFIX,wang
 DOMAIN-SUFFIX,xn--1qqw23a
@@ -247849,6 +247799,7 @@ DOMAIN-SUFFIX,xn--vhquv
 DOMAIN-SUFFIX,xn--vuq861b
 DOMAIN-SUFFIX,xn--xhq521b
 DOMAIN-SUFFIX,xn--zfr164b
+DOMAIN-SUFFIX,icbc
 DOMAIN-KEYWORD,.tmall.com
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,alipay
@@ -247873,7 +247824,6 @@ USER-AGENT,%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*
 USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
 USER-AGENT,%E4%BC%98%E9%85%B7*
 USER-AGENT,%E5%8D%B3%E5%88%BB*
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*Vainglory*
 USER-AGENT,AdBlock*
 USER-AGENT,Best%20Trace*
@@ -247883,7 +247833,6 @@ USER-AGENT,MicroMessenger*
 USER-AGENT,MicroMessengerClient*
 USER-AGENT,Microsoft*
 USER-AGENT,Moke*
-USER-AGENT,NeteaseMusic*
 USER-AGENT,QQ*
 USER-AGENT,RemotePlay*
 USER-AGENT,TIM*
@@ -247903,24 +247852,26 @@ USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*QIYI*
 USER-AGENT,DomesticMedia*
-USER-AGENT,MGTV*
-USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
-USER-AGENT,QQMusic*
-USER-AGENT,bilibili*
-USER-AGENT,youku*
-USER-AGENT,Himalaya*
-USER-AGENT,MOO*
-USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
-USER-AGENT,MiguVideo*
-USER-AGENT,baiduyinyue
 USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
 USER-AGENT,QQ%E9%9F%B3%E4%B9%90
-USER-AGENT,TencentMidasConnect*
+USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
+USER-AGENT,QQMusic*
+USER-AGENT,Youku*
+USER-AGENT,bilibili*
 USER-AGENT,live4iphone*
 USER-AGENT,qqlive4iphone*
+USER-AGENT,youku*
+USER-AGENT,Himalaya*
+USER-AGENT,MGTV*
+USER-AGENT,MOO*
+USER-AGENT,TencentMidasConnect*
+USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
+USER-AGENT,MiguVideo*
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
+USER-AGENT,NeteaseMusic*
+USER-AGENT,baiduyinyue
 USER-AGENT,walkman*
 USER-AGENT,xiami*
-USER-AGENT,Youku*
 USER-AGENT,PPStream*
 USER-AGENT,QIYI*
 USER-AGENT,QYPlayer*
@@ -266709,16 +266660,17 @@ IP-CIDR,2a0e:ec05:4800::/41,no-resolve
 IP-CIDR,2a0e:ec05:79c0::/42,no-resolve
 IP-CIDR,2a0e:ec05:7a00::/40,no-resolve
 IP-CIDR,2a0e:ec05:7b00::/42,no-resolve
-IP-CIDR,2a0f:1cc5:100::/44,no-resolve
+IP-CIDR,2a0f:1cc5:100::/43,no-resolve
 IP-CIDR,2a0f:1cc5:10::/47,no-resolve
+IP-CIDR,2a0f:1cc5:1c00::/48,no-resolve
 IP-CIDR,2a0f:1cc5:20::/44,no-resolve
 IP-CIDR,2a0f:1cc5:600::/47,no-resolve
 IP-CIDR,2a0f:1cc5:610::/48,no-resolve
+IP-CIDR,2a0f:1cc5:900::/40,no-resolve
 IP-CIDR,2a0f:1cc5:f00::/46,no-resolve
 IP-CIDR,2a0f:1cc5:f04::/47,no-resolve
 IP-CIDR,2a0f:1cc5:f06::/48,no-resolve
-IP-CIDR,2a0f:1cc6:b100::/48,no-resolve
-IP-CIDR,2a0f:1cc6:b102::/47,no-resolve
+IP-CIDR,2a0f:1cc6:b100::/46,no-resolve
 IP-CIDR,2a0f:5707:ac01::/48,no-resolve
 IP-CIDR,2a0f:6284:3000::/36,no-resolve
 IP-CIDR,2a0f:6284:300::/40,no-resolve
@@ -266929,7 +266881,7 @@ IP-CIDR,2a14:7581:b14::/47,no-resolve
 IP-CIDR,2a14:7581:b20::/46,no-resolve
 IP-CIDR,2a14:7581:b40::/45,no-resolve
 IP-CIDR,2a14:7581:b60::/44,no-resolve
-IP-CIDR,2a14:7581:ba0::/44,no-resolve
+IP-CIDR,2a14:7581:ba0::/48,no-resolve
 IP-CIDR,2a14:7581:bbb::/48,no-resolve
 IP-CIDR,2a14:7581:bcd::/48,no-resolve
 IP-CIDR,2a14:7581:bff::/48,no-resolve
@@ -267662,6 +267614,7 @@ IP-CIDR,45.149.16.0/22,no-resolve
 IP-CIDR,45.151.47.0/24,no-resolve
 IP-CIDR,45.152.24.0/22,no-resolve
 IP-CIDR,45.154.244.0/24,no-resolve
+IP-CIDR,45.157.88.0/24,no-resolve
 IP-CIDR,45.192.21.0/24,no-resolve
 IP-CIDR,45.195.6.0/24,no-resolve
 IP-CIDR,45.202.209.0/24,no-resolve
@@ -268088,19 +268041,18 @@ IP-ASN,132203,no-resolve
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-06 02:10:34
+# UPDATED: 2025-12-08 02:10:05
 # DOMAIN: 289
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 117010
+# DOMAIN-SUFFIX: 116985
 # USER-AGENT: 65
-# TOTAL: 117377
+# TOTAL: 117352
+DOMAIN-SUFFIX,alibaba
+DOMAIN-SUFFIX,tmall
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
-DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,citic
-DOMAIN-SUFFIX,icbc
 DOMAIN-SUFFIX,sohu
-DOMAIN-SUFFIX,tmall
 DOMAIN-SUFFIX,unicom
 DOMAIN-SUFFIX,wang
 DOMAIN-SUFFIX,xn--1qqw23a
@@ -268135,6 +268087,7 @@ DOMAIN-SUFFIX,xn--vhquv
 DOMAIN-SUFFIX,xn--vuq861b
 DOMAIN-SUFFIX,xn--xhq521b
 DOMAIN-SUFFIX,xn--zfr164b
+DOMAIN-SUFFIX,icbc
 DOMAIN-KEYWORD,.tmall.com
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,alipay
@@ -268159,7 +268112,6 @@ USER-AGENT,%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*
 USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
 USER-AGENT,%E4%BC%98%E9%85%B7*
 USER-AGENT,%E5%8D%B3%E5%88%BB*
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*Vainglory*
 USER-AGENT,AdBlock*
 USER-AGENT,Best%20Trace*
@@ -268169,7 +268121,6 @@ USER-AGENT,MicroMessenger*
 USER-AGENT,MicroMessengerClient*
 USER-AGENT,Microsoft*
 USER-AGENT,Moke*
-USER-AGENT,NeteaseMusic*
 USER-AGENT,QQ*
 USER-AGENT,RemotePlay*
 USER-AGENT,TIM*
@@ -268189,24 +268140,26 @@ USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*QIYI*
 USER-AGENT,DomesticMedia*
-USER-AGENT,MGTV*
-USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
-USER-AGENT,QQMusic*
-USER-AGENT,bilibili*
-USER-AGENT,youku*
-USER-AGENT,Himalaya*
-USER-AGENT,MOO*
-USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
-USER-AGENT,MiguVideo*
-USER-AGENT,baiduyinyue
 USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
 USER-AGENT,QQ%E9%9F%B3%E4%B9%90
-USER-AGENT,TencentMidasConnect*
+USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
+USER-AGENT,QQMusic*
+USER-AGENT,Youku*
+USER-AGENT,bilibili*
 USER-AGENT,live4iphone*
 USER-AGENT,qqlive4iphone*
+USER-AGENT,youku*
+USER-AGENT,Himalaya*
+USER-AGENT,MGTV*
+USER-AGENT,MOO*
+USER-AGENT,TencentMidasConnect*
+USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
+USER-AGENT,MiguVideo*
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
+USER-AGENT,NeteaseMusic*
+USER-AGENT,baiduyinyue
 USER-AGENT,walkman*
 USER-AGENT,xiami*
-USER-AGENT,Youku*
 USER-AGENT,PPStream*
 USER-AGENT,QIYI*
 USER-AGENT,QYPlayer*
@@ -268888,15 +268841,15 @@ DOMAIN-SUFFIX,xiaohongshu.com
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-12 02:08:36
+# UPDATED: 2025-12-08 02:08:15
 # HOST: 20
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 3677
+# HOST-SUFFIX: 3678
 # HOST-WILDCARD: 1
 # IP-CIDR: 17
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 3759
+# TOTAL: 3760
 HOST,analytics.strava.com,China
 HOST,blzddist1-a.akamaihd.net,China
 HOST,cdn.angruo.com,China
@@ -271135,6 +271088,7 @@ HOST-SUFFIX,lxdns.org,China
 HOST-SUFFIX,lxjapp.com,China
 HOST-SUFFIX,lxway.com,China
 HOST-SUFFIX,ly.com,China
+HOST-SUFFIX,m-team.cc,China
 HOST-SUFFIX,m1.run,China
 HOST-SUFFIX,m6.run,China
 HOST-SUFFIX,m9.run,China
