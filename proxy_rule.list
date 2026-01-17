@@ -1,5 +1,5 @@
 # Proxy rules list for Shadowrocket
-# Generated on Sat Jan 17 02:00:12 UTC 2026
+# Generated on Sat Jan 17 03:38:13 UTC 2026
 
 
 # From: https://raw.githubusercontent.com/vialan-art/AAA/refs/heads/main/Additional-proxy
@@ -66,5 +66,15 @@ DOMAIN,speedtest.macpaw.com
 DOMAIN-KEYWORD,speed
 
 # From: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/YouTubeMusic/YouTubeMusic.list
-429: Too Many Requests
-For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
+# NAME: YouTubeMusic
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2025-06-06 09:15:10
+# DOMAIN: 1
+# USER-AGENT: 4
+# TOTAL: 5
+DOMAIN,music.youtube.com
+USER-AGENT,*YouTubeMusic*
+USER-AGENT,*com.google.ios.youtubemusic*
+USER-AGENT,YouTubeMusic*
+USER-AGENT,com.google.ios.youtubemusic*
