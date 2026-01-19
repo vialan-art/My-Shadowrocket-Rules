@@ -1,5 +1,5 @@
 # Direct rules list for Shadowrocket
-# Generated on Mon Jan 19 17:27:56 UTC 2026
+# Generated on Mon Jan 19 18:39:28 UTC 2026
 
 
 # From: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
@@ -9137,12 +9137,12 @@ IP-CIDR,::1/128,DIRECT
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-01-18 02:09:31
+# UPDATED: 2026-01-20 02:10:12
 # DOMAIN: 306
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 114881
+# DOMAIN-SUFFIX: 114889
 # USER-AGENT: 65
-# TOTAL: 115265
+# TOTAL: 115273
 .0.zone
 .00.net
 .000.link
@@ -16788,6 +16788,7 @@ IP-CIDR,::1/128,DIRECT
 .88106.com
 .88116008.com
 .8811777.com
+.881812c.com
 .8821.com
 .8825.com
 .88303887.com
@@ -17533,6 +17534,7 @@ IP-CIDR,::1/128,DIRECT
 .962360.com
 .962518.com
 .962600.com
+.96262.com
 .96335.com
 .96355.com
 .96369.net
@@ -44423,6 +44425,7 @@ IP-CIDR,::1/128,DIRECT
 .fuca-china.com
 .fucantec.com
 .fuchaipower.com
+.fuchaoqun.com
 .fuchen33.com
 .fuchengshicai.com
 .fuchuangyu.com
@@ -55194,6 +55197,7 @@ IP-CIDR,::1/128,DIRECT
 .hlbe365.com
 .hlbeixiu.com
 .hlbeixiu.net
+.hlbf.net
 .hlblz.com
 .hlbn.cc
 .hlbryy.com
@@ -75875,6 +75879,7 @@ IP-CIDR,::1/128,DIRECT
 .miit-kjcg.com
 .mij.cc
 .mijewelries.com
+.miji8.com
 .mijia.tech
 .mijian360.com
 .mijiannet.com
@@ -78929,7 +78934,6 @@ IP-CIDR,::1/128,DIRECT
 .nffq.net
 .nffund.com
 .nfgjhr.com
-.nfksjkfs.com
 .nflchina.com
 .nflsxl.com
 .nfmedia.com
@@ -80682,6 +80686,7 @@ IP-CIDR,::1/128,DIRECT
 .nuomili.com
 .nuomiphp.com
 .nuomisi.com
+.nuona.com
 .nuonuo.com
 .nuoshell.com
 .nuoshou2023.com
@@ -91514,6 +91519,7 @@ IP-CIDR,::1/128,DIRECT
 .shanhs.com
 .shanhu188.com
 .shanhu99.com
+.shanhuijiangtang.com
 .shanhuu.com
 .shanjianzhan.com
 .shanjinqh.com
@@ -95695,6 +95701,7 @@ IP-CIDR,::1/128,DIRECT
 .starcharge.com
 .stardata360.com
 .starde.net
+.stardict.net
 .stardict.org
 .stardoctor.com
 .stards.com
@@ -106384,6 +106391,7 @@ IP-CIDR,::1/128,DIRECT
 .wengbi.com
 .wengegroup.com
 .wengem.com
+.wengkui.com
 .wengmeiling.com
 .wenguang.com
 .wenguangta.com
@@ -124294,14 +124302,14 @@ zzq12345.gearhostpreview.com
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-01-18 02:09:01
+# UPDATED: 2026-01-20 02:09:39
 # DOMAIN: 307
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 115216
+# DOMAIN-SUFFIX: 115224
 # IP-ASN: 1
-# IP-CIDR: 12546
+# IP-CIDR: 12556
 # USER-AGENT: 65
-# TOTAL: 128148
+# TOTAL: 128166
 .0.zone
 .00.net
 .000.link
@@ -131949,6 +131957,7 @@ zzq12345.gearhostpreview.com
 .88106.com
 .88116008.com
 .8811777.com
+.881812c.com
 .8821.com
 .8825.com
 .88303887.com
@@ -132694,6 +132703,7 @@ zzq12345.gearhostpreview.com
 .962360.com
 .962518.com
 .962600.com
+.96262.com
 .96335.com
 .96355.com
 .96369.net
@@ -159843,6 +159853,7 @@ zzq12345.gearhostpreview.com
 .fuca-china.com
 .fucantec.com
 .fuchaipower.com
+.fuchaoqun.com
 .fuchen33.com
 .fuchengshicai.com
 .fuchuangyu.com
@@ -170618,6 +170629,7 @@ zzq12345.gearhostpreview.com
 .hlbe365.com
 .hlbeixiu.com
 .hlbeixiu.net
+.hlbf.net
 .hlblz.com
 .hlbn.cc
 .hlbryy.com
@@ -191315,6 +191327,7 @@ zzq12345.gearhostpreview.com
 .miit-kjcg.com
 .mij.cc
 .mijewelries.com
+.miji8.com
 .mijia.tech
 .mijian360.com
 .mijiannet.com
@@ -194370,7 +194383,6 @@ zzq12345.gearhostpreview.com
 .nffq.net
 .nffund.com
 .nfgjhr.com
-.nfksjkfs.com
 .nflchina.com
 .nflsxl.com
 .nfmedia.com
@@ -196124,6 +196136,7 @@ zzq12345.gearhostpreview.com
 .nuomili.com
 .nuomiphp.com
 .nuomisi.com
+.nuona.com
 .nuonuo.com
 .nuoshell.com
 .nuoshou2023.com
@@ -206968,6 +206981,7 @@ zzq12345.gearhostpreview.com
 .shanhs.com
 .shanhu188.com
 .shanhu99.com
+.shanhuijiangtang.com
 .shanhuu.com
 .shanjianzhan.com
 .shanjinqh.com
@@ -211150,6 +211164,7 @@ zzq12345.gearhostpreview.com
 .starcharge.com
 .stardata360.com
 .starde.net
+.stardict.net
 .stardict.org
 .stardoctor.com
 .stards.com
@@ -221871,6 +221886,7 @@ zzq12345.gearhostpreview.com
 .wengbi.com
 .wengegroup.com
 .wengem.com
+.wengkui.com
 .wengmeiling.com
 .wenguang.com
 .wenguangta.com
@@ -243569,14 +243585,14 @@ www.yxssp.com
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-01-18 02:09:02
+# UPDATED: 2026-01-20 02:09:40
 # DOMAIN: 307
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 115216
+# DOMAIN-SUFFIX: 115224
 # IP-ASN: 1
-# IP-CIDR: 12546
+# IP-CIDR: 12556
 # USER-AGENT: 65
-# TOTAL: 128148
+# TOTAL: 128166
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
 DOMAIN-SUFFIX,alibaba
@@ -243630,10 +243646,10 @@ DOMAIN-KEYWORD,beplay
 DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,bilibili
-DOMAIN-KEYWORD,qiyi
 DOMAIN-KEYWORD,hnagroup
 DOMAIN-KEYWORD,stripe
 DOMAIN-KEYWORD,weibo
+DOMAIN-KEYWORD,qiyi
 USER-AGENT,*bili*
 USER-AGENT,Bilibili*
 USER-AGENT,bili*
@@ -243676,29 +243692,29 @@ USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*QIYI*
 USER-AGENT,AcFun*
 USER-AGENT,DomesticMedia*
-USER-AGENT,MGTV*
-USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
 USER-AGENT,MOO*
 USER-AGENT,MiguVideo*
-USER-AGENT,PPStream*
-USER-AGENT,QIYI*
-USER-AGENT,QQ%E9%9F%B3%E4%B9%90
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
 USER-AGENT,QQMusic*
-USER-AGENT,QYPlayer*
-USER-AGENT,TencentMidasConnect*
-USER-AGENT,Youku*
-USER-AGENT,bilibili*
-USER-AGENT,iQiYi*
-USER-AGENT,iQiyi*
-USER-AGENT,live4iphone*
-USER-AGENT,qqlive4iphone*
-USER-AGENT,youku*
-USER-AGENT,Himalaya*
 USER-AGENT,baiduyinyue
+USER-AGENT,bilibili*
 USER-AGENT,walkman*
 USER-AGENT,xiami*
+USER-AGENT,youku*
+USER-AGENT,Himalaya*
+USER-AGENT,MGTV*
+USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
+USER-AGENT,QQ%E9%9F%B3%E4%B9%90
+USER-AGENT,TencentMidasConnect*
+USER-AGENT,live4iphone*
+USER-AGENT,qqlive4iphone*
+USER-AGENT,Youku*
+USER-AGENT,PPStream*
+USER-AGENT,QIYI*
+USER-AGENT,QYPlayer*
 USER-AGENT,iQIYI*
+USER-AGENT,iQiYi*
+USER-AGENT,iQiyi*
 IP-CIDR,0.0.0.0/32,no-resolve
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
@@ -248162,6 +248178,7 @@ IP-CIDR,2001:2035:0:c80::/64,no-resolve
 IP-CIDR,2001:250::/30,no-resolve
 IP-CIDR,2001:254::/31,no-resolve
 IP-CIDR,2001:256::/32,no-resolve
+IP-CIDR,2001:3c8:1012::/48,no-resolve
 IP-CIDR,2001:4438::/32,no-resolve
 IP-CIDR,2001:4510::/29,no-resolve
 IP-CIDR,2001:470:ee53::/48,no-resolve
@@ -248532,6 +248549,8 @@ IP-CIDR,202.22.248.0/21,no-resolve
 IP-CIDR,202.27.12.0/24,no-resolve
 IP-CIDR,202.27.136.0/23,no-resolve
 IP-CIDR,202.27.14.0/24,no-resolve
+IP-CIDR,202.28.194.0/24,no-resolve
+IP-CIDR,202.29.12.0/24,no-resolve
 IP-CIDR,202.3.128.0/23,no-resolve
 IP-CIDR,202.30.124.0/24,no-resolve
 IP-CIDR,202.36.226.0/24,no-resolve
@@ -251027,7 +251046,7 @@ IP-CIDR,2400:6040::/32,no-resolve
 IP-CIDR,2400:60c0::/32,no-resolve
 IP-CIDR,2400:61c0::/32,no-resolve
 IP-CIDR,2400:6200::/32,no-resolve
-IP-CIDR,2400:6460:300::/48,no-resolve
+IP-CIDR,2400:6460:300::/40,no-resolve
 IP-CIDR,2400:6460:500::/40,no-resolve
 IP-CIDR,2400:6460::/39,no-resolve
 IP-CIDR,2400:6500:0:7300::/56,no-resolve
@@ -251543,9 +251562,7 @@ IP-CIDR,2401:f860:100::/40,no-resolve
 IP-CIDR,2401:f860:7::/48,no-resolve
 IP-CIDR,2401:f860:86::/47,no-resolve
 IP-CIDR,2401:f860:88::/47,no-resolve
-IP-CIDR,2401:f860:90::/46,no-resolve
-IP-CIDR,2401:f860:94::/47,no-resolve
-IP-CIDR,2401:f860:97::/48,no-resolve
+IP-CIDR,2401:f860:90::/45,no-resolve
 IP-CIDR,2401:f860:b::/48,no-resolve
 IP-CIDR,2401:f860:d::/48,no-resolve
 IP-CIDR,2401:f860:f6::/48,no-resolve
@@ -251777,6 +251794,7 @@ IP-CIDR,2402:e0c0::/32,no-resolve
 IP-CIDR,2402:e140::/32,no-resolve
 IP-CIDR,2402:e2c0::/32,no-resolve
 IP-CIDR,2402:e380:100::/40,no-resolve
+IP-CIDR,2402:e380:15::/48,no-resolve
 IP-CIDR,2402:e3c0::/32,no-resolve
 IP-CIDR,2402:e480::/32,no-resolve
 IP-CIDR,2402:e540::/32,no-resolve
@@ -254802,6 +254820,8 @@ IP-CIDR,2a0e:aa07:e200::/44,no-resolve
 IP-CIDR,2a0e:aa07:e210::/48,no-resolve
 IP-CIDR,2a0e:aa07:e21c::/47,no-resolve
 IP-CIDR,2a0e:aa07:e220::/44,no-resolve
+IP-CIDR,2a0e:aa07:e280::/46,no-resolve
+IP-CIDR,2a0e:aa07:e28a::/48,no-resolve
 IP-CIDR,2a0e:aa07:f012::/48,no-resolve
 IP-CIDR,2a0e:aa07:f0d0::/46,no-resolve
 IP-CIDR,2a0e:aa07:f0d4::/47,no-resolve
@@ -254831,7 +254851,7 @@ IP-CIDR,2a0e:ec05:79c0::/42,no-resolve
 IP-CIDR,2a0e:ec05:7a00::/40,no-resolve
 IP-CIDR,2a0e:ec05:7b00::/42,no-resolve
 IP-CIDR,2a0f:1cc5:100::/43,no-resolve
-IP-CIDR,2a0f:1cc5:10::/47,no-resolve
+IP-CIDR,2a0f:1cc5:10::/46,no-resolve
 IP-CIDR,2a0f:1cc5:1200::/40,no-resolve
 IP-CIDR,2a0f:1cc5:130::/44,no-resolve
 IP-CIDR,2a0f:1cc5:1310::/44,no-resolve
@@ -254858,6 +254878,7 @@ IP-CIDR,2a0f:1cc5:fff::/48,no-resolve
 IP-CIDR,2a0f:1cc5:ffff::/48,no-resolve
 IP-CIDR,2a0f:1cc6:b110::/47,no-resolve
 IP-CIDR,2a0f:1cc6:bab4::/48,no-resolve
+IP-CIDR,2a0f:1cc6:bab9::/48,no-resolve
 IP-CIDR,2a0f:5707:ac01::/48,no-resolve
 IP-CIDR,2a0f:6282::/32,no-resolve
 IP-CIDR,2a0f:6284:3000::/39,no-resolve
@@ -255032,6 +255053,7 @@ IP-CIDR,2a14:67c1:c600::/40,no-resolve
 IP-CIDR,2a14:67c3:30::/44,no-resolve
 IP-CIDR,2a14:67c3:520::/44,no-resolve
 IP-CIDR,2a14:67c3:c0::/48,no-resolve
+IP-CIDR,2a14:7580:71f::/48,no-resolve
 IP-CIDR,2a14:7580:730::/44,no-resolve
 IP-CIDR,2a14:7580:740::/44,no-resolve
 IP-CIDR,2a14:7580:750::/47,no-resolve
@@ -255042,6 +255064,8 @@ IP-CIDR,2a14:7580:d800::/39,no-resolve
 IP-CIDR,2a14:7580:df00::/40,no-resolve
 IP-CIDR,2a14:7580:e200::/40,no-resolve
 IP-CIDR,2a14:7580:e610::/44,no-resolve
+IP-CIDR,2a14:7580:ed60::/47,no-resolve
+IP-CIDR,2a14:7580:ed64::/47,no-resolve
 IP-CIDR,2a14:7580:ee0f::/48,no-resolve
 IP-CIDR,2a14:7580:fe00::/40,no-resolve
 IP-CIDR,2a14:7580:ff40::/48,no-resolve
@@ -255072,7 +255096,8 @@ IP-CIDR,2a14:7583:f244::/47,no-resolve
 IP-CIDR,2a14:7583:f264::/48,no-resolve
 IP-CIDR,2a14:7583:f268::/48,no-resolve
 IP-CIDR,2a14:7583:f300::/46,no-resolve
-IP-CIDR,2a14:7583:f305::/48,no-resolve
+IP-CIDR,2a14:7583:f304::/47,no-resolve
+IP-CIDR,2a14:7583:f46a::/48,no-resolve
 IP-CIDR,2a14:7583:f4f0::/47,no-resolve
 IP-CIDR,2a14:7583:f4f4::/48,no-resolve
 IP-CIDR,2a14:7583:f4fe::/48,no-resolve
@@ -256153,6 +256178,7 @@ IP-CIDR,69.230.192.0/18,no-resolve
 IP-CIDR,69.231.128.0/18,no-resolve
 IP-CIDR,69.234.192.0/18,no-resolve
 IP-CIDR,69.235.128.0/18,no-resolve
+IP-CIDR,69.33.13.0/24,no-resolve
 IP-CIDR,69.85.93.0/24,no-resolve
 IP-CIDR,71.131.192.0/18,no-resolve
 IP-CIDR,71.132.0.0/18,no-resolve
@@ -256251,12 +256277,12 @@ IP-ASN,132203,no-resolve
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-01-18 02:09:32
+# UPDATED: 2026-01-20 02:10:13
 # DOMAIN: 306
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 114881
+# DOMAIN-SUFFIX: 114889
 # USER-AGENT: 65
-# TOTAL: 115265
+# TOTAL: 115273
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
 DOMAIN-SUFFIX,alibaba
@@ -256307,10 +256333,10 @@ DOMAIN-KEYWORD,beplay
 DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,bilibili
-DOMAIN-KEYWORD,qiyi
 DOMAIN-KEYWORD,hnagroup
 DOMAIN-KEYWORD,stripe
 DOMAIN-KEYWORD,weibo
+DOMAIN-KEYWORD,qiyi
 USER-AGENT,*bili*
 USER-AGENT,Bilibili*
 USER-AGENT,bili*
@@ -256353,29 +256379,29 @@ USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*QIYI*
 USER-AGENT,AcFun*
 USER-AGENT,DomesticMedia*
-USER-AGENT,MGTV*
-USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
 USER-AGENT,MOO*
 USER-AGENT,MiguVideo*
-USER-AGENT,PPStream*
-USER-AGENT,QIYI*
-USER-AGENT,QQ%E9%9F%B3%E4%B9%90
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
 USER-AGENT,QQMusic*
-USER-AGENT,QYPlayer*
-USER-AGENT,TencentMidasConnect*
-USER-AGENT,Youku*
-USER-AGENT,bilibili*
-USER-AGENT,iQiYi*
-USER-AGENT,iQiyi*
-USER-AGENT,live4iphone*
-USER-AGENT,qqlive4iphone*
-USER-AGENT,youku*
-USER-AGENT,Himalaya*
 USER-AGENT,baiduyinyue
+USER-AGENT,bilibili*
 USER-AGENT,walkman*
 USER-AGENT,xiami*
+USER-AGENT,youku*
+USER-AGENT,Himalaya*
+USER-AGENT,MGTV*
+USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
+USER-AGENT,QQ%E9%9F%B3%E4%B9%90
+USER-AGENT,TencentMidasConnect*
+USER-AGENT,live4iphone*
+USER-AGENT,qqlive4iphone*
+USER-AGENT,Youku*
+USER-AGENT,PPStream*
+USER-AGENT,QIYI*
+USER-AGENT,QYPlayer*
 USER-AGENT,iQIYI*
+USER-AGENT,iQiYi*
+USER-AGENT,iQiyi*
 
 # From: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/BiliBili/BiliBili.list
 # NAME: BiliBili
