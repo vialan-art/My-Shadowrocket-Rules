@@ -1,5 +1,5 @@
 # Direct rules list for Shadowrocket
-# Generated on Mon Feb  9 17:53:39 UTC 2026
+# Generated on Mon Feb  9 19:23:14 UTC 2026
 
 
 # From: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
@@ -9134,12 +9134,12 @@ IP-CIDR,::1/128,DIRECT
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-08 02:11:53
+# UPDATED: 2026-02-10 02:22:19
 # DOMAIN: 307
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 115854
+# DOMAIN-SUFFIX: 115849
 # USER-AGENT: 65
-# TOTAL: 116239
+# TOTAL: 116234
 .0.zone
 .00.net
 .000.link
@@ -16380,7 +16380,6 @@ IP-CIDR,::1/128,DIRECT
 .6x69f31vso.com
 .6xcdn.com
 .6xd.com
-.6xigema.com
 .6xiu.com
 .6xw.com
 .6yoo.com
@@ -18929,7 +18928,6 @@ IP-CIDR,::1/128,DIRECT
 .adexplain.com
 .adfaith.com
 .adfortest.com
-.adfunlink.com
 .adfuns.com
 .adfyt.com
 .adg-dental.com
@@ -21433,7 +21431,6 @@ IP-CIDR,::1/128,DIRECT
 .aqviwv.com
 .aqvx8mcr392mv7.com
 .aqxx.org
-.aqyad.com
 .aqyqqy.com
 .aqyun.com
 .aqyzm.com
@@ -23910,6 +23907,7 @@ IP-CIDR,::1/128,DIRECT
 .benmi.com
 .benmu-health.com
 .bennybu.fun
+.benpsbp.com
 .benqhospital.com
 .benqmedicalcenter.com
 .benqmedicalcentersz.com
@@ -24390,7 +24388,6 @@ IP-CIDR,::1/128,DIRECT
 .bidingxing.com
 .bidizhaobiao.com
 .bidns.net
-.bidtoolads.com
 .biduo.cc
 .biduobao.com
 .biduoxs.com
@@ -32014,7 +32011,6 @@ IP-CIDR,::1/128,DIRECT
 .clloz.com
 .clmpg.com
 .clngaa.com
-.cloooud.com
 .cloopen.com
 .cloopen.net
 .cloopm.com
@@ -38475,6 +38471,7 @@ IP-CIDR,::1/128,DIRECT
 .dkntgc.com
 .dksgames.com
 .dkskcloud.com
+.dktad.com
 .dktzjt.com
 .dku51.com
 .dky.cc
@@ -40480,6 +40477,7 @@ IP-CIDR,::1/128,DIRECT
 .e3j.co
 .e3ol.com
 .e4008.com
+.e4l4.com
 .e4xk2cvh.work
 .e53w.com
 .e5413.com
@@ -60530,7 +60528,6 @@ IP-CIDR,::1/128,DIRECT
 .ieshuoshan.net
 .iessay100.com
 .ietdata.com
-.ietheivaicai.com
 .ietheme.com
 .ietrcd.com
 .ievision.com
@@ -75681,7 +75678,6 @@ IP-CIDR,::1/128,DIRECT
 .medme.net
 .medmeeting.org
 .mednovogroup.com
-.medproad.com
 .medrc.net
 .medreading.com
 .medris-china.com
@@ -79694,7 +79690,6 @@ IP-CIDR,::1/128,DIRECT
 .nextyu.com
 .nexus-holding.com
 .nexus.dell.com
-.nexusedgeio.com
 .nexushd.org
 .neyetwatcher.com
 .neytap.com
@@ -84968,7 +84963,6 @@ IP-CIDR,::1/128,DIRECT
 .puai999.com
 .puaihospital.net
 .puamap.com
-.puata.info
 .pubbcsapp.com
 .pubchn.com
 .pubg.plus
@@ -92838,7 +92832,6 @@ IP-CIDR,::1/128,DIRECT
 .shenruapp.com
 .shenshang.org
 .shenshi777.com
-.shenshiads.com
 .shenshijituan.com
 .shenshitech.org
 .shenshoucdn.com
@@ -99945,7 +99938,6 @@ IP-CIDR,::1/128,DIRECT
 .tecolighting.com
 .tecompharma.com
 .tecreal.com
-.tecunonline.com
 .tecyle.com
 .teda-veolia.com
 .tedagas.com
@@ -99986,6 +99978,7 @@ IP-CIDR,::1/128,DIRECT
 .telecomhr.com
 .telecomjs.com
 .telefen.com
+.telegramcn.co
 .telegramyug.cc
 .telehr.com
 .teleinfoo.com
@@ -100277,6 +100270,7 @@ IP-CIDR,::1/128,DIRECT
 .tengen.com
 .tengfang.net
 .tengfangyun.com
+.tengfeidn.com
 .tengfeijob.com
 .tengfeizhida.com
 .tengfun.com
@@ -104480,6 +104474,7 @@ IP-CIDR,::1/128,DIRECT
 .uutils.com
 .uutop.com
 .uutrip.net
+.uutytp.com
 .uuu.ovh
 .uuu9.com
 .uuujjj.com
@@ -111089,6 +111084,7 @@ IP-CIDR,::1/128,DIRECT
 .xiangshi.video
 .xiangshitan.com
 .xiangshuheika.com
+.xiangshunjy.com
 .xiangsidi.com
 .xiangsw.com
 .xiangtaole.com
@@ -114387,6 +114383,7 @@ IP-CIDR,::1/128,DIRECT
 .xyktjt.com
 .xyl2002.com
 .xylh888.com
+.xylhwdu.com
 .xylink.com
 .xylive.tv
 .xylll.com
@@ -122209,8 +122206,6 @@ IP-CIDR,::1/128,DIRECT
 .zhufengpeixun.com
 .zhuge.com
 .zhuge888.com
-.zhugeapi.com
-.zhugeapi.net
 .zhugeculture.com
 .zhugefang.com
 .zhugejianzhi.com
@@ -125265,14 +125260,14 @@ zzq12345.gearhostpreview.com
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-08 02:11:21
+# UPDATED: 2026-02-10 02:21:46
 # DOMAIN: 308
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 116187
+# DOMAIN-SUFFIX: 116182
 # IP-ASN: 1
-# IP-CIDR: 12533
+# IP-CIDR: 12536
 # USER-AGENT: 65
-# TOTAL: 129107
+# TOTAL: 129105
 .0.zone
 .00.net
 .000.link
@@ -132515,7 +132510,6 @@ zzq12345.gearhostpreview.com
 .6x69f31vso.com
 .6xcdn.com
 .6xd.com
-.6xigema.com
 .6xiu.com
 .6xw.com
 .6yoo.com
@@ -135065,7 +135059,6 @@ zzq12345.gearhostpreview.com
 .adexplain.com
 .adfaith.com
 .adfortest.com
-.adfunlink.com
 .adfuns.com
 .adfyt.com
 .adg-dental.com
@@ -137748,7 +137741,6 @@ zzq12345.gearhostpreview.com
 .aqviwv.com
 .aqvx8mcr392mv7.com
 .aqxx.org
-.aqyad.com
 .aqyqqy.com
 .aqyun.com
 .aqyzm.com
@@ -140284,6 +140276,7 @@ zzq12345.gearhostpreview.com
 .benmi.com
 .benmu-health.com
 .bennybu.fun
+.benpsbp.com
 .benqhospital.com
 .benqmedicalcenter.com
 .benqmedicalcentersz.com
@@ -140764,7 +140757,6 @@ zzq12345.gearhostpreview.com
 .bidingxing.com
 .bidizhaobiao.com
 .bidns.net
-.bidtoolads.com
 .biduo.cc
 .biduobao.com
 .biduoxs.com
@@ -148401,7 +148393,6 @@ zzq12345.gearhostpreview.com
 .clloz.com
 .clmpg.com
 .clngaa.com
-.cloooud.com
 .cloopen.com
 .cloopen.net
 .cloopm.com
@@ -154863,6 +154854,7 @@ zzq12345.gearhostpreview.com
 .dkntgc.com
 .dksgames.com
 .dkskcloud.com
+.dktad.com
 .dktzjt.com
 .dku51.com
 .dky.cc
@@ -156869,6 +156861,7 @@ zzq12345.gearhostpreview.com
 .e3j.co
 .e3ol.com
 .e4008.com
+.e4l4.com
 .e4xk2cvh.work
 .e53w.com
 .e5413.com
@@ -176932,7 +176925,6 @@ zzq12345.gearhostpreview.com
 .ieshuoshan.net
 .iessay100.com
 .ietdata.com
-.ietheivaicai.com
 .ietheme.com
 .ietrcd.com
 .ievision.com
@@ -192094,7 +192086,6 @@ zzq12345.gearhostpreview.com
 .medme.net
 .medmeeting.org
 .mednovogroup.com
-.medproad.com
 .medrc.net
 .medreading.com
 .medris-china.com
@@ -196108,7 +196099,6 @@ zzq12345.gearhostpreview.com
 .nextyu.com
 .nexus-holding.com
 .nexus.dell.com
-.nexusedgeio.com
 .nexushd.org
 .neyetwatcher.com
 .neytap.com
@@ -201388,7 +201378,6 @@ zzq12345.gearhostpreview.com
 .puai999.com
 .puaihospital.net
 .puamap.com
-.puata.info
 .pubbcsapp.com
 .pubchn.com
 .pubg.plus
@@ -209265,7 +209254,6 @@ zzq12345.gearhostpreview.com
 .shenruapp.com
 .shenshang.org
 .shenshi777.com
-.shenshiads.com
 .shenshijituan.com
 .shenshitech.org
 .shenshoucdn.com
@@ -216386,7 +216374,6 @@ zzq12345.gearhostpreview.com
 .tecolighting.com
 .tecompharma.com
 .tecreal.com
-.tecunonline.com
 .tecyle.com
 .teda-veolia.com
 .tedagas.com
@@ -216427,6 +216414,7 @@ zzq12345.gearhostpreview.com
 .telecomhr.com
 .telecomjs.com
 .telefen.com
+.telegramcn.co
 .telegramyug.cc
 .telehr.com
 .teleinfoo.com
@@ -216718,6 +216706,7 @@ zzq12345.gearhostpreview.com
 .tengen.com
 .tengfang.net
 .tengfangyun.com
+.tengfeidn.com
 .tengfeijob.com
 .tengfeizhida.com
 .tengfun.com
@@ -220923,6 +220912,7 @@ zzq12345.gearhostpreview.com
 .uutils.com
 .uutop.com
 .uutrip.net
+.uutytp.com
 .uuu.ovh
 .uuu9.com
 .uuujjj.com
@@ -227551,6 +227541,7 @@ zzq12345.gearhostpreview.com
 .xiangshi.video
 .xiangshitan.com
 .xiangshuheika.com
+.xiangshunjy.com
 .xiangsidi.com
 .xiangsw.com
 .xiangtaole.com
@@ -230849,6 +230840,7 @@ zzq12345.gearhostpreview.com
 .xyktjt.com
 .xyl2002.com
 .xylh888.com
+.xylhwdu.com
 .xylink.com
 .xylive.tv
 .xylll.com
@@ -238672,8 +238664,6 @@ zzq12345.gearhostpreview.com
 .zhufengpeixun.com
 .zhuge.com
 .zhuge888.com
-.zhugeapi.com
-.zhugeapi.net
 .zhugeculture.com
 .zhugefang.com
 .zhugejianzhi.com
@@ -245512,24 +245502,24 @@ www.yxssp.com
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-08 02:11:22
+# UPDATED: 2026-02-10 02:21:47
 # DOMAIN: 308
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 116187
+# DOMAIN-SUFFIX: 116182
 # IP-ASN: 1
-# IP-CIDR: 12533
+# IP-CIDR: 12536
 # USER-AGENT: 65
-# TOTAL: 129107
-DOMAIN-SUFFIX,alibaba
-DOMAIN-SUFFIX,taobao
-DOMAIN-SUFFIX,tmall
+# TOTAL: 129105
+DOMAIN-SUFFIX,alipay
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
-DOMAIN-SUFFIX,alipay
+DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,citic
 DOMAIN-SUFFIX,icbc
 DOMAIN-SUFFIX,sohu
+DOMAIN-SUFFIX,taobao
+DOMAIN-SUFFIX,tmall
 DOMAIN-SUFFIX,unicom
 DOMAIN-SUFFIX,wang
 DOMAIN-SUFFIX,xn--1qqw23a
@@ -249158,6 +249148,7 @@ IP-CIDR,140.250.0.0/16,no-resolve
 IP-CIDR,140.255.0.0/16,no-resolve
 IP-CIDR,140.75.0.0/16,no-resolve
 IP-CIDR,141.11.141.0/24,no-resolve
+IP-CIDR,141.11.219.0/24,no-resolve
 IP-CIDR,142.70.0.0/16,no-resolve
 IP-CIDR,142.86.0.0/16,no-resolve
 IP-CIDR,143.14.49.0/24,no-resolve
@@ -256716,6 +256707,8 @@ IP-CIDR,2a0e:aa07:e0e0::/44,no-resolve
 IP-CIDR,2a0e:aa07:e151::/48,no-resolve
 IP-CIDR,2a0e:aa07:e155::/48,no-resolve
 IP-CIDR,2a0e:aa07:e15f::/48,no-resolve
+IP-CIDR,2a0e:aa07:e160::/47,no-resolve
+IP-CIDR,2a0e:aa07:e162::/48,no-resolve
 IP-CIDR,2a0e:aa07:e16a::/48,no-resolve
 IP-CIDR,2a0e:aa07:e192::/48,no-resolve
 IP-CIDR,2a0e:aa07:e1a0::/44,no-resolve
@@ -256764,6 +256757,7 @@ IP-CIDR,2a0f:1cc5:1400::/48,no-resolve
 IP-CIDR,2a0f:1cc5:140::/44,no-resolve
 IP-CIDR,2a0f:1cc5:14::/48,no-resolve
 IP-CIDR,2a0f:1cc5:1c00::/47,no-resolve
+IP-CIDR,2a0f:1cc5:1c02::/48,no-resolve
 IP-CIDR,2a0f:1cc5:1c20::/48,no-resolve
 IP-CIDR,2a0f:1cc5:1cc0::/48,no-resolve
 IP-CIDR,2a0f:1cc5:1d10::/47,no-resolve
@@ -256777,6 +256771,7 @@ IP-CIDR,2a0f:1cc5:2e01::/48,no-resolve
 IP-CIDR,2a0f:1cc5:2e02::/48,no-resolve
 IP-CIDR,2a0f:1cc5:314::/46,no-resolve
 IP-CIDR,2a0f:1cc5:600::/47,no-resolve
+IP-CIDR,2a0f:1cc5:603::/48,no-resolve
 IP-CIDR,2a0f:1cc5:645::/48,no-resolve
 IP-CIDR,2a0f:1cc5:64c::/48,no-resolve
 IP-CIDR,2a0f:1cc5:661::/48,no-resolve
@@ -257014,8 +257009,7 @@ IP-CIDR,2a14:7583:f744::/48,no-resolve
 IP-CIDR,2a14:7583:f764::/48,no-resolve
 IP-CIDR,2a14:7586:6100::/47,no-resolve
 IP-CIDR,2a14:7586:6103::/48,no-resolve
-IP-CIDR,2a14:7586:6104::/47,no-resolve
-IP-CIDR,2a14:7586:6106::/48,no-resolve
+IP-CIDR,2a14:7586:6104::/46,no-resolve
 IP-CIDR,2a14:7c0:5103::/48,no-resolve
 IP-CIDR,2a14:7dc0:510::/48,no-resolve
 IP-CIDR,2a14:7dc0:517::/48,no-resolve
@@ -258121,7 +258115,6 @@ IP-CIDR,82.152.105.0/24,no-resolve
 IP-CIDR,82.156.0.0/15,no-resolve
 IP-CIDR,82.39.249.0/24,no-resolve
 IP-CIDR,85.12.7.192/28,no-resolve
-IP-CIDR,85.149.220.0/24,no-resolve
 IP-CIDR,85.184.245.0/24,no-resolve
 IP-CIDR,85.209.40.0/22,no-resolve
 IP-CIDR,85.237.205.0/24,no-resolve
@@ -258181,19 +258174,19 @@ IP-ASN,132203,no-resolve
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-08 02:11:54
+# UPDATED: 2026-02-10 02:22:20
 # DOMAIN: 307
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 115854
+# DOMAIN-SUFFIX: 115849
 # USER-AGENT: 65
-# TOTAL: 116239
-DOMAIN-SUFFIX,alibaba
-DOMAIN-SUFFIX,tmall
+# TOTAL: 116234
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
+DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,citic
 DOMAIN-SUFFIX,icbc
 DOMAIN-SUFFIX,sohu
+DOMAIN-SUFFIX,tmall
 DOMAIN-SUFFIX,unicom
 DOMAIN-SUFFIX,wang
 DOMAIN-SUFFIX,xn--1qqw23a
