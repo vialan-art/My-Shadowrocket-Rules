@@ -1,5 +1,5 @@
 # Direct rules list for Shadowrocket
-# Generated on Thu Mar  5 18:10:51 UTC 2026
+# Generated on Thu Mar  5 19:55:34 UTC 2026
 
 
 # From: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
@@ -9134,12 +9134,12 @@ IP-CIDR,::1/128,DIRECT
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-04 02:19:42
+# UPDATED: 2026-03-06 02:40:51
 # DOMAIN: 307
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 116739
+# DOMAIN-SUFFIX: 116741
 # USER-AGENT: 65
-# TOTAL: 117124
+# TOTAL: 117126
 .0.zone
 .00.net
 .000.link
@@ -11385,6 +11385,7 @@ IP-CIDR,::1/128,DIRECT
 .17293879b10261.beer
 .172haoka.vip
 .172l.com
+.172mix.com
 .172tt.com
 .172xiaoyuan.com
 .173.com
@@ -67735,6 +67736,7 @@ IP-CIDR,::1/128,DIRECT
 .juziss.com
 .juzistore.com
 .juzisy.com
+.juziwulian.com
 .juzix.io
 .juzizhoutou.net
 .juzone.cc
@@ -126150,14 +126152,14 @@ zzq12345.gearhostpreview.com
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-04 02:19:09
+# UPDATED: 2026-03-06 02:40:17
 # DOMAIN: 308
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 117073
+# DOMAIN-SUFFIX: 117075
 # IP-ASN: 1
-# IP-CIDR: 12632
+# IP-CIDR: 12635
 # USER-AGENT: 65
-# TOTAL: 130092
+# TOTAL: 130097
 .0.zone
 .00.net
 .000.link
@@ -128403,6 +128405,7 @@ zzq12345.gearhostpreview.com
 .17293879b10261.beer
 .172haoka.vip
 .172l.com
+.172mix.com
 .172tt.com
 .172xiaoyuan.com
 .173.com
@@ -185032,6 +185035,7 @@ zzq12345.gearhostpreview.com
 .juziss.com
 .juzistore.com
 .juzisy.com
+.juziwulian.com
 .juzix.io
 .juzizhoutou.net
 .juzone.cc
@@ -247283,14 +247287,14 @@ www.yxssp.com
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-04 02:19:09
+# UPDATED: 2026-03-06 02:40:17
 # DOMAIN: 308
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 117073
+# DOMAIN-SUFFIX: 117075
 # IP-ASN: 1
-# IP-CIDR: 12632
+# IP-CIDR: 12635
 # USER-AGENT: 65
-# TOTAL: 130092
+# TOTAL: 130097
 DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,taobao
 DOMAIN-SUFFIX,tmall
@@ -247387,21 +247391,21 @@ USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*QIYI*
 USER-AGENT,DomesticMedia*
+USER-AGENT,MGTV*
+USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
 USER-AGENT,MOO*
+USER-AGENT,QQ%E9%9F%B3%E4%B9%90
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
 USER-AGENT,QQMusic*
 USER-AGENT,bilibili*
+USER-AGENT,live4iphone*
+USER-AGENT,qqlive4iphone*
 USER-AGENT,youku*
 USER-AGENT,Himalaya*
-USER-AGENT,MGTV*
+USER-AGENT,TencentMidasConnect*
 USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
 USER-AGENT,MiguVideo*
 USER-AGENT,baiduyinyue
-USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
-USER-AGENT,QQ%E9%9F%B3%E4%B9%90
-USER-AGENT,TencentMidasConnect*
-USER-AGENT,live4iphone*
-USER-AGENT,qqlive4iphone*
 USER-AGENT,MicroMessenger*
 USER-AGENT,WeChat*
 USER-AGENT,walkman*
@@ -257061,6 +257065,7 @@ IP-CIDR,2602:2e0:ff::/48,no-resolve
 IP-CIDR,2602:814:f006::/48,no-resolve
 IP-CIDR,2602:f46d:6::/48,no-resolve
 IP-CIDR,2602:f486:fe::/48,no-resolve
+IP-CIDR,2602:f612::/40,no-resolve
 IP-CIDR,2602:f7ee:ee::/48,no-resolve
 IP-CIDR,2602:f92a:124::/48,no-resolve
 IP-CIDR,2602:f92a:1314::/48,no-resolve
@@ -257183,6 +257188,9 @@ IP-CIDR,2a00:79e1:abc:ab00::/56,no-resolve
 IP-CIDR,2a00:8a05::/44,no-resolve
 IP-CIDR,2a01:b747:f4:11a::/64,no-resolve
 IP-CIDR,2a01:ce9e:8000::/33,no-resolve
+IP-CIDR,2a01:e281:aafa::/47,no-resolve
+IP-CIDR,2a01:e281:aafd::/48,no-resolve
+IP-CIDR,2a01:e281:aafe::/47,no-resolve
 IP-CIDR,2a01:f100:1f8::/48,no-resolve
 IP-CIDR,2a01:fb05:5000::/36,no-resolve
 IP-CIDR,2a02:26f7:c400:4000::/64,no-resolve
@@ -257337,6 +257345,7 @@ IP-CIDR,2a06:a005:260::/43,no-resolve
 IP-CIDR,2a06:a005:280::/43,no-resolve
 IP-CIDR,2a06:a005:2910::/44,no-resolve
 IP-CIDR,2a06:a005:2a0::/44,no-resolve
+IP-CIDR,2a06:a005:4b2::/48,no-resolve
 IP-CIDR,2a06:a005:770::/48,no-resolve
 IP-CIDR,2a06:a005:8d0::/44,no-resolve
 IP-CIDR,2a06:a005:a13::/48,no-resolve
@@ -258611,7 +258620,8 @@ IP-CIDR,2a0f:1cc5:203::/48,no-resolve
 IP-CIDR,2a0f:1cc5:20::/44,no-resolve
 IP-CIDR,2a0f:1cc5:2300::/40,no-resolve
 IP-CIDR,2a0f:1cc5:2600::/44,no-resolve
-IP-CIDR,2a0f:1cc5:2630::/44,no-resolve
+IP-CIDR,2a0f:1cc5:2620::/43,no-resolve
+IP-CIDR,2a0f:1cc5:2640::/44,no-resolve
 IP-CIDR,2a0f:1cc5:2d01::/48,no-resolve
 IP-CIDR,2a0f:1cc5:2d02::/48,no-resolve
 IP-CIDR,2a0f:1cc5:2e01::/48,no-resolve
@@ -258870,10 +258880,7 @@ IP-CIDR,2a14:7583:f70c::/48,no-resolve
 IP-CIDR,2a14:7583:f743::/48,no-resolve
 IP-CIDR,2a14:7583:f744::/48,no-resolve
 IP-CIDR,2a14:7583:f764::/48,no-resolve
-IP-CIDR,2a14:7586:6100::/47,no-resolve
-IP-CIDR,2a14:7586:6103::/48,no-resolve
-IP-CIDR,2a14:7586:6105::/48,no-resolve
-IP-CIDR,2a14:7586:6106::/47,no-resolve
+IP-CIDR,2a14:7586:6100::/45,no-resolve
 IP-CIDR,2a14:7c0:5103::/48,no-resolve
 IP-CIDR,2a14:7dc0:510::/47,no-resolve
 IP-CIDR,2a14:7dc0:515::/48,no-resolve
@@ -260051,12 +260058,12 @@ IP-ASN,132203,no-resolve
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-04 02:19:42
+# UPDATED: 2026-03-06 02:40:52
 # DOMAIN: 307
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 116739
+# DOMAIN-SUFFIX: 116741
 # USER-AGENT: 65
-# TOTAL: 117124
+# TOTAL: 117126
 DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,tmall
 DOMAIN-SUFFIX,cn
@@ -260150,21 +260157,21 @@ USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*QIYI*
 USER-AGENT,DomesticMedia*
+USER-AGENT,MGTV*
+USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
 USER-AGENT,MOO*
+USER-AGENT,QQ%E9%9F%B3%E4%B9%90
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
 USER-AGENT,QQMusic*
 USER-AGENT,bilibili*
+USER-AGENT,live4iphone*
+USER-AGENT,qqlive4iphone*
 USER-AGENT,youku*
 USER-AGENT,Himalaya*
-USER-AGENT,MGTV*
+USER-AGENT,TencentMidasConnect*
 USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
 USER-AGENT,MiguVideo*
 USER-AGENT,baiduyinyue
-USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
-USER-AGENT,QQ%E9%9F%B3%E4%B9%90
-USER-AGENT,TencentMidasConnect*
-USER-AGENT,live4iphone*
-USER-AGENT,qqlive4iphone*
 USER-AGENT,MicroMessenger*
 USER-AGENT,WeChat*
 USER-AGENT,walkman*
