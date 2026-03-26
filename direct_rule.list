@@ -1,5 +1,5 @@
 # Direct rules list for Shadowrocket
-# Generated on Thu Mar 26 07:17:28 UTC 2026
+# Generated on Thu Mar 26 09:04:26 UTC 2026
 
 
 # From: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
@@ -245676,80 +245676,8 @@ zzlive.zzc-media.com
 zzq12345.gearhostpreview.com
 
 # From: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/China/China.list
-# NAME: China
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-08 02:08:15
-# DOMAIN: 20
-# DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 3678
-# IP-CIDR: 21
-# USER-AGENT: 31
-# TOTAL: 3759
-DOMAIN-SUFFIX,cn
-DOMAIN-SUFFIX,ms
-DOMAIN-KEYWORD,.tmall.com
-DOMAIN-KEYWORD,alicdn
-DOMAIN-KEYWORD,alipay
-DOMAIN-KEYWORD,aliyun
-DOMAIN-KEYWORD,baidu
-DOMAIN-KEYWORD,beplay
-DOMAIN-KEYWORD,microsoft
-DOMAIN-KEYWORD,officecdn
-DOMAIN-KEYWORD,taobao
-USER-AGENT,%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C*
-USER-AGENT,%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*
-USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
-USER-AGENT,%E4%BC%98%E9%85%B7*
-USER-AGENT,%E5%8D%B3%E5%88%BB*
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
-USER-AGENT,*Vainglory*
-USER-AGENT,AdBlock*
-USER-AGENT,Best%20Trace*
-USER-AGENT,MegaWerewolf*
-USER-AGENT,MicroMessenger%20Client
-USER-AGENT,MicroMessenger*
-USER-AGENT,MicroMessengerClient*
-USER-AGENT,Microsoft*
-USER-AGENT,Moke*
-USER-AGENT,NeteaseMusic*
-USER-AGENT,QQ*
-USER-AGENT,RemotePlay*
-USER-AGENT,TIM*
-USER-AGENT,TeamViewer*
-USER-AGENT,WeChat*
-USER-AGENT,WebTorrent*
-USER-AGENT,YYeTs*
-USER-AGENT,arrowio*
-USER-AGENT,balls*
-USER-AGENT,cmb*
-USER-AGENT,cmblife*
-USER-AGENT,eusoft_ting_en_iphone
-USER-AGENT,hearthstone*
-USER-AGENT,hide*
-USER-AGENT,ting_en
-IP-CIDR,1.255.62.0/24,no-resolve
-IP-CIDR,101.32.104.0/21,no-resolve
-IP-CIDR,101.32.118.0/23,no-resolve
-IP-CIDR,101.32.96.0/20,no-resolve
-IP-CIDR,119.28.28.28/32,no-resolve
-IP-CIDR,120.195.181.180/32,no-resolve
-IP-CIDR,129.226.0.0/16,no-resolve
-IP-CIDR,182.254.116.0/24,no-resolve
-IP-CIDR,183.128.0.0/11,no-resolve
-IP-CIDR,183.131.48.0/20,no-resolve
-IP-CIDR,185.188.32.0/22,no-resolve
-IP-CIDR,185.188.32.0/24,no-resolve
-IP-CIDR,185.188.33.0/24,no-resolve
-IP-CIDR,185.188.34.0/24,no-resolve
-IP-CIDR,185.188.35.0/24,no-resolve
-IP-CIDR,203.205.238.0/23,no-resolve
-IP-CIDR,203.205.254.0/23,no-resolve
-IP-CIDR,2a0b:b580::/48,no-resolve
-IP-CIDR,2a0b:b581::/48,no-resolve
-IP-CIDR,2a0b:b582::/48,no-resolve
-IP-CIDR,2a0b:b583::/48,no-resolve
-
+429: Too Many Requests
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
 # From: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/China/China_Domain.list
 # NAME: China
 # AUTHOR: blackmatrix7
@@ -262305,143 +262233,8 @@ USER-AGENT,Youku*
 USER-AGENT,iQIYI*
 
 # From: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/BiliBili/BiliBili.list
-# NAME: BiliBili
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:17:01
-# DOMAIN: 53
-# DOMAIN-SUFFIX: 62
-# IP-CIDR: 8
-# USER-AGENT: 4
-# TOTAL: 127
-DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
-DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
-DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com
-DOMAIN,0gr4uqmtt8y41hcjsgrzdrctt.ourdvsss.com
-DOMAIN,0gr4uqmtt8y41hcjsgrzdrctu.ourdvsss.com
-DOMAIN,0gr4uqmtt8y41hcjz8yzdnc31.ourdvsss.com
-DOMAIN,0gr4uqmtt8y41hcjz8yzdnc3t.ourdvsss.com
-DOMAIN,0gr4uqmtt8y41hcjzgazdrpba.ourdvsss.com
-DOMAIN,0gr4uqmtt8y41hcjzgazdrpbz.ourdvsss.com
-DOMAIN,0gr4uqmtt8y41hcjzgazdrpjt.ourdvsss.com
-DOMAIN,0gr5dgmttgha1hcj38yzdncb3.ourdvsss.com
-DOMAIN,112-81-125-43.dhost.00cdn.com
-DOMAIN,113-219-145-1.ksyungslb.com
-DOMAIN,114-236-92-129.ksyungslb.com
-DOMAIN,180-101-74-1.ksyungslb.com
-DOMAIN,1geadrmttge3nhcjwgazdope.ourdvsss.com
-DOMAIN,1geadrmttge3nhcjwgwzdqqe.ourdvsss.com
-DOMAIN,1gr3uomttgr31hcjo8yzdnco.ourdvsss.com
-DOMAIN,1gr3uomttgr31hcjo8yzdnpy.ourdvsss.com
-DOMAIN,1gr3uomttgr31hcjtgezdkcy.ourdvsss.com
-DOMAIN,1gr4uqmtt8y41hcjigazdqca.ourdvsss.com
-DOMAIN,1gr4uqmtt8y41hcjigazdqce.ourdvsss.com
-DOMAIN,1gr4uqmtt8y41hcjigazdqco.ourdvsss.com
-DOMAIN,1gr4uqmtt8y41hcjigazdqpo.ourdvsss.com
-DOMAIN,1gr4uqmtt8y41hcjzgwzdkqe.ourdvsss.com
-DOMAIN,1gr5dgmttgha1hcj38yzdcca.ourdvsss.com
-DOMAIN,1gr5dgmttgha1hcj38yzdcco.ourdvsss.com
-DOMAIN,1gr5dgmttgha1hcj38yzdkca.ourdvsss.com
-DOMAIN,1gr5dgmttgha1hcj38yzdkco.ourdvsss.com
-DOMAIN,1gr5dgmttgha1hcj38yzdkpe.ourdvsss.com
-DOMAIN,1gr5dgmttgha1hcj38yzdkpy.ourdvsss.com
-DOMAIN,1gr5dgmttgha1hcj38yzdkqy.ourdvsss.com
-DOMAIN,1gr5dgmttgha1hcj3gczdcpa.ourdvsss.com
-DOMAIN,1gr5dgmttgha1hcj3gczdcpe.ourdvsss.com
-DOMAIN,1gr5dgmttgha1hcj3gczdcpo.ourdvsss.com
-DOMAIN,1gr5dgmttgha1hcj3gczdcqy.ourdvsss.com
-DOMAIN,1gr5dgmttgha1hcttgrzdnpo.ourdvsss.com
-DOMAIN,1graukmttga4nhcjtgozdgce.ourdvsss.com
-DOMAIN,218-91-225-1.ksyungslb.com
-DOMAIN,219-155-150-1.ksyungslb.com
-DOMAIN,222-188-6-1.ksyungslb.com
-DOMAIN,36-104-134-1.ksyungslb.com
-DOMAIN,36-25-252-1.ksyungslb.com
-DOMAIN,3ge3drmttga5nhcbqge3ur.ourdvsss.com
-DOMAIN,3geauymtsgrzdnqbofa5do.ourdvsss.com
-DOMAIN,3geauymtsgrzdnqbofa5dy.ourdvsss.com
-DOMAIN,3geauymtsgrzdrcbzfahue.ourdvsss.com
-DOMAIN,3geauymtsgrzdrcbzfahuk.ourdvsss.com
-DOMAIN,4go41hcjtgazdoctqge4o.ourdvsss.com
-DOMAIN,p-bstarstatic.akamaized.net
-DOMAIN,p.bstarstatic.com
-DOMAIN,upos-bstar-mirrorakam.akamaized.net
-DOMAIN,upos-bstar1-mirrorakam.akamaized.net
-DOMAIN-SUFFIX,acg.tv
-DOMAIN-SUFFIX,acgvideo.com
-DOMAIN-SUFFIX,animetamashi.cn
-DOMAIN-SUFFIX,animetamashi.com
-DOMAIN-SUFFIX,anitama.cn
-DOMAIN-SUFFIX,anitama.net
-DOMAIN-SUFFIX,b23.tv
-DOMAIN-SUFFIX,baka.im
-DOMAIN-SUFFIX,bigfun.cn
-DOMAIN-SUFFIX,bigfunapp.cn
-DOMAIN-SUFFIX,bili22.cn
-DOMAIN-SUFFIX,bili2233.cn
-DOMAIN-SUFFIX,bili23.cn
-DOMAIN-SUFFIX,bili33.cn
-DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,bilibili.cc
-DOMAIN-SUFFIX,bilibili.cn
-DOMAIN-SUFFIX,bilibili.co
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,bilibili.net
-DOMAIN-SUFFIX,bilibili.tv
-DOMAIN-SUFFIX,bilibiligame.cn
-DOMAIN-SUFFIX,bilibiligame.co
-DOMAIN-SUFFIX,bilibiligame.net
-DOMAIN-SUFFIX,bilibilipay.cn
-DOMAIN-SUFFIX,bilibilipay.com
-DOMAIN-SUFFIX,bilicdn1.com
-DOMAIN-SUFFIX,bilicdn2.com
-DOMAIN-SUFFIX,bilicdn3.com
-DOMAIN-SUFFIX,bilicdn4.com
-DOMAIN-SUFFIX,bilicdn5.com
-DOMAIN-SUFFIX,bilicomics.com
-DOMAIN-SUFFIX,biligame.cn
-DOMAIN-SUFFIX,biligame.co
-DOMAIN-SUFFIX,biligame.com
-DOMAIN-SUFFIX,biligame.net
-DOMAIN-SUFFIX,biligo.com
-DOMAIN-SUFFIX,biliimg.com
-DOMAIN-SUFFIX,biliintl.co
-DOMAIN-SUFFIX,biliintl.com
-DOMAIN-SUFFIX,biliplus.com
-DOMAIN-SUFFIX,bilivideo.cn
-DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,bilivideo.net
-DOMAIN-SUFFIX,corari.com
-DOMAIN-SUFFIX,dreamcast.hk
-DOMAIN-SUFFIX,dyhgames.com
-DOMAIN-SUFFIX,hdslb.com
-DOMAIN-SUFFIX,hdslb.com.w.kunlunhuf.com
-DOMAIN-SUFFIX,hdslb.com.w.kunlunpi.com
-DOMAIN-SUFFIX,hdslb.net
-DOMAIN-SUFFIX,hdslb.org
-DOMAIN-SUFFIX,im9.com
-DOMAIN-SUFFIX,maoercdn.com
-DOMAIN-SUFFIX,mcbbs.net
-DOMAIN-SUFFIX,mincdn.com
-DOMAIN-SUFFIX,sharejoytech.com
-DOMAIN-SUFFIX,smtcdns.net
-DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
-DOMAIN-SUFFIX,uposdash-302-bilivideo.yfcdn.net
-DOMAIN-SUFFIX,yo9.com
-USER-AGENT,*bili*
-USER-AGENT,Bilibili*
-USER-AGENT,bili*
-USER-AGENT,bili-inter*
-IP-CIDR,106.75.74.76/32,no-resolve
-IP-CIDR,111.206.25.147/32,no-resolve
-IP-CIDR,119.3.238.64/32,no-resolve
-IP-CIDR,120.92.108.182/32,no-resolve
-IP-CIDR,120.92.113.99/32,no-resolve
-IP-CIDR,120.92.153.217/32,no-resolve
-IP-CIDR,134.175.207.130/32,no-resolve
-IP-CIDR,203.107.1.0/24,no-resolve
-
+429: Too Many Requests
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
 # From: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/NetEaseMusic/NetEaseMusic.list
 # NAME: NetEaseMusic
 # AUTHOR: blackmatrix7
@@ -262743,16 +262536,8 @@ DOMAIN-SUFFIX,zuoyebang.com
 DOMAIN-SUFFIX,zybang.com
 
 # From: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/DouBan/DouBan.list
-# NAME: DouBan
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:17:33
-# DOMAIN-SUFFIX: 3
-# TOTAL: 3
-DOMAIN-SUFFIX,douban.com
-DOMAIN-SUFFIX,douban.fm
-DOMAIN-SUFFIX,doubanio.com
-
+429: Too Many Requests
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
 # From: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/WeChat/WeChat.list
 # NAME: WeChat
 # AUTHOR: blackmatrix7
