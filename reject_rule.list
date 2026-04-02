@@ -1,5 +1,5 @@
 # Reject rules list for Shadowrocket
-# Generated on Thu Apr  2 17:01:20 UTC 2026
+# Generated on Thu Apr  2 19:04:01 UTC 2026
 
 
 # From: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/BlockHttpDNS/BlockHttpDNS.list
@@ -40032,8 +40032,7 @@ IP-CIDR,59.111.239.62/32,no-resolve
 77.162.125.199
 
 # From: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/shadowrocket/adguardsdnsfilter/adguardsdnsfilter_domain.list
-429: Too Many Requests
-For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
+404: Not Found
 # From: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/Privacy/Privacy.list
 # NAME: Privacy
 # AUTHOR: blackmatrix7
