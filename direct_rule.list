@@ -1,5 +1,5 @@
 # Direct rules list for Shadowrocket
-# Generated on Thu Apr  9 17:14:06 UTC 2026
+# Generated on Thu Apr  9 19:16:01 UTC 2026
 
 
 # From: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
@@ -9134,12 +9134,12 @@ IP-CIDR,::1/128,DIRECT
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-04-04 02:17:28
-# DOMAIN: 310
+# UPDATED: 2026-04-10 02:26:02
+# DOMAIN: 312
 # DOMAIN-KEYWORD: 13
 # DOMAIN-SUFFIX: 117926
 # USER-AGENT: 65
-# TOTAL: 118314
+# TOTAL: 118316
 .0.zone
 .00.net
 .000.link
@@ -127110,6 +127110,7 @@ fash1043.cloudycdn.services
 fcs.dell.com
 file.hhtv.cc
 file.mb.leshantv.net
+firebase-settings.crashlytics.com
 flv.drs.tv.yatv.tv
 fm901.cityfm.tw
 fm929.cityfm.tw
@@ -127300,6 +127301,7 @@ tv.drs.hhtv.cc
 tv.nknews.org
 tx.lilyemby.com
 uni6rtmp.tulix.tv
+update.crashlytics.com
 uplaypc-s-ubisoft.cdn.ubi.com
 v1.one-tv.com
 vip888.kuyun99.com
@@ -127340,14 +127342,14 @@ zzq12345.gearhostpreview.com
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-04-08 02:23:43
-# DOMAIN: 311
+# UPDATED: 2026-04-10 02:25:28
+# DOMAIN: 313
 # DOMAIN-KEYWORD: 13
 # DOMAIN-SUFFIX: 118260
 # IP-ASN: 1
-# IP-CIDR: 12244
+# IP-CIDR: 12251
 # USER-AGENT: 65
-# TOTAL: 130894
+# TOTAL: 130903
 .0.zone
 .00.net
 .000.link
@@ -245650,6 +245652,7 @@ fash1043.cloudycdn.services
 fcs.dell.com
 file.hhtv.cc
 file.mb.leshantv.net
+firebase-settings.crashlytics.com
 flv.drs.tv.yatv.tv
 fm901.cityfm.tw
 fm929.cityfm.tw
@@ -245840,6 +245843,7 @@ tv.drs.hhtv.cc
 tv.nknews.org
 tx.lilyemby.com
 uni6rtmp.tulix.tv
+update.crashlytics.com
 uplaypc-s-ubisoft.cdn.ubi.com
 v1.one-tv.com
 vip888.kuyun99.com
@@ -245880,13 +245884,13 @@ zzq12345.gearhostpreview.com
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-08 02:08:15
+# UPDATED: 2026-04-10 02:24:17
 # DOMAIN: 20
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 3678
+# DOMAIN-SUFFIX: 3677
 # IP-CIDR: 21
 # USER-AGENT: 31
-# TOTAL: 3759
+# TOTAL: 3758
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
 DOMAIN-KEYWORD,.tmall.com
@@ -245955,13 +245959,13 @@ IP-CIDR,2a0b:b583::/48,no-resolve
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-08 02:08:15
+# UPDATED: 2026-04-10 02:24:17
 # DOMAIN: 20
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 3678
+# DOMAIN-SUFFIX: 3677
 # IP-CIDR: 21
 # USER-AGENT: 31
-# TOTAL: 3759
+# TOTAL: 3758
 .00cdn.com
 .0123456789.com
 .0379home.com
@@ -246969,7 +246973,6 @@ IP-CIDR,2a0b:b583::/48,no-resolve
 .cqccn.com
 .cqvip.com
 .cr173.com
-.crashlytics.com
 .crggcn.com
 .crsky.com
 .cryuantafund.com
@@ -249663,23 +249666,23 @@ www.yxssp.com
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-04-08 02:23:43
-# DOMAIN: 311
+# UPDATED: 2026-04-10 02:25:29
+# DOMAIN: 313
 # DOMAIN-KEYWORD: 13
 # DOMAIN-SUFFIX: 118260
 # IP-ASN: 1
-# IP-CIDR: 12244
+# IP-CIDR: 12251
 # USER-AGENT: 65
-# TOTAL: 130894
-DOMAIN-SUFFIX,alipay
+# TOTAL: 130903
+DOMAIN-SUFFIX,alibaba
+DOMAIN-SUFFIX,taobao
+DOMAIN-SUFFIX,tmall
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
-DOMAIN-SUFFIX,alibaba
+DOMAIN-SUFFIX,alipay
 DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,citic
 DOMAIN-SUFFIX,sohu
-DOMAIN-SUFFIX,taobao
-DOMAIN-SUFFIX,tmall
 DOMAIN-SUFFIX,unicom
 DOMAIN-SUFFIX,wang
 DOMAIN-SUFFIX,xn--1qqw23a
@@ -249724,10 +249727,10 @@ DOMAIN-KEYWORD,beplay
 DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,bilibili
-DOMAIN-KEYWORD,qiyi
 DOMAIN-KEYWORD,hnagroup
 DOMAIN-KEYWORD,stripe
 DOMAIN-KEYWORD,weibo
+DOMAIN-KEYWORD,qiyi
 USER-AGENT,*bili*
 USER-AGENT,Bilibili*
 USER-AGENT,bili*
@@ -249738,6 +249741,7 @@ USER-AGENT,%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*
 USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
 USER-AGENT,%E4%BC%98%E9%85%B7*
 USER-AGENT,%E5%8D%B3%E5%88%BB*
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*Vainglory*
 USER-AGENT,AdBlock*
 USER-AGENT,Best%20Trace*
@@ -249747,6 +249751,7 @@ USER-AGENT,MicroMessenger*
 USER-AGENT,MicroMessengerClient*
 USER-AGENT,Microsoft*
 USER-AGENT,Moke*
+USER-AGENT,NeteaseMusic*
 USER-AGENT,QQ*
 USER-AGENT,RemotePlay*
 USER-AGENT,TIM*
@@ -249771,20 +249776,13 @@ USER-AGENT,DomesticMedia*
 USER-AGENT,MGTV*
 USER-AGENT,MOO*
 USER-AGENT,MiguVideo*
-USER-AGENT,PPStream*
-USER-AGENT,QIYI*
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
 USER-AGENT,QQMusic*
-USER-AGENT,QYPlayer*
 USER-AGENT,Youku*
-USER-AGENT,baiduyinyue
 USER-AGENT,bilibili*
-USER-AGENT,iQiYi*
-USER-AGENT,iQiyi*
 USER-AGENT,youku*
 USER-AGENT,Himalaya*
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
-USER-AGENT,NeteaseMusic*
+USER-AGENT,baiduyinyue
 USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
 USER-AGENT,QQ%E9%9F%B3%E4%B9%90
 USER-AGENT,TencentMidasConnect*
@@ -249792,7 +249790,12 @@ USER-AGENT,live4iphone*
 USER-AGENT,qqlive4iphone*
 USER-AGENT,walkman*
 USER-AGENT,xiami*
+USER-AGENT,PPStream*
+USER-AGENT,QIYI*
+USER-AGENT,QYPlayer*
 USER-AGENT,iQIYI*
+USER-AGENT,iQiYi*
+USER-AGENT,iQiyi*
 IP-CIDR,0.0.0.0/32,no-resolve
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
@@ -252102,7 +252105,10 @@ IP-CIDR,104.212.68.151/32,no-resolve
 IP-CIDR,104.212.68.152/32,no-resolve
 IP-CIDR,104.212.68.57/32,no-resolve
 IP-CIDR,104.212.68.58/32,no-resolve
+IP-CIDR,104.219.211.0/24,no-resolve
 IP-CIDR,104.227.65.96/28,no-resolve
+IP-CIDR,104.233.144.0/21,no-resolve
+IP-CIDR,104.233.159.0/24,no-resolve
 IP-CIDR,104.237.80.0/21,no-resolve
 IP-CIDR,104.27.168.0/24,no-resolve
 IP-CIDR,104.28.101.0/27,no-resolve
@@ -252422,6 +252428,9 @@ IP-CIDR,106.56.0.0/13,no-resolve
 IP-CIDR,106.74.0.0/15,no-resolve
 IP-CIDR,106.8.0.0/15,no-resolve
 IP-CIDR,106.80.0.0/12,no-resolve
+IP-CIDR,107.148.150.0/23,no-resolve
+IP-CIDR,107.148.84.0/23,no-resolve
+IP-CIDR,107.149.198.0/23,no-resolve
 IP-CIDR,107.150.125.199/32,no-resolve
 IP-CIDR,107.151.212.0/24,no-resolve
 IP-CIDR,107.153.91.0/24,no-resolve
@@ -254168,6 +254177,7 @@ IP-CIDR,194.138.136.0/24,no-resolve
 IP-CIDR,194.138.202.0/23,no-resolve
 IP-CIDR,194.138.245.0/24,no-resolve
 IP-CIDR,194.156.99.0/24,no-resolve
+IP-CIDR,194.231.140.0/24,no-resolve
 IP-CIDR,194.45.55.8/30,no-resolve
 IP-CIDR,194.50.111.48/32,no-resolve
 IP-CIDR,194.50.99.48/32,no-resolve
@@ -255927,7 +255937,6 @@ IP-CIDR,218.213.92.0/24,no-resolve
 IP-CIDR,218.240.0.0/13,no-resolve
 IP-CIDR,218.249.0.0/16,no-resolve
 IP-CIDR,218.252.0.0/17,no-resolve
-IP-CIDR,218.252.128.0/19,no-resolve
 IP-CIDR,218.253.0.0/18,no-resolve
 IP-CIDR,218.56.0.0/13,no-resolve
 IP-CIDR,218.64.0.0/11,no-resolve
@@ -260967,6 +260976,7 @@ IP-CIDR,38.103.64.26/32,no-resolve
 IP-CIDR,38.105.24.0/24,no-resolve
 IP-CIDR,38.105.26.0/23,no-resolve
 IP-CIDR,38.105.28.0/22,no-resolve
+IP-CIDR,38.12.3.0/24,no-resolve
 IP-CIDR,38.134.56.0/24,no-resolve
 IP-CIDR,38.134.58.0/23,no-resolve
 IP-CIDR,38.181.0.0/19,no-resolve
@@ -262043,18 +262053,18 @@ IP-ASN,132203,no-resolve
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-04-08 02:24:18
-# DOMAIN: 310
+# UPDATED: 2026-04-10 02:26:03
+# DOMAIN: 312
 # DOMAIN-KEYWORD: 13
 # DOMAIN-SUFFIX: 117926
 # USER-AGENT: 65
-# TOTAL: 118314
+# TOTAL: 118316
+DOMAIN-SUFFIX,alibaba
+DOMAIN-SUFFIX,tmall
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
-DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,citic
 DOMAIN-SUFFIX,sohu
-DOMAIN-SUFFIX,tmall
 DOMAIN-SUFFIX,unicom
 DOMAIN-SUFFIX,wang
 DOMAIN-SUFFIX,xn--1qqw23a
@@ -262099,10 +262109,10 @@ DOMAIN-KEYWORD,beplay
 DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,bilibili
-DOMAIN-KEYWORD,qiyi
 DOMAIN-KEYWORD,hnagroup
 DOMAIN-KEYWORD,stripe
 DOMAIN-KEYWORD,weibo
+DOMAIN-KEYWORD,qiyi
 USER-AGENT,*bili*
 USER-AGENT,Bilibili*
 USER-AGENT,bili*
@@ -262113,6 +262123,7 @@ USER-AGENT,%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*
 USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
 USER-AGENT,%E4%BC%98%E9%85%B7*
 USER-AGENT,%E5%8D%B3%E5%88%BB*
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*Vainglory*
 USER-AGENT,AdBlock*
 USER-AGENT,Best%20Trace*
@@ -262122,6 +262133,7 @@ USER-AGENT,MicroMessenger*
 USER-AGENT,MicroMessengerClient*
 USER-AGENT,Microsoft*
 USER-AGENT,Moke*
+USER-AGENT,NeteaseMusic*
 USER-AGENT,QQ*
 USER-AGENT,RemotePlay*
 USER-AGENT,TIM*
@@ -262146,20 +262158,13 @@ USER-AGENT,DomesticMedia*
 USER-AGENT,MGTV*
 USER-AGENT,MOO*
 USER-AGENT,MiguVideo*
-USER-AGENT,PPStream*
-USER-AGENT,QIYI*
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
 USER-AGENT,QQMusic*
-USER-AGENT,QYPlayer*
 USER-AGENT,Youku*
-USER-AGENT,baiduyinyue
 USER-AGENT,bilibili*
-USER-AGENT,iQiYi*
-USER-AGENT,iQiyi*
 USER-AGENT,youku*
 USER-AGENT,Himalaya*
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
-USER-AGENT,NeteaseMusic*
+USER-AGENT,baiduyinyue
 USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
 USER-AGENT,QQ%E9%9F%B3%E4%B9%90
 USER-AGENT,TencentMidasConnect*
@@ -262167,7 +262172,12 @@ USER-AGENT,live4iphone*
 USER-AGENT,qqlive4iphone*
 USER-AGENT,walkman*
 USER-AGENT,xiami*
+USER-AGENT,PPStream*
+USER-AGENT,QIYI*
+USER-AGENT,QYPlayer*
 USER-AGENT,iQIYI*
+USER-AGENT,iQiYi*
+USER-AGENT,iQiyi*
 
 # From: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/BiliBili/BiliBili.list
 # NAME: BiliBili
@@ -262843,15 +262853,15 @@ DOMAIN-SUFFIX,xiaohongshu.com
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-08 02:08:15
+# UPDATED: 2026-04-10 02:24:17
 # HOST: 20
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 3678
+# HOST-SUFFIX: 3677
 # HOST-WILDCARD: 1
 # IP-CIDR: 17
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 3760
+# TOTAL: 3759
 HOST,analytics.strava.com,China
 HOST,blzddist1-a.akamaihd.net,China
 HOST,cdn.angruo.com,China
@@ -263880,7 +263890,6 @@ HOST-SUFFIX,cpppf.org,China
 HOST-SUFFIX,cqccn.com,China
 HOST-SUFFIX,cqvip.com,China
 HOST-SUFFIX,cr173.com,China
-HOST-SUFFIX,crashlytics.com,China
 HOST-SUFFIX,crggcn.com,China
 HOST-SUFFIX,crsky.com,China
 HOST-SUFFIX,cryuantafund.com,China
