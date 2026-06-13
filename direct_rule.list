@@ -1,5 +1,5 @@
 # Direct rules list for Shadowrocket
-# Generated on Sat Jun 13 18:13:49 UTC 2026
+# Generated on Sat Jun 13 20:20:19 UTC 2026
 
 
 # From: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
@@ -9134,12 +9134,12 @@ IP-CIDR,::1/128,DIRECT
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-06-12 03:05:25
-# DOMAIN: 303
+# UPDATED: 2026-06-14 02:35:04
+# DOMAIN: 302
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 112499
+# DOMAIN-SUFFIX: 112386
 # USER-AGENT: 65
-# TOTAL: 112880
+# TOTAL: 112766
 .0.zone
 .00.net
 .000.link
@@ -11028,7 +11028,6 @@ IP-CIDR,::1/128,DIRECT
 .13a.com
 .13c283b0710281.beer
 .13cr.com
-.13e7.com
 .13ejob.com
 .13freight.com
 .13jue.com
@@ -11246,7 +11245,6 @@ IP-CIDR,::1/128,DIRECT
 .168zcw.com
 .169.com
 .169163.com
-.16925500.xyz
 .169369.com
 .16949pcb.com
 .1696.com
@@ -12417,6 +12415,7 @@ IP-CIDR,::1/128,DIRECT
 .264006.com
 .264321.com
 .264400.com
+.265.com
 .26582.vip
 .26595.com
 .265g.com
@@ -13818,7 +13817,6 @@ IP-CIDR,::1/128,DIRECT
 .4006806555.com
 .4006906600.com
 .4007051668.com
-.4007108885.net
 .4007112366.com
 .4007123123.com
 .4007777958.com
@@ -14266,7 +14264,6 @@ IP-CIDR,::1/128,DIRECT
 .5011.net
 .501h.com
 .501wan.com
-.502258.com
 .50257e08d1015.beer
 .5026p06ot6.com
 .503118.com
@@ -15542,7 +15539,6 @@ IP-CIDR,::1/128,DIRECT
 .56shangpu.com
 .56show.com
 .56shuku.org
-.56sing.com
 .56steel.com
 .56tchr.com
 .56tim.com
@@ -15561,7 +15557,6 @@ IP-CIDR,::1/128,DIRECT
 .57273vy9x0.com
 .57357.vip
 .574e313cc10272.beer
-.5755.com
 .576.com
 .57608.com
 .5760x.com
@@ -16488,6 +16483,7 @@ IP-CIDR,::1/128,DIRECT
 .698wan.com
 .69916666.com
 .699333.xyz
+.6996696.xyz
 .69981.com
 .699h5.com
 .699pic.com
@@ -16798,7 +16794,6 @@ IP-CIDR,::1/128,DIRECT
 .737698.xyz
 .73789.com
 .73864.org
-.73925.work
 .73980.org
 .7399.com
 .73bc.com
@@ -17935,7 +17930,6 @@ IP-CIDR,::1/128,DIRECT
 .912yx.com
 .91300.com
 .9133.com
-.9136.com
 .91360.com
 .91378.com
 .913aefac85f5bf8f.com
@@ -19537,6 +19531,7 @@ IP-CIDR,::1/128,DIRECT
 .adxqd.com
 .adxwork.com
 .adxyun.com
+.adxzoo.com
 .adyoc.com
 .adyounger.com
 .adyuedong.com
@@ -20575,7 +20570,6 @@ IP-CIDR,::1/128,DIRECT
 .akniu.com
 .akoeva.com
 .akomr.com
-.akoo0509uis.com
 .akpig.com
 .akplayer.com
 .akppt.net
@@ -21824,7 +21818,6 @@ IP-CIDR,::1/128,DIRECT
 .aquair-china.com
 .aquanliang.com
 .aquanutriera.com
-.aquanyou.com
 .aquapipetech.com
 .aquaterramail.com
 .aquathlondenice.com
@@ -22293,6 +22286,7 @@ IP-CIDR,::1/128,DIRECT
 .augurit.com
 .augustcn.com
 .auiou.com
+.aukcl.win
 .aulacn.com
 .auldey.com
 .aumantruck.com
@@ -22910,7 +22904,6 @@ IP-CIDR,::1/128,DIRECT
 .baby-bus.com
 .baby-joy.com
 .baby577.com
-.baby611.com
 .baby7blog.com
 .baby868.com
 .babybus.com
@@ -23414,7 +23407,6 @@ IP-CIDR,::1/128,DIRECT
 .banniuyun.com
 .banqumusic.com
 .bansha.com
-.banshangong.com
 .banshier.com
 .bantangapp.com
 .bantouyan.com
@@ -25585,6 +25577,7 @@ IP-CIDR,::1/128,DIRECT
 .bjrc.com
 .bjrcb.com
 .bjrdhx.com
+.bjrenze.com
 .bjreview.com
 .bjrjgj.com
 .bjrjtdkj.com
@@ -26529,7 +26522,6 @@ IP-CIDR,::1/128,DIRECT
 .brandsitejp.com
 .brandvista.com
 .brasilcn.com
-.braveybelief.com
 .bravognss.com
 .brazzaleqingdao.com
 .brcpower.com
@@ -27488,7 +27480,6 @@ IP-CIDR,::1/128,DIRECT
 .cada.cc
 .caddcc.com
 .cadenzayueqi.com
-.cadforex.com
 .cadict.net
 .cadmon.net
 .cadreg.com
@@ -27945,7 +27936,6 @@ IP-CIDR,::1/128,DIRECT
 .casbin.org
 .casboc.com
 .cascadepharm.com
-.casctcp.com
 .casdoor.com
 .casdoor.org
 .case91.com
@@ -28654,7 +28644,6 @@ IP-CIDR,::1/128,DIRECT
 .cdn-build.net
 .cdn-cba.com
 .cdn-cdn.net
-.cdn-gw-dv.net
 .cdn-speed.com
 .cdn-static.farfetch-contents.com
 .cdn-uc.cc
@@ -28889,7 +28878,6 @@ IP-CIDR,::1/128,DIRECT
 .cduncname.com
 .cdvcloud.com
 .cdvisor.com
-.cdwulian.com
 .cdxdyy.com
 .cdxrdz.com
 .cdxsxbx.com
@@ -29121,7 +29109,6 @@ IP-CIDR,::1/128,DIRECT
 .cersign.com
 .cersp.com
 .certicn.com
-.certificatey.com
 .ces-transaction.com
 .cese2.com
 .cesfn.com
@@ -29635,7 +29622,6 @@ IP-CIDR,::1/128,DIRECT
 .chargerlab.com
 .chargerlink.com
 .chariotpharm.com
-.charlinserver.online
 .charlsdata.com
 .charmdeer.com
 .charmingglobe.com
@@ -31547,7 +31533,6 @@ IP-CIDR,::1/128,DIRECT
 .chuangx.org
 .chuangxin.com
 .chuangxinapi.com
-.chuangxinbateng.com
 .chuangxinoa.com
 .chuangxuan.xyz
 .chuangyebaba.com
@@ -32209,6 +32194,7 @@ IP-CIDR,::1/128,DIRECT
 .clloz.com
 .clmpg.com
 .clngaa.com
+.clockin.biz
 .cloopen.com
 .cloopen.net
 .cloopm.com
@@ -33969,7 +33955,6 @@ IP-CIDR,::1/128,DIRECT
 .cooltechsh.com
 .cooltuku.com
 .cooluc.com
-.coolwarmsy.com
 .coolweb.work
 .coolwei.com
 .coolxcloud.com
@@ -34473,9 +34458,7 @@ IP-CIDR,::1/128,DIRECT
 .cqjsd.com
 .cqjtedu.com
 .cqjtsn.com
-.cqjunan.com
 .cqjx.net
-.cqjy.com
 .cqjyfcyy.com
 .cqjyhuida.com
 .cqjyn.com
@@ -35690,7 +35673,6 @@ IP-CIDR,::1/128,DIRECT
 .cwitxoakk98d.com
 .cwjedu.com
 .cwjt.com
-.cwlchina.com
 .cwliupaotea.com
 .cwmcs.com
 .cwmzyyy.com
@@ -36494,7 +36476,6 @@ IP-CIDR,::1/128,DIRECT
 .dalwiaebulon.com
 .dalwiakieyne.com
 .dalwiaresham.com
-.dalwl.work
 .dalyfeds.com
 .damai.com
 .damaicheng.com
@@ -36747,7 +36728,6 @@ IP-CIDR,::1/128,DIRECT
 .dashengpan.com
 .dashengshan.com
 .dashengzuji.com
-.dashenquan.com
 .dashentv.com
 .dashenw.com
 .dashgame.com
@@ -36969,6 +36949,7 @@ IP-CIDR,::1/128,DIRECT
 .daza168.com
 .dazhangfang.com
 .dazhangqiu.com
+.dazhe.com
 .dazhe5.com
 .dazheda.com
 .dazhengtop.com
@@ -37335,7 +37316,6 @@ IP-CIDR,::1/128,DIRECT
 .deeceal.com
 .deehon.com
 .deemos.com
-.deep-os.com
 .deep56.com
 .deepblog.net
 .deepcloudsdp.com
@@ -38149,7 +38129,6 @@ IP-CIDR,::1/128,DIRECT
 .digimons.net
 .digirepub.com
 .digisky.com
-.digit3ds.com
 .digital-hangzhou.com
 .digital-ren.com
 .digitalchina.com
@@ -39390,6 +39369,7 @@ IP-CIDR,::1/128,DIRECT
 .doyoo.net
 .doyoudo.com
 .doyouhike.net
+.doyys.com
 .dozview.com
 .dp.tech
 .dp168.com
@@ -39583,7 +39563,6 @@ IP-CIDR,::1/128,DIRECT
 .dscq.com
 .dsdbxg.com
 .dsdod.com
-.dsdyf.com
 .dseman.com
 .dser.com
 .dsfdy.com
@@ -40186,7 +40165,6 @@ IP-CIDR,::1/128,DIRECT
 .dynavolt.net
 .dynguyeniq.com
 .dyonr.com
-.dypf8.com
 .dyqc.com
 .dyqh.info
 .dyqm888.com
@@ -40214,7 +40192,6 @@ IP-CIDR,::1/128,DIRECT
 .dyxldjy.com
 .dyxsdwm.com
 .dyxtw.com
-.dyxuexin.com
 .dyxw.com
 .dyxz.la
 .dyxzyy.com
@@ -40585,7 +40562,6 @@ IP-CIDR,::1/128,DIRECT
 .eastcoms.com
 .eastday.com
 .eastdesign.net
-.eastdrama.com
 .eastdushi.com
 .easteat.com
 .eastecloud.com
@@ -41070,7 +41046,6 @@ IP-CIDR,::1/128,DIRECT
 .eduic-sh.com
 .eduiso.com
 .edujia.com
-.edujianshe.com
 .edukuang.com
 .edulawonline.com
 .edulivevideo.com
@@ -41105,7 +41080,6 @@ IP-CIDR,::1/128,DIRECT
 .eduzs.net
 .edwiv.com
 .edxmy.cc
-.ee-nav.com
 .ee067e33bd637916.com
 .ee123.net
 .ee1234.com
@@ -41951,7 +41925,6 @@ IP-CIDR,::1/128,DIRECT
 .ernaonet.com
 .ernest.me
 .eroacg.com
-.eromesalo.com
 .erongdu.com
 .erp321.com
 .erp321.net
@@ -42375,6 +42348,7 @@ IP-CIDR,::1/128,DIRECT
 .ewtp.org
 .ewu.cc
 .ewuzhen.com
+.ewytek.com
 .ewzqsyuc.link
 .ex-silver.com
 .ex-starch.com
@@ -42437,7 +42411,6 @@ IP-CIDR,::1/128,DIRECT
 .exmrw.com
 .exnpk.com
 .exntech.com
-.exp99.com
 .expba.com
 .expdns.net
 .expec-tech.com
@@ -42548,7 +42521,6 @@ IP-CIDR,::1/128,DIRECT
 .eyourbusiness.com
 .eyouwx.com
 .eyprint.com
-.eyspwkg.com
 .eyuangong.com
 .eyuconnect.com
 .eyugame.com
@@ -42711,7 +42683,6 @@ IP-CIDR,::1/128,DIRECT
 .fabiao.com
 .fabiaoqing.com
 .fabigbig.com
-.fablusa.com
 .fabpo.com
 .fabu.io
 .fabu114.com
@@ -43214,7 +43185,6 @@ IP-CIDR,::1/128,DIRECT
 .fcboxmall.com
 .fcbs999.com
 .fcbsgroup.com
-.fcbu.com
 .fcc8aa32d10251.beer
 .fccs.com
 .fccscar.com
@@ -44314,7 +44284,6 @@ IP-CIDR,::1/128,DIRECT
 .flyenglish.com
 .flyert.com
 .flyertea.com
-.flyertrip.com
 .flyfishx.com
 .flyfunny.com
 .flygo.net
@@ -44449,7 +44418,6 @@ IP-CIDR,::1/128,DIRECT
 .folidaymall.com
 .folij9nry5cxy8.com
 .followintg.com
-.followsteel.com
 .folou.com
 .fondcosplay.com
 .foneplatform.com
@@ -45480,7 +45448,6 @@ IP-CIDR,::1/128,DIRECT
 .fzahw.com
 .fzaqjy.com
 .fzbbk.com
-.fzbdcj.com
 .fzbidding.com
 .fzbingo.com
 .fzbm.com
@@ -46046,7 +46013,6 @@ IP-CIDR,::1/128,DIRECT
 .gbimg.com
 .gbma.org
 .gbofd.com
-.gbox.pub
 .gboxchina.com
 .gbphar.com
 .gbskptu1044.vip
@@ -47372,7 +47338,6 @@ IP-CIDR,::1/128,DIRECT
 .gggzhi.com
 .gggzpw.com
 .gghb.cloud
-.gghcgg.com
 .gghosp.net
 .gghs.info
 .gghualong.com
@@ -48140,7 +48105,6 @@ IP-CIDR,::1/128,DIRECT
 .godo.pub
 .godoor.com
 .godotcn.com
-.godsendcn.com
 .godsheepteam.com
 .godsignal.com
 .godweiyang.com
@@ -48386,7 +48350,6 @@ IP-CIDR,::1/128,DIRECT
 .goodjili.com
 .goodjob100.com
 .goodlcm.com
-.goodlift.net
 .goodluckcalendar.com
 .goodmorening.com
 .goodnic.net
@@ -48545,7 +48508,6 @@ IP-CIDR,::1/128,DIRECT
 .gowlc.net
 .gowmo.com
 .gowonganinn.com
-.goww.net
 .goxytrbz.com
 .goyihu.com
 .goyoo.com
@@ -50688,7 +50650,6 @@ IP-CIDR,::1/128,DIRECT
 .gxmznzs.com
 .gxnantong.com
 .gxnapd.com
-.gxnbjc.com
 .gxnccq.com
 .gxncgd.com
 .gxnctzjt.com
@@ -51376,7 +51337,6 @@ IP-CIDR,::1/128,DIRECT
 .gxzjjtgs.com
 .gxzjy.com
 .gxzkl.com
-.gxzky.com
 .gxzkzs.com
 .gxzlcs.com
 .gxzldt.com
@@ -51481,6 +51441,7 @@ IP-CIDR,::1/128,DIRECT
 .gykgsx.com
 .gykqyy.com
 .gyljc.com
+.gylmob.com
 .gylwgjsyxx.com
 .gylwyy.com
 .gylxq.com
@@ -51738,7 +51699,6 @@ IP-CIDR,::1/128,DIRECT
 .gzhrsa.org
 .gzhsh.com
 .gzhstars.net
-.gzhtdz.com
 .gzhtinfo.com
 .gzhuake.cc
 .gzhuamei.net
@@ -52085,7 +52045,6 @@ IP-CIDR,::1/128,DIRECT
 .gzyct.com
 .gzydnewmaterial.com
 .gzydong.com
-.gzydwh.com
 .gzyfjsjt.com
 .gzyflw.com
 .gzyhg.vip
@@ -53423,7 +53382,6 @@ IP-CIDR,::1/128,DIRECT
 .hbhxgroup.com
 .hbhyychem.com
 .hbhz.net
-.hbiclqc.com
 .hbicpa.org
 .hbidc.net
 .hbifeng.com
@@ -53715,7 +53673,6 @@ IP-CIDR,::1/128,DIRECT
 .hcdyhr.com
 .hceia.com
 .hcepay.com
-.hcfac888.com
 .hcfc168.com
 .hcftyy.com
 .hcgaokong.com
@@ -54764,7 +54721,6 @@ IP-CIDR,::1/128,DIRECT
 .hholy.com
 .hhozw.com
 .hhpcbs.com
-.hhpj.net
 .hhpmzp.com
 .hhrcard.com
 .hhrcw.com
@@ -55148,7 +55104,6 @@ IP-CIDR,::1/128,DIRECT
 .hjdns.net
 .hjdshop.cc
 .hjdzn.com
-.hjenglish.com
 .hjg365.com
 .hjgcd.com
 .hjgroup-sdq.com
@@ -56421,7 +56376,6 @@ IP-CIDR,::1/128,DIRECT
 .hpgamestream.com
 .hpglw.com
 .hpgzf.com
-.hphwa.com
 .hpichina.org
 .hpicorp.net
 .hpigc.com
@@ -57256,7 +57210,6 @@ IP-CIDR,::1/128,DIRECT
 .huashilm.com
 .huashipharmacymtalionlineybpay.com
 .huashitong.net
-.huashphoto.com
 .huashui.com
 .huashuitax.com
 .huashunxinan.net
@@ -58211,7 +58164,6 @@ IP-CIDR,::1/128,DIRECT
 .hxchx.org
 .hxclouds.com
 .hxct.com
-.hxct.ltd
 .hxd56.com
 .hxdec.com
 .hxdi.com
@@ -58975,6 +58927,7 @@ IP-CIDR,::1/128,DIRECT
 .hzyzxx.net
 .hzzbco.com
 .hzzckg.com
+.hzzfcm.com
 .hzzfxx.com
 .hzzh.com
 .hzzhaobiao.com
@@ -60287,7 +60240,6 @@ IP-CIDR,::1/128,DIRECT
 .ilovechao.com
 .ilovefishc.com
 .iloveopened.com
-.ilovey.live
 .ilovezuan.com
 .ilovezz.com
 .ilsungf.com
@@ -61966,7 +61918,6 @@ IP-CIDR,::1/128,DIRECT
 .j-ui.com
 .j03og.app
 .j0g0.com
-.j1000plan.org
 .j1998.com
 .j1j5q683cj.world
 .j2ee.cc
@@ -64831,7 +64782,6 @@ IP-CIDR,::1/128,DIRECT
 .joybuy.es
 .joycity.mobi
 .joydin.com
-.joyes.com
 .joyfire.net
 .joyforce.com
 .joygames.com
@@ -67097,7 +67047,6 @@ IP-CIDR,::1/128,DIRECT
 .kci-gz.com
 .kciptv.com
 .kcjpharma.com
-.kcjyyjzzs.com
 .kcloudidc.com
 .kcm120.com
 .kcmice.com
@@ -67127,7 +67076,6 @@ IP-CIDR,::1/128,DIRECT
 .kdhj-edu.net
 .kdige.com
 .kdkefu.com
-.kdkh.com
 .kdlgs.com
 .kdnet.net
 .kdniao.com
@@ -67828,7 +67776,6 @@ IP-CIDR,::1/128,DIRECT
 .kllife.com
 .klmnf.com
 .klmy118114.com
-.klmybbs.com
 .klmymarathon.com
 .klmyssn.com
 .klner.com
@@ -67966,8 +67913,10 @@ IP-CIDR,::1/128,DIRECT
 .ko0.com
 .koagzrxt.com
 .koal.com
+.koala-transfer.com
 .koalacam.net
 .koalareading.com
+.koalaremit.com
 .koalasolo.com
 .koba8.com
 .kobelco-zh.com
@@ -68018,7 +67967,6 @@ IP-CIDR,::1/128,DIRECT
 .kongjitang.com
 .kongjun.com
 .kongkangroup.com
-.konglei.com
 .kongming-inc.com
 .kongqinengrebeng.com
 .kongquecheng.com
@@ -68662,6 +68610,7 @@ IP-CIDR,::1/128,DIRECT
 .kunmingbc.com
 .kunmingguolv.net
 .kunmingkanghui.com
+.kunpeng666888.com
 .kunpengkg.com
 .kunpengtn.com
 .kunpo.cc
@@ -69041,7 +68990,6 @@ IP-CIDR,::1/128,DIRECT
 .laiqi.net
 .laiqm.com
 .laiqukankan.com
-.laiqy.com
 .laird-tek.com
 .laisai.com
 .laishui.info
@@ -69113,6 +69061,7 @@ IP-CIDR,::1/128,DIRECT
 .landa-solenoid.com
 .landai.com
 .landaiwood.com
+.landao.app
 .landbond.com
 .landbridge.com
 .landchina.com
@@ -69419,6 +69368,7 @@ IP-CIDR,::1/128,DIRECT
 .laozu.com
 .laozuo.org
 .lapc.cc
+.lapianpay.com
 .lapin365.com
 .laplace-semi.com
 .lapostea.cfd
@@ -69609,7 +69559,6 @@ IP-CIDR,::1/128,DIRECT
 .lc-news.com
 .lc-rc.com
 .lc044.love
-.lc1001.com
 .lc123.net
 .lc1618.com
 .lc787.com
@@ -69701,7 +69650,6 @@ IP-CIDR,::1/128,DIRECT
 .ld12366.com
 .ld173.com
 .ld246.com
-.ldaq2005.com
 .ldb.cc
 .ldbj.com
 .ldbmcs.com
@@ -69839,7 +69787,6 @@ IP-CIDR,::1/128,DIRECT
 .leche.com
 .lechebang.com
 .lecheng18.com
-.lechengdz.com
 .lechengyunfu.com
 .lechinepay.com
 .lechuangzhe.com
@@ -70606,10 +70553,8 @@ IP-CIDR,::1/128,DIRECT
 .lidianren.com
 .lidihuo.com
 .liding.me
-.lidlsalevipeu.shop
 .lidodo.com
 .lidu6.com
-.lidw.com
 .lie.icu
 .liebao.live
 .liebaoh5.com
@@ -72084,6 +72029,7 @@ IP-CIDR,::1/128,DIRECT
 .loxpo.com
 .loyalvalleycapital.com
 .loyar.com
+.loyea.com
 .loyi.net
 .loystnetwork.com
 .lp.fyi
@@ -73294,7 +73240,6 @@ IP-CIDR,::1/128,DIRECT
 .m3guo.com
 .m3kaiye.com
 .m3mk7nyo17.com
-.m448.com
 .m4vmsozi62ifz.com
 .m5bn.com
 .m5m6x0vh.com
@@ -74474,7 +74419,6 @@ IP-CIDR,::1/128,DIRECT
 .meijipharma.net
 .meijipower.com
 .meijiu.com
-.meijubo.com
 .meijufans.com
 .meijuniao.net
 .meijuq.com
@@ -74961,7 +74905,6 @@ IP-CIDR,::1/128,DIRECT
 .mhbras.com
 .mhcharging.com
 .mhealth100.com
-.mhfotos.com
 .mhhf.com
 .mhhf.net
 .mhi-ac.com
@@ -75326,7 +75269,6 @@ IP-CIDR,::1/128,DIRECT
 .mimi518.com
 .mimidi.com
 .mimimeu.com
-.mimiteng.com
 .mimixiaoke.com
 .mimiyc.net
 .mimo51.com
@@ -75624,7 +75566,6 @@ IP-CIDR,::1/128,DIRECT
 .mitvos.net
 .miued.com
 .miui.com
-.miuiver.com
 .miulab.com
 .miusi.co
 .miuss.icu
@@ -76085,7 +76026,6 @@ IP-CIDR,::1/128,DIRECT
 .moguyun.com
 .moh.cc
 .mohangkeji.net
-.mohjdvh.com
 .mohou.com
 .mohu.org
 .mohuishou.com
@@ -76607,7 +76547,6 @@ IP-CIDR,::1/128,DIRECT
 .mtkgvip.com
 .mtkpacker.com
 .mtksj.com
-.mtlyp.work
 .mtm.mo
 .mtmos.com
 .mtmss.com
@@ -76822,7 +76761,6 @@ IP-CIDR,::1/128,DIRECT
 .mwrf.net
 .mwrfabc.com
 .mwstore.com
-.mwtee.com
 .mwtg.vip
 .mww.so
 .mwyzhcdn.com
@@ -76887,7 +76825,6 @@ IP-CIDR,::1/128,DIRECT
 .my-le.com
 .my-ndns.com
 .my-qcloud.com
-.my-summit.com
 .my-tcloud.com
 .my.st.com
 .my0511.com
@@ -77317,7 +77254,6 @@ IP-CIDR,::1/128,DIRECT
 .mzzhgcc.com
 .mzzjw.com
 .mzzyk.com
-.mzzzn.work
 .n-bros.net
 .n.biz
 .n0808.com
@@ -77334,7 +77270,6 @@ IP-CIDR,::1/128,DIRECT
 .n62f.vip
 .n63.com
 .n78785.com
-.n7maufn.sbs
 .n802.com
 .n8soft.com
 .n9z.net
@@ -77357,7 +77292,6 @@ IP-CIDR,::1/128,DIRECT
 .nagezan.net
 .nahuayuan.com
 .nahuiyi.com
-.nahuo.com
 .nahuo8.com
 .nahuo9.com
 .naibabiji.com
@@ -77536,7 +77470,6 @@ IP-CIDR,::1/128,DIRECT
 .nanyuenews.com
 .nanyuetong.com
 .nanzhougroup.com
-.naobaocun.com
 .naobiao.com
 .naoda.net
 .naoffer.com
@@ -77670,7 +77603,6 @@ IP-CIDR,::1/128,DIRECT
 .nbhuke.com
 .nbhxmr.com
 .nbhysj.com
-.nbidifund.com
 .nbimer.com
 .nbit6d.com
 .nbjcae.com
@@ -78817,7 +78749,6 @@ IP-CIDR,::1/128,DIRECT
 .njkq.net
 .njkskn.com
 .njkzgjj.com
-.njl114.com
 .njlanwu.com
 .njletop.com
 .njlg56.com
@@ -79097,9 +79028,11 @@ IP-CIDR,::1/128,DIRECT
 .nlzpy.com
 .nm178.net
 .nmb-bj.com
+.nmb.best
 .nmbcp.com
 .nmbfxy.com
 .nmboat.com
+.nmbxd.com
 .nmbxd1.com
 .nmbyh.com
 .nmcoo.com
@@ -79177,7 +79110,6 @@ IP-CIDR,::1/128,DIRECT
 .nnbooster.com
 .nnboyi.com
 .nnbsjyk.com
-.nnbtl.com
 .nnbupin.com
 .nnbyg.com
 .nncbre.com
@@ -79421,7 +79353,6 @@ IP-CIDR,::1/128,DIRECT
 .nnwxtzgs.com
 .nnwysc.com
 .nnwytl.com
-.nnxchda.com
 .nnxcx.com
 .nnxczxjt.com
 .nnxdj.com
@@ -79549,7 +79480,6 @@ IP-CIDR,::1/128,DIRECT
 .nonglirili.net
 .nongmintv.com
 .nongnet.com
-.nongpin88.com
 .nongshang.com
 .nongxinyin.com
 .nongyao001.com
@@ -80217,6 +80147,7 @@ IP-CIDR,::1/128,DIRECT
 .odaily.news
 .odalong.com
 .odao.com
+.odata.cc
 .odeasports.com
 .odict.net
 .odinichina.com
@@ -80310,9 +80241,6 @@ IP-CIDR,::1/128,DIRECT
 .oi-wiki.com
 .oi-wiki.org
 .oi3g.com
-.oia05041klq.com
-.oia05050klq.com
-.oia05051klq.com
 .oiaqye7985.com
 .oicat.com
 .oicp.io
@@ -80698,6 +80626,7 @@ IP-CIDR,::1/128,DIRECT
 .open189.net
 .openaboc.com
 .openadx.com
+.openai-hub.com
 .openai.wf
 .openailab.com
 .openanolis.org
@@ -81012,7 +80941,6 @@ IP-CIDR,::1/128,DIRECT
 .ouapi.com
 .oubauneereid.com
 .oubiix.lol
-.oubk.com
 .ouchang.net
 .ouchengzl.com
 .oudapay.com
@@ -81504,7 +81432,6 @@ IP-CIDR,::1/128,DIRECT
 .panoramastock.com
 .panothers.com
 .panpanfood.com
-.panpanzsw.com
 .panpass.net
 .panpay.com
 .panqiincs.me
@@ -81768,7 +81695,6 @@ IP-CIDR,::1/128,DIRECT
 .pcmoe.net
 .pcoic.com
 .pcoof.com
-.pcpc521.com
 .pcpop.com
 .pcpresent.com
 .pcqudong.com
@@ -82070,7 +81996,6 @@ IP-CIDR,::1/128,DIRECT
 .pgyer.com
 .pgyer.im
 .pgyidc.com
-.pgyy.com
 .pgzs.com
 .pgzx.net
 .ph-fc.com
@@ -83940,7 +83865,6 @@ IP-CIDR,::1/128,DIRECT
 .qh-dl.com
 .qh-hospital.org
 .qh-lb.com
-.qh.com
 .qh24.com
 .qh4321.com
 .qh6bc.com
@@ -84937,10 +84861,8 @@ IP-CIDR,::1/128,DIRECT
 .qknode.com
 .qknown.com
 .qktoutiao.com
-.qkttapp.com
 .qkua.com
 .qkvop.com
-.qkyamkl.com
 .qkyxzx.com
 .qkzj.com
 .ql-cellbank.com
@@ -85046,7 +84968,6 @@ IP-CIDR,::1/128,DIRECT
 .qnget.com
 .qngslb.com
 .qngygf.com
-.qnhdkj.com
 .qnhuifu.com
 .qnjslm.com
 .qnjyjt.com
@@ -85075,7 +84996,6 @@ IP-CIDR,::1/128,DIRECT
 .qookkagames.com
 .qoros.com
 .qorosauto.com
-.qosnet.xyz
 .qosq.com
 .qouteall.fun
 .qp108.com
@@ -86408,7 +86328,6 @@ IP-CIDR,::1/128,DIRECT
 .rashanghai.org
 .rashost.com
 .rastargame.com
-.rat.dev
 .rat3c.com
 .rate2003.com
 .ratingtoken.net
@@ -89283,7 +89202,6 @@ IP-CIDR,::1/128,DIRECT
 .sdo-shabake.com
 .sdo.com
 .sdocapp.com
-.sdodk.com
 .sdointl.com
 .sdoke.com
 .sdongpo.com
@@ -89935,7 +89853,6 @@ IP-CIDR,::1/128,DIRECT
 .sgcctd.com
 .sgcctop.com
 .sgcec.com
-.sgchangxun.com
 .sgchinese.com
 .sgcqscgu.com
 .sgcyjy.com
@@ -91692,7 +91609,6 @@ IP-CIDR,::1/128,DIRECT
 .shsz17.com
 .shszsoft.com
 .shtalentgroup.com
-.shtannet.com
 .shtaoism.com
 .shtazy.com
 .shtbi.com
@@ -92241,7 +92157,6 @@ IP-CIDR,::1/128,DIRECT
 .sibpt.com
 .sibsnet.org
 .sibuzyn.com
-.sic8d.net
 .sicarrier.com
 .sicc.cc
 .sicent.com
@@ -93048,7 +92963,6 @@ IP-CIDR,::1/128,DIRECT
 .skysriver.com
 .skysrt.com
 .skyton123.com
-.skyts.net
 .skytv.cc
 .skyue.com
 .skyw.cc
@@ -93083,7 +92997,6 @@ IP-CIDR,::1/128,DIRECT
 .sl91d.com
 .slaccas.com
 .slagta.com
-.slaidor.com
 .slamtec.com
 .slanissue.com
 .slanmedia.com
@@ -93774,7 +93687,6 @@ IP-CIDR,::1/128,DIRECT
 .soopat.com
 .soopay.net
 .sooroo.com
-.sooshong.com
 .sooshu.net
 .soosmart.com
 .soosox.com
@@ -94267,7 +94179,6 @@ IP-CIDR,::1/128,DIRECT
 .ssdax.com
 .ssdfans.com
 .ssdp.com
-.ssdzg.com
 .sseinfo.com
 .ssf.cc
 .ssfb86.com
@@ -95274,7 +95185,6 @@ IP-CIDR,::1/128,DIRECT
 .suzhoufashion.com
 .suzhouhengtai.com
 .suzhouhui.com
-.suzhoujicai.com
 .suzhouleasing.com
 .suzhoulinsen.com
 .suzhousj.com
@@ -96025,7 +95935,6 @@ IP-CIDR,::1/128,DIRECT
 .szcleanair.com
 .szcmer.com
 .szcnpiec.com
-.szcogo.com
 .szcompare.com
 .szcp.com
 .szcsot.com
@@ -96877,7 +96786,6 @@ IP-CIDR,::1/128,DIRECT
 .taikr.com
 .tailgdd.com
 .tailingood.com
-.tailixiangjiao.com
 .taillkang.com
 .tailong.com
 .taimei.com
@@ -97140,7 +97048,6 @@ IP-CIDR,::1/128,DIRECT
 .taohuren.com
 .taoic.com
 .taojianghu.com
-.taojindi.com
 .taojingame.com
 .taojingroup.com
 .taojinhudong.com
@@ -97591,7 +97498,6 @@ IP-CIDR,::1/128,DIRECT
 .te6.com
 .tea-gd.com
 .tea7.com
-.teach-english.tech
 .teach365.com
 .teachblog.net
 .teachclinic.com
@@ -97641,7 +97547,6 @@ IP-CIDR,::1/128,DIRECT
 .techbrood.com
 .techdow.com
 .techfine.net
-.techflowpost.com
 .techgastronomy.com
 .techgogogo.com
 .techigh.net
@@ -98224,7 +98129,6 @@ IP-CIDR,::1/128,DIRECT
 .tgstech.com
 .tgtest.site
 .tgtianshanga.com
-.tguangxue.com
 .tgxuwgdi.com
 .tgzhz.com
 .th-sjy.com
@@ -99094,7 +98998,6 @@ IP-CIDR,::1/128,DIRECT
 .tjwf.com
 .tjwj88.com
 .tjwmschool.net
-.tjxdzhonda.com
 .tjxinyu.com
 .tjxiqi.com
 .tjxxcl.com
@@ -101717,7 +101620,6 @@ IP-CIDR,::1/128,DIRECT
 .unparts.net
 .unpcn.com
 .unpmcc.com
-.unqu.com
 .unsedu.com
 .unsemi.com.tw
 .unshan.com
@@ -101822,7 +101724,6 @@ IP-CIDR,::1/128,DIRECT
 .ups001.com
 .ups88.net
 .upsapp.com
-.upsclan.com
 .upseller.com
 .upskyshanghai.com
 .upst86.com
@@ -102334,7 +102235,6 @@ IP-CIDR,::1/128,DIRECT
 .vclbrokers.com
 .vcled.com
 .vcloud-byte.com
-.vcloudapi.com
 .vcloudgtm.com
 .vcloudgtm.net
 .vcloudlive.com
@@ -103176,7 +103076,6 @@ IP-CIDR,::1/128,DIRECT
 .vrnew.com
 .vrp3d.com
 .vrpinea.com
-.vrpowder.com
 .vrqjcs.com
 .vrqq.org
 .vrrw.net
@@ -106360,7 +106259,6 @@ IP-CIDR,::1/128,DIRECT
 .worldh5.com
 .worldhello.net
 .worldhotel.com
-.worldhub.market
 .worldinout.com
 .worldjiasu.com
 .worldmr.net
@@ -106454,6 +106352,7 @@ IP-CIDR,::1/128,DIRECT
 .wozhishang.com
 .wozhongla.com
 .wozhuan.com
+.wp-china-yes.net
 .wp-hz.com
 .wpan123.com
 .wpceo.com
@@ -106889,7 +106788,6 @@ IP-CIDR,::1/128,DIRECT
 .wuliujie.com
 .wuliuren.com
 .wuliuyun.com
-.wulong365.com
 .wuluoyun.com
 .wulvxing.com
 .wumai.net
@@ -107861,7 +107759,6 @@ IP-CIDR,::1/128,DIRECT
 .xcmsports.com
 .xcmwqdvc.com
 .xcnchinese.com
-.xcncp.com
 .xcnv.com
 .xcode.me
 .xcoder.in
@@ -107992,6 +107889,7 @@ IP-CIDR,::1/128,DIRECT
 .xdyyws.com
 .xdzhsw.com
 .xdzu.net
+.xe-live.com
 .xed.plus
 .xedaojia.com
 .xedaojia.net
@@ -109471,7 +109369,6 @@ IP-CIDR,::1/128,DIRECT
 .xinjiadiy.com
 .xinjianggames.com
 .xinjianggou.com
-.xinjiangqinglvyou.com
 .xinjiangroup.com
 .xinjiashangtou.com
 .xinjidian.com
@@ -110391,7 +110288,6 @@ IP-CIDR,::1/128,DIRECT
 .xn--cesx3oukw29l.com
 .xn--chq7lp8e46htw3g.com
 .xn--chq84itwgrb674blm6f.com
-.xn--chq978ctsf6v6c.com
 .xn--cjztj18l.com
 .xn--cpqr0dg9g4t0fodaq5c.com
 .xn--cssw8z54rj2ds2q.com
@@ -111912,7 +111808,6 @@ IP-CIDR,::1/128,DIRECT
 .yanchebang.com
 .yancheng-culture.com
 .yanchengdj.com
-.yanchengjtgz.com
 .yanchupiao.com
 .yanchupiaojia.com
 .yanchupiaowu.com
@@ -111975,7 +111870,6 @@ IP-CIDR,::1/128,DIRECT
 .yangqi.show
 .yangqianguan.com
 .yangqimanhua.com
-.yangqq.com
 .yangqu.com
 .yangsam.com
 .yangsan.work
@@ -113256,7 +113150,6 @@ IP-CIDR,::1/128,DIRECT
 .yikanxs.com
 .yikaoapp.com
 .yikaochacha.com
-.yikaow.com
 .yikebus.com
 .yikedou.com
 .yikeou.com
@@ -114853,7 +114746,6 @@ IP-CIDR,::1/128,DIRECT
 .youxipai.com
 .youxiping.com
 .youxiputao.com
-.youxiqiang.com
 .youxiqun.com
 .youxishuo.com
 .youxitexiao.com
@@ -115447,7 +115339,6 @@ IP-CIDR,::1/128,DIRECT
 .yudiaomingjia.com
 .yudiu.com
 .yudoauto.com
-.yudouyudou.com
 .yuduxx.com
 .yue-grh.com
 .yue365.com
@@ -115573,7 +115464,6 @@ IP-CIDR,::1/128,DIRECT
 .yueye7.com
 .yueyear.com
 .yueyouxs.com
-.yueyq.com
 .yueyu114.com
 .yueyuanzhiye.com
 .yueyues.com
@@ -115737,7 +115627,6 @@ IP-CIDR,::1/128,DIRECT
 .yuncdn.bid
 .yuncdn123.com
 .yuncdn263.com
-.yuncdndun.com
 .yunce.work
 .yuncechina.com
 .yunceng.com
@@ -116374,6 +116263,7 @@ IP-CIDR,::1/128,DIRECT
 .yxkjlcd.com
 .yxkxyghx.org
 .yxlaba.com
+.yxlady.com
 .yxlady.net
 .yxle.net
 .yxlele.com
@@ -117255,7 +117145,6 @@ IP-CIDR,::1/128,DIRECT
 .zejunpharma.com
 .zeku.com
 .zekv.com
-.zeldacn.com
 .zelinai.com
 .zemc.vip
 .zemismart.com
@@ -118074,7 +117963,6 @@ IP-CIDR,::1/128,DIRECT
 .zhengjia.com
 .zhengjianzhao.com
 .zhengjie.com
-.zhengjifb.com
 .zhengjimt.com
 .zhenglonggroup.com
 .zhengmeng.net
@@ -120854,7 +120742,6 @@ IP-CIDR,::1/128,DIRECT
 .ztwlgyl.com
 .ztwzcg.com
 .ztwzsc.com
-.ztxxr.com
 .ztxyg.com
 .ztxygj.com
 .ztxywy.net
@@ -121605,7 +121492,6 @@ IP-CIDR,::1/128,DIRECT
 1hdru-hls-otcnet.cdnvideo.ru
 22283.live.streamtheworld.com
 22393.live.streamtheworld.com
-265.com
 2mdn-cn.net
 59ec5453559f0.streamlock.net
 5c3639aa99149.streamlock.net
@@ -121875,7 +121761,6 @@ vss.cbnmtv.com
 w3.wifijiangyin.com
 wcnc-lh.akamaihd.net
 weather-lh.akamaihd.net
-weizhiyundong.list
 wosu.streamguys1.com
 wowza-stream.wbur.org
 wowza.montevideo.com.uy
@@ -121890,6 +121775,7 @@ www.destinationurl.com
 www.filmon.com
 www.pxcc.com
 www.pxitv.com
+www.recaptcha-cn.net
 www.recaptcha.net
 www.soundvideostar.com
 www.szmgiptv.com
@@ -121906,14 +121792,14 @@ zzq12345.gearhostpreview.com
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-06-12 03:04:52
-# DOMAIN: 304
+# UPDATED: 2026-06-14 02:34:32
+# DOMAIN: 303
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 112826
+# DOMAIN-SUFFIX: 112713
 # IP-ASN: 1
-# IP-CIDR: 12357
+# IP-CIDR: 12362
 # USER-AGENT: 65
-# TOTAL: 125566
+# TOTAL: 125457
 .0.zone
 .00.net
 .000.link
@@ -123802,7 +123688,6 @@ zzq12345.gearhostpreview.com
 .13a.com
 .13c283b0710281.beer
 .13cr.com
-.13e7.com
 .13ejob.com
 .13freight.com
 .13jue.com
@@ -124020,7 +123905,6 @@ zzq12345.gearhostpreview.com
 .168zcw.com
 .169.com
 .169163.com
-.16925500.xyz
 .169369.com
 .16949pcb.com
 .1696.com
@@ -125191,6 +125075,7 @@ zzq12345.gearhostpreview.com
 .264006.com
 .264321.com
 .264400.com
+.265.com
 .26582.vip
 .26595.com
 .265g.com
@@ -126593,7 +126478,6 @@ zzq12345.gearhostpreview.com
 .4006806555.com
 .4006906600.com
 .4007051668.com
-.4007108885.net
 .4007112366.com
 .4007123123.com
 .4007777958.com
@@ -127041,7 +126925,6 @@ zzq12345.gearhostpreview.com
 .5011.net
 .501h.com
 .501wan.com
-.502258.com
 .50257e08d1015.beer
 .5026p06ot6.com
 .503118.com
@@ -128318,7 +128201,6 @@ zzq12345.gearhostpreview.com
 .56shangpu.com
 .56show.com
 .56shuku.org
-.56sing.com
 .56steel.com
 .56tchr.com
 .56tim.com
@@ -128337,7 +128219,6 @@ zzq12345.gearhostpreview.com
 .57273vy9x0.com
 .57357.vip
 .574e313cc10272.beer
-.5755.com
 .576.com
 .57608.com
 .5760x.com
@@ -129264,6 +129145,7 @@ zzq12345.gearhostpreview.com
 .698wan.com
 .69916666.com
 .699333.xyz
+.6996696.xyz
 .69981.com
 .699h5.com
 .699pic.com
@@ -129574,7 +129456,6 @@ zzq12345.gearhostpreview.com
 .737698.xyz
 .73789.com
 .73864.org
-.73925.work
 .73980.org
 .7399.com
 .73bc.com
@@ -130711,7 +130592,6 @@ zzq12345.gearhostpreview.com
 .912yx.com
 .91300.com
 .9133.com
-.9136.com
 .91360.com
 .91378.com
 .913aefac85f5bf8f.com
@@ -132314,6 +132194,7 @@ zzq12345.gearhostpreview.com
 .adxqd.com
 .adxwork.com
 .adxyun.com
+.adxzoo.com
 .adyoc.com
 .adyounger.com
 .adyuedong.com
@@ -133356,7 +133237,6 @@ zzq12345.gearhostpreview.com
 .akniu.com
 .akoeva.com
 .akomr.com
-.akoo0509uis.com
 .akpig.com
 .akplayer.com
 .akppt.net
@@ -134777,7 +134657,6 @@ zzq12345.gearhostpreview.com
 .aquair-china.com
 .aquanliang.com
 .aquanutriera.com
-.aquanyou.com
 .aquapipetech.com
 .aquaterramail.com
 .aquathlondenice.com
@@ -135246,6 +135125,7 @@ zzq12345.gearhostpreview.com
 .augurit.com
 .augustcn.com
 .auiou.com
+.aukcl.win
 .aulacn.com
 .auldey.com
 .aumantruck.com
@@ -135864,7 +135744,6 @@ zzq12345.gearhostpreview.com
 .baby-bus.com
 .baby-joy.com
 .baby577.com
-.baby611.com
 .baby7blog.com
 .baby868.com
 .babybus.com
@@ -136424,7 +136303,6 @@ zzq12345.gearhostpreview.com
 .banniuyun.com
 .banqumusic.com
 .bansha.com
-.banshangong.com
 .banshier.com
 .bantangapp.com
 .bantouyan.com
@@ -138608,6 +138486,7 @@ zzq12345.gearhostpreview.com
 .bjrc.com
 .bjrcb.com
 .bjrdhx.com
+.bjrenze.com
 .bjreview.com
 .bjrjgj.com
 .bjrjtdkj.com
@@ -139553,7 +139432,6 @@ zzq12345.gearhostpreview.com
 .brandsitejp.com
 .brandvista.com
 .brasilcn.com
-.braveybelief.com
 .bravognss.com
 .brazzaleqingdao.com
 .brcpower.com
@@ -140512,7 +140390,6 @@ zzq12345.gearhostpreview.com
 .cada.cc
 .caddcc.com
 .cadenzayueqi.com
-.cadforex.com
 .cadict.net
 .cadmon.net
 .cadreg.com
@@ -140969,7 +140846,6 @@ zzq12345.gearhostpreview.com
 .casbin.org
 .casboc.com
 .cascadepharm.com
-.casctcp.com
 .casdoor.com
 .casdoor.org
 .case91.com
@@ -141679,7 +141555,6 @@ zzq12345.gearhostpreview.com
 .cdn-build.net
 .cdn-cba.com
 .cdn-cdn.net
-.cdn-gw-dv.net
 .cdn-speed.com
 .cdn-static.farfetch-contents.com
 .cdn-uc.cc
@@ -141914,7 +141789,6 @@ zzq12345.gearhostpreview.com
 .cduncname.com
 .cdvcloud.com
 .cdvisor.com
-.cdwulian.com
 .cdxdyy.com
 .cdxrdz.com
 .cdxsxbx.com
@@ -142146,7 +142020,6 @@ zzq12345.gearhostpreview.com
 .cersign.com
 .cersp.com
 .certicn.com
-.certificatey.com
 .ces-transaction.com
 .cese2.com
 .cesfn.com
@@ -142660,7 +142533,6 @@ zzq12345.gearhostpreview.com
 .chargerlab.com
 .chargerlink.com
 .chariotpharm.com
-.charlinserver.online
 .charlsdata.com
 .charmdeer.com
 .charmingglobe.com
@@ -144572,7 +144444,6 @@ zzq12345.gearhostpreview.com
 .chuangx.org
 .chuangxin.com
 .chuangxinapi.com
-.chuangxinbateng.com
 .chuangxinoa.com
 .chuangxuan.xyz
 .chuangyebaba.com
@@ -145234,6 +145105,7 @@ zzq12345.gearhostpreview.com
 .clloz.com
 .clmpg.com
 .clngaa.com
+.clockin.biz
 .cloopen.com
 .cloopen.net
 .cloopm.com
@@ -146994,7 +146866,6 @@ zzq12345.gearhostpreview.com
 .cooltechsh.com
 .cooltuku.com
 .cooluc.com
-.coolwarmsy.com
 .coolweb.work
 .coolwei.com
 .coolxcloud.com
@@ -147498,9 +147369,7 @@ zzq12345.gearhostpreview.com
 .cqjsd.com
 .cqjtedu.com
 .cqjtsn.com
-.cqjunan.com
 .cqjx.net
-.cqjy.com
 .cqjyfcyy.com
 .cqjyhuida.com
 .cqjyn.com
@@ -148716,7 +148585,6 @@ zzq12345.gearhostpreview.com
 .cwitxoakk98d.com
 .cwjedu.com
 .cwjt.com
-.cwlchina.com
 .cwliupaotea.com
 .cwmcs.com
 .cwmzyyy.com
@@ -149520,7 +149388,6 @@ zzq12345.gearhostpreview.com
 .dalwiaebulon.com
 .dalwiakieyne.com
 .dalwiaresham.com
-.dalwl.work
 .dalyfeds.com
 .damai.com
 .damaicheng.com
@@ -149773,7 +149640,6 @@ zzq12345.gearhostpreview.com
 .dashengpan.com
 .dashengshan.com
 .dashengzuji.com
-.dashenquan.com
 .dashentv.com
 .dashenw.com
 .dashgame.com
@@ -149995,6 +149861,7 @@ zzq12345.gearhostpreview.com
 .daza168.com
 .dazhangfang.com
 .dazhangqiu.com
+.dazhe.com
 .dazhe5.com
 .dazheda.com
 .dazhengtop.com
@@ -150361,7 +150228,6 @@ zzq12345.gearhostpreview.com
 .deeceal.com
 .deehon.com
 .deemos.com
-.deep-os.com
 .deep56.com
 .deepblog.net
 .deepcloudsdp.com
@@ -151175,7 +151041,6 @@ zzq12345.gearhostpreview.com
 .digimons.net
 .digirepub.com
 .digisky.com
-.digit3ds.com
 .digital-hangzhou.com
 .digital-ren.com
 .digitalchina.com
@@ -152417,6 +152282,7 @@ zzq12345.gearhostpreview.com
 .doyoo.net
 .doyoudo.com
 .doyouhike.net
+.doyys.com
 .dozview.com
 .dp.tech
 .dp168.com
@@ -152610,7 +152476,6 @@ zzq12345.gearhostpreview.com
 .dscq.com
 .dsdbxg.com
 .dsdod.com
-.dsdyf.com
 .dseman.com
 .dser.com
 .dsfdy.com
@@ -153213,7 +153078,6 @@ zzq12345.gearhostpreview.com
 .dynavolt.net
 .dynguyeniq.com
 .dyonr.com
-.dypf8.com
 .dyqc.com
 .dyqh.info
 .dyqm888.com
@@ -153241,7 +153105,6 @@ zzq12345.gearhostpreview.com
 .dyxldjy.com
 .dyxsdwm.com
 .dyxtw.com
-.dyxuexin.com
 .dyxw.com
 .dyxz.la
 .dyxzyy.com
@@ -153612,7 +153475,6 @@ zzq12345.gearhostpreview.com
 .eastcoms.com
 .eastday.com
 .eastdesign.net
-.eastdrama.com
 .eastdushi.com
 .easteat.com
 .eastecloud.com
@@ -154098,7 +153960,6 @@ zzq12345.gearhostpreview.com
 .eduic-sh.com
 .eduiso.com
 .edujia.com
-.edujianshe.com
 .edukuang.com
 .edulawonline.com
 .edulivevideo.com
@@ -154133,7 +153994,6 @@ zzq12345.gearhostpreview.com
 .eduzs.net
 .edwiv.com
 .edxmy.cc
-.ee-nav.com
 .ee067e33bd637916.com
 .ee123.net
 .ee1234.com
@@ -154980,7 +154840,6 @@ zzq12345.gearhostpreview.com
 .ernaonet.com
 .ernest.me
 .eroacg.com
-.eromesalo.com
 .erongdu.com
 .erp321.com
 .erp321.net
@@ -155404,6 +155263,7 @@ zzq12345.gearhostpreview.com
 .ewtp.org
 .ewu.cc
 .ewuzhen.com
+.ewytek.com
 .ewzqsyuc.link
 .ex-silver.com
 .ex-starch.com
@@ -155466,7 +155326,6 @@ zzq12345.gearhostpreview.com
 .exmrw.com
 .exnpk.com
 .exntech.com
-.exp99.com
 .expba.com
 .expdns.net
 .expec-tech.com
@@ -155578,7 +155437,6 @@ zzq12345.gearhostpreview.com
 .eyourbusiness.com
 .eyouwx.com
 .eyprint.com
-.eyspwkg.com
 .eyuangong.com
 .eyuconnect.com
 .eyugame.com
@@ -155741,7 +155599,6 @@ zzq12345.gearhostpreview.com
 .fabiao.com
 .fabiaoqing.com
 .fabigbig.com
-.fablusa.com
 .fabpo.com
 .fabu.io
 .fabu114.com
@@ -156244,7 +156101,6 @@ zzq12345.gearhostpreview.com
 .fcboxmall.com
 .fcbs999.com
 .fcbsgroup.com
-.fcbu.com
 .fcc8aa32d10251.beer
 .fccs.com
 .fccscar.com
@@ -157344,7 +157200,6 @@ zzq12345.gearhostpreview.com
 .flyenglish.com
 .flyert.com
 .flyertea.com
-.flyertrip.com
 .flyfishx.com
 .flyfunny.com
 .flygo.net
@@ -157479,7 +157334,6 @@ zzq12345.gearhostpreview.com
 .folidaymall.com
 .folij9nry5cxy8.com
 .followintg.com
-.followsteel.com
 .folou.com
 .fondcosplay.com
 .foneplatform.com
@@ -158510,7 +158364,6 @@ zzq12345.gearhostpreview.com
 .fzahw.com
 .fzaqjy.com
 .fzbbk.com
-.fzbdcj.com
 .fzbidding.com
 .fzbingo.com
 .fzbm.com
@@ -159076,7 +158929,6 @@ zzq12345.gearhostpreview.com
 .gbimg.com
 .gbma.org
 .gbofd.com
-.gbox.pub
 .gboxchina.com
 .gbphar.com
 .gbskptu1044.vip
@@ -160402,7 +160254,6 @@ zzq12345.gearhostpreview.com
 .gggzhi.com
 .gggzpw.com
 .gghb.cloud
-.gghcgg.com
 .gghosp.net
 .gghs.info
 .gghualong.com
@@ -161170,7 +161021,6 @@ zzq12345.gearhostpreview.com
 .godo.pub
 .godoor.com
 .godotcn.com
-.godsendcn.com
 .godsheepteam.com
 .godsignal.com
 .godweiyang.com
@@ -161416,7 +161266,6 @@ zzq12345.gearhostpreview.com
 .goodjili.com
 .goodjob100.com
 .goodlcm.com
-.goodlift.net
 .goodluckcalendar.com
 .goodmorening.com
 .goodnic.net
@@ -161575,7 +161424,6 @@ zzq12345.gearhostpreview.com
 .gowlc.net
 .gowmo.com
 .gowonganinn.com
-.goww.net
 .goxytrbz.com
 .goyihu.com
 .goyoo.com
@@ -163720,7 +163568,6 @@ zzq12345.gearhostpreview.com
 .gxmznzs.com
 .gxnantong.com
 .gxnapd.com
-.gxnbjc.com
 .gxnccq.com
 .gxncgd.com
 .gxnctzjt.com
@@ -164409,7 +164256,6 @@ zzq12345.gearhostpreview.com
 .gxzjjtgs.com
 .gxzjy.com
 .gxzkl.com
-.gxzky.com
 .gxzkzs.com
 .gxzlcs.com
 .gxzldt.com
@@ -164514,6 +164360,7 @@ zzq12345.gearhostpreview.com
 .gykgsx.com
 .gykqyy.com
 .gyljc.com
+.gylmob.com
 .gylwgjsyxx.com
 .gylwyy.com
 .gylxq.com
@@ -164771,7 +164618,6 @@ zzq12345.gearhostpreview.com
 .gzhrsa.org
 .gzhsh.com
 .gzhstars.net
-.gzhtdz.com
 .gzhtinfo.com
 .gzhuake.cc
 .gzhuamei.net
@@ -165118,7 +164964,6 @@ zzq12345.gearhostpreview.com
 .gzyct.com
 .gzydnewmaterial.com
 .gzydong.com
-.gzydwh.com
 .gzyfjsjt.com
 .gzyflw.com
 .gzyhg.vip
@@ -166457,7 +166302,6 @@ zzq12345.gearhostpreview.com
 .hbhxgroup.com
 .hbhyychem.com
 .hbhz.net
-.hbiclqc.com
 .hbicpa.org
 .hbidc.net
 .hbifeng.com
@@ -166749,7 +166593,6 @@ zzq12345.gearhostpreview.com
 .hcdyhr.com
 .hceia.com
 .hcepay.com
-.hcfac888.com
 .hcfc168.com
 .hcftyy.com
 .hcgaokong.com
@@ -167798,7 +167641,6 @@ zzq12345.gearhostpreview.com
 .hholy.com
 .hhozw.com
 .hhpcbs.com
-.hhpj.net
 .hhpmzp.com
 .hhrcard.com
 .hhrcw.com
@@ -168182,7 +168024,6 @@ zzq12345.gearhostpreview.com
 .hjdns.net
 .hjdshop.cc
 .hjdzn.com
-.hjenglish.com
 .hjg365.com
 .hjgcd.com
 .hjgroup-sdq.com
@@ -169457,7 +169298,6 @@ zzq12345.gearhostpreview.com
 .hpgamestream.com
 .hpglw.com
 .hpgzf.com
-.hphwa.com
 .hpichina.org
 .hpicorp.net
 .hpigc.com
@@ -170292,7 +170132,6 @@ zzq12345.gearhostpreview.com
 .huashilm.com
 .huashipharmacymtalionlineybpay.com
 .huashitong.net
-.huashphoto.com
 .huashui.com
 .huashuitax.com
 .huashunxinan.net
@@ -171249,7 +171088,6 @@ zzq12345.gearhostpreview.com
 .hxchx.org
 .hxclouds.com
 .hxct.com
-.hxct.ltd
 .hxd56.com
 .hxdec.com
 .hxdi.com
@@ -172013,6 +171851,7 @@ zzq12345.gearhostpreview.com
 .hzyzxx.net
 .hzzbco.com
 .hzzckg.com
+.hzzfcm.com
 .hzzfxx.com
 .hzzh.com
 .hzzhaobiao.com
@@ -173327,7 +173166,6 @@ zzq12345.gearhostpreview.com
 .ilovechao.com
 .ilovefishc.com
 .iloveopened.com
-.ilovey.live
 .ilovezuan.com
 .ilovezz.com
 .ilsungf.com
@@ -175012,7 +174850,6 @@ zzq12345.gearhostpreview.com
 .j-ui.com
 .j03og.app
 .j0g0.com
-.j1000plan.org
 .j1998.com
 .j1j5q683cj.world
 .j2ee.cc
@@ -177878,7 +177715,6 @@ zzq12345.gearhostpreview.com
 .joybuy.es
 .joycity.mobi
 .joydin.com
-.joyes.com
 .joyfire.net
 .joyforce.com
 .joygames.com
@@ -180145,7 +179981,6 @@ zzq12345.gearhostpreview.com
 .kci-gz.com
 .kciptv.com
 .kcjpharma.com
-.kcjyyjzzs.com
 .kcloudidc.com
 .kcm120.com
 .kcmice.com
@@ -180175,7 +180010,6 @@ zzq12345.gearhostpreview.com
 .kdhj-edu.net
 .kdige.com
 .kdkefu.com
-.kdkh.com
 .kdlgs.com
 .kdnet.net
 .kdniao.com
@@ -180877,7 +180711,6 @@ zzq12345.gearhostpreview.com
 .kllife.com
 .klmnf.com
 .klmy118114.com
-.klmybbs.com
 .klmymarathon.com
 .klmyssn.com
 .klner.com
@@ -181015,8 +180848,10 @@ zzq12345.gearhostpreview.com
 .ko0.com
 .koagzrxt.com
 .koal.com
+.koala-transfer.com
 .koalacam.net
 .koalareading.com
+.koalaremit.com
 .koalasolo.com
 .koba8.com
 .kobelco-zh.com
@@ -181067,7 +180902,6 @@ zzq12345.gearhostpreview.com
 .kongjitang.com
 .kongjun.com
 .kongkangroup.com
-.konglei.com
 .kongming-inc.com
 .kongqinengrebeng.com
 .kongquecheng.com
@@ -181711,6 +181545,7 @@ zzq12345.gearhostpreview.com
 .kunmingbc.com
 .kunmingguolv.net
 .kunmingkanghui.com
+.kunpeng666888.com
 .kunpengkg.com
 .kunpengtn.com
 .kunpo.cc
@@ -182090,7 +181925,6 @@ zzq12345.gearhostpreview.com
 .laiqi.net
 .laiqm.com
 .laiqukankan.com
-.laiqy.com
 .laird-tek.com
 .laisai.com
 .laishui.info
@@ -182162,6 +181996,7 @@ zzq12345.gearhostpreview.com
 .landa-solenoid.com
 .landai.com
 .landaiwood.com
+.landao.app
 .landbond.com
 .landbridge.com
 .landchina.com
@@ -182468,6 +182303,7 @@ zzq12345.gearhostpreview.com
 .laozu.com
 .laozuo.org
 .lapc.cc
+.lapianpay.com
 .lapin365.com
 .laplace-semi.com
 .lapostea.cfd
@@ -182659,7 +182495,6 @@ zzq12345.gearhostpreview.com
 .lc-news.com
 .lc-rc.com
 .lc044.love
-.lc1001.com
 .lc123.net
 .lc1618.com
 .lc787.com
@@ -182751,7 +182586,6 @@ zzq12345.gearhostpreview.com
 .ld12366.com
 .ld173.com
 .ld246.com
-.ldaq2005.com
 .ldb.cc
 .ldbj.com
 .ldbmcs.com
@@ -182889,7 +182723,6 @@ zzq12345.gearhostpreview.com
 .leche.com
 .lechebang.com
 .lecheng18.com
-.lechengdz.com
 .lechengyunfu.com
 .lechinepay.com
 .lechuangzhe.com
@@ -183656,10 +183489,8 @@ zzq12345.gearhostpreview.com
 .lidianren.com
 .lidihuo.com
 .liding.me
-.lidlsalevipeu.shop
 .lidodo.com
 .lidu6.com
-.lidw.com
 .lie.icu
 .liebao.live
 .liebaoh5.com
@@ -185134,6 +184965,7 @@ zzq12345.gearhostpreview.com
 .loxpo.com
 .loyalvalleycapital.com
 .loyar.com
+.loyea.com
 .loyi.net
 .loystnetwork.com
 .lp.fyi
@@ -186344,7 +186176,6 @@ zzq12345.gearhostpreview.com
 .m3guo.com
 .m3kaiye.com
 .m3mk7nyo17.com
-.m448.com
 .m4vmsozi62ifz.com
 .m5bn.com
 .m5m6x0vh.com
@@ -187524,7 +187355,6 @@ zzq12345.gearhostpreview.com
 .meijipharma.net
 .meijipower.com
 .meijiu.com
-.meijubo.com
 .meijufans.com
 .meijuniao.net
 .meijuq.com
@@ -188011,7 +187841,6 @@ zzq12345.gearhostpreview.com
 .mhbras.com
 .mhcharging.com
 .mhealth100.com
-.mhfotos.com
 .mhhf.com
 .mhhf.net
 .mhi-ac.com
@@ -188376,7 +188205,6 @@ zzq12345.gearhostpreview.com
 .mimi518.com
 .mimidi.com
 .mimimeu.com
-.mimiteng.com
 .mimixiaoke.com
 .mimiyc.net
 .mimo51.com
@@ -188674,7 +188502,6 @@ zzq12345.gearhostpreview.com
 .mitvos.net
 .miued.com
 .miui.com
-.miuiver.com
 .miulab.com
 .miusi.co
 .miuss.icu
@@ -189135,7 +188962,6 @@ zzq12345.gearhostpreview.com
 .moguyun.com
 .moh.cc
 .mohangkeji.net
-.mohjdvh.com
 .mohou.com
 .mohu.org
 .mohuishou.com
@@ -189657,7 +189483,6 @@ zzq12345.gearhostpreview.com
 .mtkgvip.com
 .mtkpacker.com
 .mtksj.com
-.mtlyp.work
 .mtm.mo
 .mtmos.com
 .mtmss.com
@@ -189872,7 +189697,6 @@ zzq12345.gearhostpreview.com
 .mwrf.net
 .mwrfabc.com
 .mwstore.com
-.mwtee.com
 .mwtg.vip
 .mww.so
 .mwyzhcdn.com
@@ -189937,7 +189761,6 @@ zzq12345.gearhostpreview.com
 .my-le.com
 .my-ndns.com
 .my-qcloud.com
-.my-summit.com
 .my-tcloud.com
 .my.st.com
 .my0511.com
@@ -190368,7 +190191,6 @@ zzq12345.gearhostpreview.com
 .mzzhgcc.com
 .mzzjw.com
 .mzzyk.com
-.mzzzn.work
 .n-bros.net
 .n.biz
 .n0808.com
@@ -190385,7 +190207,6 @@ zzq12345.gearhostpreview.com
 .n62f.vip
 .n63.com
 .n78785.com
-.n7maufn.sbs
 .n802.com
 .n8soft.com
 .n9z.net
@@ -190408,7 +190229,6 @@ zzq12345.gearhostpreview.com
 .nagezan.net
 .nahuayuan.com
 .nahuiyi.com
-.nahuo.com
 .nahuo8.com
 .nahuo9.com
 .naibabiji.com
@@ -190587,7 +190407,6 @@ zzq12345.gearhostpreview.com
 .nanyuenews.com
 .nanyuetong.com
 .nanzhougroup.com
-.naobaocun.com
 .naobiao.com
 .naoda.net
 .naoffer.com
@@ -190721,7 +190540,6 @@ zzq12345.gearhostpreview.com
 .nbhuke.com
 .nbhxmr.com
 .nbhysj.com
-.nbidifund.com
 .nbimer.com
 .nbit6d.com
 .nbjcae.com
@@ -191869,7 +191687,6 @@ zzq12345.gearhostpreview.com
 .njkq.net
 .njkskn.com
 .njkzgjj.com
-.njl114.com
 .njlanwu.com
 .njletop.com
 .njlg56.com
@@ -192149,9 +191966,11 @@ zzq12345.gearhostpreview.com
 .nlzpy.com
 .nm178.net
 .nmb-bj.com
+.nmb.best
 .nmbcp.com
 .nmbfxy.com
 .nmboat.com
+.nmbxd.com
 .nmbxd1.com
 .nmbyh.com
 .nmcoo.com
@@ -192229,7 +192048,6 @@ zzq12345.gearhostpreview.com
 .nnbooster.com
 .nnboyi.com
 .nnbsjyk.com
-.nnbtl.com
 .nnbupin.com
 .nnbyg.com
 .nncbre.com
@@ -192473,7 +192291,6 @@ zzq12345.gearhostpreview.com
 .nnwxtzgs.com
 .nnwysc.com
 .nnwytl.com
-.nnxchda.com
 .nnxcx.com
 .nnxczxjt.com
 .nnxdj.com
@@ -192601,7 +192418,6 @@ zzq12345.gearhostpreview.com
 .nonglirili.net
 .nongmintv.com
 .nongnet.com
-.nongpin88.com
 .nongshang.com
 .nongxinyin.com
 .nongyao001.com
@@ -193270,6 +193086,7 @@ zzq12345.gearhostpreview.com
 .odaily.news
 .odalong.com
 .odao.com
+.odata.cc
 .odeasports.com
 .odict.net
 .odinichina.com
@@ -193364,9 +193181,6 @@ zzq12345.gearhostpreview.com
 .oi-wiki.com
 .oi-wiki.org
 .oi3g.com
-.oia05041klq.com
-.oia05050klq.com
-.oia05051klq.com
 .oiaqye7985.com
 .oicat.com
 .oicp.io
@@ -193753,6 +193567,7 @@ zzq12345.gearhostpreview.com
 .open189.net
 .openaboc.com
 .openadx.com
+.openai-hub.com
 .openai.wf
 .openailab.com
 .openanolis.org
@@ -194068,7 +193883,6 @@ zzq12345.gearhostpreview.com
 .ouapi.com
 .oubauneereid.com
 .oubiix.lol
-.oubk.com
 .ouchang.net
 .ouchengzl.com
 .oudapay.com
@@ -194561,7 +194375,6 @@ zzq12345.gearhostpreview.com
 .panoramastock.com
 .panothers.com
 .panpanfood.com
-.panpanzsw.com
 .panpass.net
 .panpay.com
 .panqiincs.me
@@ -194825,7 +194638,6 @@ zzq12345.gearhostpreview.com
 .pcmoe.net
 .pcoic.com
 .pcoof.com
-.pcpc521.com
 .pcpop.com
 .pcpresent.com
 .pcqudong.com
@@ -195127,7 +194939,6 @@ zzq12345.gearhostpreview.com
 .pgyer.com
 .pgyer.im
 .pgyidc.com
-.pgyy.com
 .pgzs.com
 .pgzx.net
 .ph-fc.com
@@ -196997,7 +196808,6 @@ zzq12345.gearhostpreview.com
 .qh-dl.com
 .qh-hospital.org
 .qh-lb.com
-.qh.com
 .qh24.com
 .qh4321.com
 .qh6bc.com
@@ -198000,10 +197810,8 @@ zzq12345.gearhostpreview.com
 .qknode.com
 .qknown.com
 .qktoutiao.com
-.qkttapp.com
 .qkua.com
 .qkvop.com
-.qkyamkl.com
 .qkyxzx.com
 .qkzj.com
 .ql-cellbank.com
@@ -198109,7 +197917,6 @@ zzq12345.gearhostpreview.com
 .qnget.com
 .qngslb.com
 .qngygf.com
-.qnhdkj.com
 .qnhuifu.com
 .qnjslm.com
 .qnjyjt.com
@@ -198138,7 +197945,6 @@ zzq12345.gearhostpreview.com
 .qookkagames.com
 .qoros.com
 .qorosauto.com
-.qosnet.xyz
 .qosq.com
 .qouteall.fun
 .qp108.com
@@ -199471,7 +199277,6 @@ zzq12345.gearhostpreview.com
 .rashanghai.org
 .rashost.com
 .rastargame.com
-.rat.dev
 .rat3c.com
 .rate2003.com
 .ratingtoken.net
@@ -202347,7 +202152,6 @@ zzq12345.gearhostpreview.com
 .sdo-shabake.com
 .sdo.com
 .sdocapp.com
-.sdodk.com
 .sdointl.com
 .sdoke.com
 .sdongpo.com
@@ -202999,7 +202803,6 @@ zzq12345.gearhostpreview.com
 .sgcctd.com
 .sgcctop.com
 .sgcec.com
-.sgchangxun.com
 .sgchinese.com
 .sgcqscgu.com
 .sgcyjy.com
@@ -204756,7 +204559,6 @@ zzq12345.gearhostpreview.com
 .shsz17.com
 .shszsoft.com
 .shtalentgroup.com
-.shtannet.com
 .shtaoism.com
 .shtazy.com
 .shtbi.com
@@ -205305,7 +205107,6 @@ zzq12345.gearhostpreview.com
 .sibpt.com
 .sibsnet.org
 .sibuzyn.com
-.sic8d.net
 .sicarrier.com
 .sicc.cc
 .sicent.com
@@ -206112,7 +205913,6 @@ zzq12345.gearhostpreview.com
 .skysriver.com
 .skysrt.com
 .skyton123.com
-.skyts.net
 .skytv.cc
 .skyue.com
 .skyw.cc
@@ -206147,7 +205947,6 @@ zzq12345.gearhostpreview.com
 .sl91d.com
 .slaccas.com
 .slagta.com
-.slaidor.com
 .slamtec.com
 .slanissue.com
 .slanmedia.com
@@ -206839,7 +206638,6 @@ zzq12345.gearhostpreview.com
 .soopat.com
 .soopay.net
 .sooroo.com
-.sooshong.com
 .sooshu.net
 .soosmart.com
 .soosox.com
@@ -207332,7 +207130,6 @@ zzq12345.gearhostpreview.com
 .ssdax.com
 .ssdfans.com
 .ssdp.com
-.ssdzg.com
 .sseinfo.com
 .ssf.cc
 .ssfb86.com
@@ -208339,7 +208136,6 @@ zzq12345.gearhostpreview.com
 .suzhoufashion.com
 .suzhouhengtai.com
 .suzhouhui.com
-.suzhoujicai.com
 .suzhouleasing.com
 .suzhoulinsen.com
 .suzhousj.com
@@ -209090,7 +208886,6 @@ zzq12345.gearhostpreview.com
 .szcleanair.com
 .szcmer.com
 .szcnpiec.com
-.szcogo.com
 .szcompare.com
 .szcp.com
 .szcsot.com
@@ -209943,7 +209738,6 @@ zzq12345.gearhostpreview.com
 .taikr.com
 .tailgdd.com
 .tailingood.com
-.tailixiangjiao.com
 .taillkang.com
 .tailong.com
 .taimei.com
@@ -210217,7 +210011,6 @@ zzq12345.gearhostpreview.com
 .taohuren.com
 .taoic.com
 .taojianghu.com
-.taojindi.com
 .taojingame.com
 .taojingroup.com
 .taojinhudong.com
@@ -210668,7 +210461,6 @@ zzq12345.gearhostpreview.com
 .te6.com
 .tea-gd.com
 .tea7.com
-.teach-english.tech
 .teach365.com
 .teachblog.net
 .teachclinic.com
@@ -210718,7 +210510,6 @@ zzq12345.gearhostpreview.com
 .techbrood.com
 .techdow.com
 .techfine.net
-.techflowpost.com
 .techgastronomy.com
 .techgogogo.com
 .techigh.net
@@ -211301,7 +211092,6 @@ zzq12345.gearhostpreview.com
 .tgstech.com
 .tgtest.site
 .tgtianshanga.com
-.tguangxue.com
 .tgxuwgdi.com
 .tgzhz.com
 .th-sjy.com
@@ -212171,7 +211961,6 @@ zzq12345.gearhostpreview.com
 .tjwf.com
 .tjwj88.com
 .tjwmschool.net
-.tjxdzhonda.com
 .tjxinyu.com
 .tjxiqi.com
 .tjxxcl.com
@@ -214795,7 +214584,6 @@ zzq12345.gearhostpreview.com
 .unparts.net
 .unpcn.com
 .unpmcc.com
-.unqu.com
 .unsedu.com
 .unsemi.com.tw
 .unshan.com
@@ -214900,7 +214688,6 @@ zzq12345.gearhostpreview.com
 .ups001.com
 .ups88.net
 .upsapp.com
-.upsclan.com
 .upseller.com
 .upskyshanghai.com
 .upst86.com
@@ -215413,7 +215200,6 @@ zzq12345.gearhostpreview.com
 .vclbrokers.com
 .vcled.com
 .vcloud-byte.com
-.vcloudapi.com
 .vcloudgtm.com
 .vcloudgtm.net
 .vcloudlive.com
@@ -216256,7 +216042,6 @@ zzq12345.gearhostpreview.com
 .vrnew.com
 .vrp3d.com
 .vrpinea.com
-.vrpowder.com
 .vrqjcs.com
 .vrqq.org
 .vrrw.net
@@ -219457,7 +219242,6 @@ zzq12345.gearhostpreview.com
 .worldh5.com
 .worldhello.net
 .worldhotel.com
-.worldhub.market
 .worldinout.com
 .worldjiasu.com
 .worldmr.net
@@ -219551,6 +219335,7 @@ zzq12345.gearhostpreview.com
 .wozhishang.com
 .wozhongla.com
 .wozhuan.com
+.wp-china-yes.net
 .wp-hz.com
 .wpan123.com
 .wpceo.com
@@ -219986,7 +219771,6 @@ zzq12345.gearhostpreview.com
 .wuliujie.com
 .wuliuren.com
 .wuliuyun.com
-.wulong365.com
 .wuluoyun.com
 .wulvxing.com
 .wumai.net
@@ -220958,7 +220742,6 @@ zzq12345.gearhostpreview.com
 .xcmsports.com
 .xcmwqdvc.com
 .xcnchinese.com
-.xcncp.com
 .xcnv.com
 .xcode.me
 .xcoder.in
@@ -221089,6 +220872,7 @@ zzq12345.gearhostpreview.com
 .xdyyws.com
 .xdzhsw.com
 .xdzu.net
+.xe-live.com
 .xed.plus
 .xedaojia.com
 .xedaojia.net
@@ -222568,7 +222352,6 @@ zzq12345.gearhostpreview.com
 .xinjiadiy.com
 .xinjianggames.com
 .xinjianggou.com
-.xinjiangqinglvyou.com
 .xinjiangroup.com
 .xinjiashangtou.com
 .xinjidian.com
@@ -223488,7 +223271,6 @@ zzq12345.gearhostpreview.com
 .xn--cesx3oukw29l.com
 .xn--chq7lp8e46htw3g.com
 .xn--chq84itwgrb674blm6f.com
-.xn--chq978ctsf6v6c.com
 .xn--cjztj18l.com
 .xn--cpqr0dg9g4t0fodaq5c.com
 .xn--cssw8z54rj2ds2q.com
@@ -225009,7 +224791,6 @@ zzq12345.gearhostpreview.com
 .yanchebang.com
 .yancheng-culture.com
 .yanchengdj.com
-.yanchengjtgz.com
 .yanchupiao.com
 .yanchupiaojia.com
 .yanchupiaowu.com
@@ -225072,7 +224853,6 @@ zzq12345.gearhostpreview.com
 .yangqi.show
 .yangqianguan.com
 .yangqimanhua.com
-.yangqq.com
 .yangqu.com
 .yangsam.com
 .yangsan.work
@@ -226353,7 +226133,6 @@ zzq12345.gearhostpreview.com
 .yikanxs.com
 .yikaoapp.com
 .yikaochacha.com
-.yikaow.com
 .yikebus.com
 .yikedou.com
 .yikeou.com
@@ -227951,7 +227730,6 @@ zzq12345.gearhostpreview.com
 .youxipai.com
 .youxiping.com
 .youxiputao.com
-.youxiqiang.com
 .youxiqun.com
 .youxishuo.com
 .youxitexiao.com
@@ -228545,7 +228323,6 @@ zzq12345.gearhostpreview.com
 .yudiaomingjia.com
 .yudiu.com
 .yudoauto.com
-.yudouyudou.com
 .yuduxx.com
 .yue-grh.com
 .yue365.com
@@ -228671,7 +228448,6 @@ zzq12345.gearhostpreview.com
 .yueye7.com
 .yueyear.com
 .yueyouxs.com
-.yueyq.com
 .yueyu114.com
 .yueyuanzhiye.com
 .yueyues.com
@@ -228835,7 +228611,6 @@ zzq12345.gearhostpreview.com
 .yuncdn.bid
 .yuncdn123.com
 .yuncdn263.com
-.yuncdndun.com
 .yunce.work
 .yuncechina.com
 .yunceng.com
@@ -229472,6 +229247,7 @@ zzq12345.gearhostpreview.com
 .yxkjlcd.com
 .yxkxyghx.org
 .yxlaba.com
+.yxlady.com
 .yxlady.net
 .yxle.net
 .yxlele.com
@@ -230353,7 +230129,6 @@ zzq12345.gearhostpreview.com
 .zejunpharma.com
 .zeku.com
 .zekv.com
-.zeldacn.com
 .zelinai.com
 .zemc.vip
 .zemismart.com
@@ -231172,7 +230947,6 @@ zzq12345.gearhostpreview.com
 .zhengjia.com
 .zhengjianzhao.com
 .zhengjie.com
-.zhengjifb.com
 .zhengjimt.com
 .zhenglonggroup.com
 .zhengmeng.net
@@ -233952,7 +233726,6 @@ zzq12345.gearhostpreview.com
 .ztwlgyl.com
 .ztwzcg.com
 .ztwzsc.com
-.ztxxr.com
 .ztxyg.com
 .ztxygj.com
 .ztxywy.net
@@ -234703,7 +234476,6 @@ zzq12345.gearhostpreview.com
 1hdru-hls-otcnet.cdnvideo.ru
 22283.live.streamtheworld.com
 22393.live.streamtheworld.com
-265.com
 2mdn-cn.net
 59ec5453559f0.streamlock.net
 5c3639aa99149.streamlock.net
@@ -234974,7 +234746,6 @@ vss.cbnmtv.com
 w3.wifijiangyin.com
 wcnc-lh.akamaihd.net
 weather-lh.akamaihd.net
-weizhiyundong.list
 wosu.streamguys1.com
 wowza-stream.wbur.org
 wowza.montevideo.com.uy
@@ -234989,6 +234760,7 @@ www.destinationurl.com
 www.filmon.com
 www.pxcc.com
 www.pxitv.com
+www.recaptcha-cn.net
 www.recaptcha.net
 www.soundvideostar.com
 www.szmgiptv.com
@@ -238783,24 +238555,24 @@ www.yxssp.com
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-06-12 03:04:53
-# DOMAIN: 304
+# UPDATED: 2026-06-14 02:34:32
+# DOMAIN: 303
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 112826
+# DOMAIN-SUFFIX: 112713
 # IP-ASN: 1
-# IP-CIDR: 12357
+# IP-CIDR: 12362
 # USER-AGENT: 65
-# TOTAL: 125566
-DOMAIN-SUFFIX,alipay
-DOMAIN-SUFFIX,alibaba
-DOMAIN-SUFFIX,taobao
-DOMAIN-SUFFIX,tmall
+# TOTAL: 125457
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
+DOMAIN-SUFFIX,alibaba
+DOMAIN-SUFFIX,alipay
 DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,citic
 DOMAIN-SUFFIX,icbc
 DOMAIN-SUFFIX,sohu
+DOMAIN-SUFFIX,taobao
+DOMAIN-SUFFIX,tmall
 DOMAIN-SUFFIX,unicom
 DOMAIN-SUFFIX,wang
 DOMAIN-SUFFIX,xn--1qqw23a
@@ -238844,10 +238616,10 @@ DOMAIN-KEYWORD,beplay
 DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,bilibili
-DOMAIN-KEYWORD,qiyi
 DOMAIN-KEYWORD,hnagroup
 DOMAIN-KEYWORD,stripe
 DOMAIN-KEYWORD,weibo
+DOMAIN-KEYWORD,qiyi
 USER-AGENT,*bili*
 USER-AGENT,Bilibili*
 USER-AGENT,bili*
@@ -238856,7 +238628,9 @@ USER-AGENT,TikTok*
 USER-AGENT,%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C*
 USER-AGENT,%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*
 USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
+USER-AGENT,%E4%BC%98%E9%85%B7*
 USER-AGENT,%E5%8D%B3%E5%88%BB*
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*Vainglory*
 USER-AGENT,AdBlock*
 USER-AGENT,Best%20Trace*
@@ -238866,12 +238640,14 @@ USER-AGENT,MicroMessenger*
 USER-AGENT,MicroMessengerClient*
 USER-AGENT,Microsoft*
 USER-AGENT,Moke*
+USER-AGENT,NeteaseMusic*
 USER-AGENT,QQ*
 USER-AGENT,RemotePlay*
 USER-AGENT,TIM*
 USER-AGENT,TeamViewer*
 USER-AGENT,WeChat*
 USER-AGENT,WebTorrent*
+USER-AGENT,YYeTs*
 USER-AGENT,arrowio*
 USER-AGENT,balls*
 USER-AGENT,cmb*
@@ -238880,39 +238656,35 @@ USER-AGENT,eusoft_ting_en_iphone
 USER-AGENT,hearthstone*
 USER-AGENT,hide*
 USER-AGENT,ting_en
-USER-AGENT,%E4%BC%98%E9%85%B7*
 USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*QIYI*
 USER-AGENT,AcFun*
 USER-AGENT,DomesticMedia*
-USER-AGENT,MGTV*
+USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
 USER-AGENT,MOO*
 USER-AGENT,MiguVideo*
-USER-AGENT,NeteaseMusic*
-USER-AGENT,PPStream*
-USER-AGENT,QIYI*
+USER-AGENT,QQ%E9%9F%B3%E4%B9%90
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
 USER-AGENT,QQMusic*
-USER-AGENT,QYPlayer*
-USER-AGENT,YYeTs*
+USER-AGENT,TencentMidasConnect*
 USER-AGENT,Youku*
 USER-AGENT,baiduyinyue
 USER-AGENT,bilibili*
-USER-AGENT,iQiYi*
-USER-AGENT,iQiyi*
+USER-AGENT,live4iphone*
+USER-AGENT,qqlive4iphone*
 USER-AGENT,walkman*
 USER-AGENT,xiami*
 USER-AGENT,youku*
 USER-AGENT,Himalaya*
-USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
-USER-AGENT,QQ%E9%9F%B3%E4%B9%90
-USER-AGENT,TencentMidasConnect*
-USER-AGENT,live4iphone*
-USER-AGENT,qqlive4iphone*
+USER-AGENT,MGTV*
+USER-AGENT,PPStream*
+USER-AGENT,QIYI*
+USER-AGENT,QYPlayer*
 USER-AGENT,iQIYI*
+USER-AGENT,iQiYi*
+USER-AGENT,iQiyi*
 IP-CIDR,0.0.0.0/32,no-resolve
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
@@ -239708,6 +239480,7 @@ IP-CIDR,103.180.108.0/23,no-resolve
 IP-CIDR,103.180.226.0/23,no-resolve
 IP-CIDR,103.181.164.0/23,no-resolve
 IP-CIDR,103.181.234.0/23,no-resolve
+IP-CIDR,103.182.96.0/23,no-resolve
 IP-CIDR,103.183.122.0/23,no-resolve
 IP-CIDR,103.183.124.0/23,no-resolve
 IP-CIDR,103.183.26.0/23,no-resolve
@@ -241548,6 +241321,7 @@ IP-CIDR,107.151.212.0/24,no-resolve
 IP-CIDR,107.153.91.0/24,no-resolve
 IP-CIDR,107.153.92.0/23,no-resolve
 IP-CIDR,107.155.25.116/31,no-resolve
+IP-CIDR,107.158.37.0/24,no-resolve
 IP-CIDR,107.168.4.0/23,no-resolve
 IP-CIDR,107.176.0.0/15,no-resolve
 IP-CIDR,107.190.229.0/24,no-resolve
@@ -243084,6 +242858,7 @@ IP-CIDR,175.185.0.0/16,no-resolve
 IP-CIDR,175.186.0.0/15,no-resolve
 IP-CIDR,175.188.0.0/14,no-resolve
 IP-CIDR,175.24.0.0/14,no-resolve
+IP-CIDR,175.29.22.0/23,no-resolve
 IP-CIDR,175.30.0.0/15,no-resolve
 IP-CIDR,175.42.0.0/15,no-resolve
 IP-CIDR,175.44.0.0/16,no-resolve
@@ -243242,11 +243017,14 @@ IP-CIDR,187.54.48.0/23,no-resolve
 IP-CIDR,188.131.128.0/17,no-resolve
 IP-CIDR,188.190.1.0/24,no-resolve
 IP-CIDR,188.190.2.0/24,no-resolve
+IP-CIDR,188.221.99.0/24,no-resolve
 IP-CIDR,188.240.211.0/25,no-resolve
 IP-CIDR,188.241.80.0/24,no-resolve
 IP-CIDR,188.65.16.0/22,no-resolve
+IP-CIDR,189.12.48.0/24,no-resolve
 IP-CIDR,191.217.175.0/24,no-resolve
 IP-CIDR,191.222.242.0/24,no-resolve
+IP-CIDR,191.222.244.0/24,no-resolve
 IP-CIDR,192.102.204.0/22,no-resolve
 IP-CIDR,192.11.23.0/24,no-resolve
 IP-CIDR,192.11.236.0/24,no-resolve
@@ -243265,7 +243043,6 @@ IP-CIDR,192.163.11.0/24,no-resolve
 IP-CIDR,192.168.10.1/32,no-resolve
 IP-CIDR,192.168.119.253/32,no-resolve
 IP-CIDR,192.171.224.0/21,no-resolve
-IP-CIDR,192.193.73.0/24,no-resolve
 IP-CIDR,192.197.113.0/24,no-resolve
 IP-CIDR,192.23.191.0/24,no-resolve
 IP-CIDR,192.232.97.0/24,no-resolve
@@ -243303,6 +243080,8 @@ IP-CIDR,194.50.99.48/32,no-resolve
 IP-CIDR,194.61.237.0/25,no-resolve
 IP-CIDR,195.162.246.0/24,no-resolve
 IP-CIDR,195.178.110.176/28,no-resolve
+IP-CIDR,195.40.157.0/24,no-resolve
+IP-CIDR,195.40.158.0/24,no-resolve
 IP-CIDR,195.49.78.0/23,no-resolve
 IP-CIDR,196.19.225.0/24,no-resolve
 IP-CIDR,196.197.67.0/24,no-resolve
@@ -243466,6 +243245,7 @@ IP-CIDR,2001:e80::/32,no-resolve
 IP-CIDR,2001:e88::/32,no-resolve
 IP-CIDR,2001:f38::/32,no-resolve
 IP-CIDR,2001:f88::/32,no-resolve
+IP-CIDR,201.11.233.0/24,no-resolve
 IP-CIDR,201.24.195.0/24,no-resolve
 IP-CIDR,202.0.100.0/23,no-resolve
 IP-CIDR,202.0.122.0/23,no-resolve
@@ -246432,15 +246212,6 @@ IP-CIDR,2400:de20::/32,no-resolve
 IP-CIDR,2400:de80::/32,no-resolve
 IP-CIDR,2400:dee0::/32,no-resolve
 IP-CIDR,2400:e0c0::/32,no-resolve
-IP-CIDR,2400:e3e0:aa00::/40,no-resolve
-IP-CIDR,2400:e3e0:ab00::/41,no-resolve
-IP-CIDR,2400:e3e0:ab80::/42,no-resolve
-IP-CIDR,2400:e3e0:abc0::/43,no-resolve
-IP-CIDR,2400:e3e0:abe0::/44,no-resolve
-IP-CIDR,2400:e3e0:abf1::/48,no-resolve
-IP-CIDR,2400:e3e0:abf2::/47,no-resolve
-IP-CIDR,2400:e3e0:abf4::/46,no-resolve
-IP-CIDR,2400:e3e0:abf8::/45,no-resolve
 IP-CIDR,2400:e5c0::/32,no-resolve
 IP-CIDR,2400:e680::/32,no-resolve
 IP-CIDR,2400:e7e0::/32,no-resolve
@@ -246707,14 +246478,19 @@ IP-CIDR,2401:ec00::/32,no-resolve
 IP-CIDR,2401:ec40::/32,no-resolve
 IP-CIDR,2401:f300::/32,no-resolve
 IP-CIDR,2401:f7c0::/32,no-resolve
-IP-CIDR,2401:f860:7::/48,no-resolve
-IP-CIDR,2401:f860:89::/48,no-resolve
-IP-CIDR,2401:f860:90::/48,no-resolve
-IP-CIDR,2401:f860:b::/48,no-resolve
-IP-CIDR,2401:f860:f6::/48,no-resolve
 IP-CIDR,2401:f9c0:cdcd::/48,no-resolve
-IP-CIDR,2401:fa00:40::/43,no-resolve
+IP-CIDR,2401:fa00:40::/47,no-resolve
+IP-CIDR,2401:fa00:44::/48,no-resolve
+IP-CIDR,2401:fa00:46:400::/54,no-resolve
+IP-CIDR,2401:fa00:47::/48,no-resolve
 IP-CIDR,2401:fa00:480:7600::/55,no-resolve
+IP-CIDR,2401:fa00:48::/48,no-resolve
+IP-CIDR,2401:fa00:58:400::/55,no-resolve
+IP-CIDR,2401:fa00:58:600::/56,no-resolve
+IP-CIDR,2401:fa00:58::/54,no-resolve
+IP-CIDR,2401:fa00:5f:c000::/54,no-resolve
+IP-CIDR,2401:fa00:5f:c500::/56,no-resolve
+IP-CIDR,2401:fa00:5f:c700::/56,no-resolve
 IP-CIDR,2401:fa80::/32,no-resolve
 IP-CIDR,2401:fb80::/32,no-resolve
 IP-CIDR,2401:fc80::/32,no-resolve
@@ -249832,7 +249608,6 @@ IP-CIDR,2a0a:8f40:9::/48,no-resolve
 IP-CIDR,2a0a:d681:e000::/40,no-resolve
 IP-CIDR,2a0a:d681:fb00::/40,no-resolve
 IP-CIDR,2a0a:d681:fc00::/38,no-resolve
-IP-CIDR,2a0a:d685::/36,no-resolve
 IP-CIDR,2a0a:d687:f001::/48,no-resolve
 IP-CIDR,2a0b:4340:550::/44,no-resolve
 IP-CIDR,2a0b:b580::/48,no-resolve
@@ -249841,7 +249616,6 @@ IP-CIDR,2a0b:b582::/48,no-resolve
 IP-CIDR,2a0b:b583::/48,no-resolve
 IP-CIDR,2a0c:3b80:434e::/48,no-resolve
 IP-CIDR,2a0c:3b80:636e::/48,no-resolve
-IP-CIDR,2a0c:9a40:89c0::/48,no-resolve
 IP-CIDR,2a0c:9a40:95bf:7000::/54,no-resolve
 IP-CIDR,2a0c:9a40:95bf:7400::/56,no-resolve
 IP-CIDR,2a0c:9a40:95bf:7500::/60,no-resolve
@@ -249914,8 +249688,7 @@ IP-CIDR,2a0e:aa07:e151::/48,no-resolve
 IP-CIDR,2a0e:aa07:e192::/48,no-resolve
 IP-CIDR,2a0e:aa07:e280::/47,no-resolve
 IP-CIDR,2a0e:aa07:e284::/46,no-resolve
-IP-CIDR,2a0e:aa07:e288::/47,no-resolve
-IP-CIDR,2a0e:aa07:e28a::/48,no-resolve
+IP-CIDR,2a0e:aa07:e288::/46,no-resolve
 IP-CIDR,2a0e:aa07:e28d::/48,no-resolve
 IP-CIDR,2a0e:aa07:e28e::/48,no-resolve
 IP-CIDR,2a0e:aa07:f012::/48,no-resolve
@@ -250105,10 +249878,12 @@ IP-CIDR,2a14:7583:f224::/47,no-resolve
 IP-CIDR,2a14:7583:f228::/48,no-resolve
 IP-CIDR,2a14:7583:f22c::/48,no-resolve
 IP-CIDR,2a14:7583:f244::/48,no-resolve
+IP-CIDR,2a14:7583:f248::/48,no-resolve
 IP-CIDR,2a14:7583:f264::/48,no-resolve
 IP-CIDR,2a14:7583:f268::/48,no-resolve
 IP-CIDR,2a14:7583:f300::/46,no-resolve
 IP-CIDR,2a14:7583:f304::/47,no-resolve
+IP-CIDR,2a14:7583:f306::/48,no-resolve
 IP-CIDR,2a14:7583:f411::/48,no-resolve
 IP-CIDR,2a14:7583:f4f0::/48,no-resolve
 IP-CIDR,2a14:7583:f4f4::/48,no-resolve
@@ -250126,9 +249901,9 @@ IP-CIDR,2a14:7586:6103::/48,no-resolve
 IP-CIDR,2a14:7586:6104::/47,no-resolve
 IP-CIDR,2a14:7586:6110::/48,no-resolve
 IP-CIDR,2a14:7586:6300::/44,no-resolve
+IP-CIDR,2a14:7586:6500::/48,no-resolve
 IP-CIDR,2a14:7dc0:506::/48,no-resolve
 IP-CIDR,2a14:ae00:50::/44,no-resolve
-IP-CIDR,2a14:c380:21::/48,no-resolve
 IP-CIDR,2c0f:f7a8:8011::/48,no-resolve
 IP-CIDR,2c0f:f7a8:8050::/48,no-resolve
 IP-CIDR,2c0f:f7a8:805f::/48,no-resolve
@@ -250237,6 +250012,7 @@ IP-CIDR,38.54.10.0/32,no-resolve
 IP-CIDR,38.60.143.0/24,no-resolve
 IP-CIDR,38.60.144.0/23,no-resolve
 IP-CIDR,38.60.214.0/32,no-resolve
+IP-CIDR,38.76.140.0/24,no-resolve
 IP-CIDR,38.94.110.99/32,no-resolve
 IP-CIDR,38.95.118.0/23,no-resolve
 IP-CIDR,38.95.121.0/24,no-resolve
@@ -251218,6 +250994,7 @@ IP-CIDR,87.254.207.0/24,no-resolve
 IP-CIDR,87.76.221.0/24,no-resolve
 IP-CIDR,87.76.222.0/24,no-resolve
 IP-CIDR,87.83.1.0/24,no-resolve
+IP-CIDR,87.83.2.0/24,no-resolve
 IP-CIDR,87.86.189.0/24,no-resolve
 IP-CIDR,88.209.226.0/24,no-resolve
 IP-CIDR,89.213.2.0/24,no-resolve
@@ -251276,19 +251053,19 @@ IP-ASN,132203,no-resolve
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-06-12 03:05:26
-# DOMAIN: 303
+# UPDATED: 2026-06-14 02:35:05
+# DOMAIN: 302
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 112499
+# DOMAIN-SUFFIX: 112386
 # USER-AGENT: 65
-# TOTAL: 112880
-DOMAIN-SUFFIX,alibaba
-DOMAIN-SUFFIX,tmall
+# TOTAL: 112766
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
+DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,citic
 DOMAIN-SUFFIX,icbc
 DOMAIN-SUFFIX,sohu
+DOMAIN-SUFFIX,tmall
 DOMAIN-SUFFIX,unicom
 DOMAIN-SUFFIX,wang
 DOMAIN-SUFFIX,xn--1qqw23a
@@ -251332,10 +251109,10 @@ DOMAIN-KEYWORD,beplay
 DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,bilibili
-DOMAIN-KEYWORD,qiyi
 DOMAIN-KEYWORD,hnagroup
 DOMAIN-KEYWORD,stripe
 DOMAIN-KEYWORD,weibo
+DOMAIN-KEYWORD,qiyi
 USER-AGENT,*bili*
 USER-AGENT,Bilibili*
 USER-AGENT,bili*
@@ -251344,7 +251121,9 @@ USER-AGENT,TikTok*
 USER-AGENT,%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C*
 USER-AGENT,%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*
 USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
+USER-AGENT,%E4%BC%98%E9%85%B7*
 USER-AGENT,%E5%8D%B3%E5%88%BB*
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*Vainglory*
 USER-AGENT,AdBlock*
 USER-AGENT,Best%20Trace*
@@ -251354,12 +251133,14 @@ USER-AGENT,MicroMessenger*
 USER-AGENT,MicroMessengerClient*
 USER-AGENT,Microsoft*
 USER-AGENT,Moke*
+USER-AGENT,NeteaseMusic*
 USER-AGENT,QQ*
 USER-AGENT,RemotePlay*
 USER-AGENT,TIM*
 USER-AGENT,TeamViewer*
 USER-AGENT,WeChat*
 USER-AGENT,WebTorrent*
+USER-AGENT,YYeTs*
 USER-AGENT,arrowio*
 USER-AGENT,balls*
 USER-AGENT,cmb*
@@ -251368,39 +251149,35 @@ USER-AGENT,eusoft_ting_en_iphone
 USER-AGENT,hearthstone*
 USER-AGENT,hide*
 USER-AGENT,ting_en
-USER-AGENT,%E4%BC%98%E9%85%B7*
 USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*QIYI*
 USER-AGENT,AcFun*
 USER-AGENT,DomesticMedia*
-USER-AGENT,MGTV*
+USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
 USER-AGENT,MOO*
 USER-AGENT,MiguVideo*
-USER-AGENT,NeteaseMusic*
-USER-AGENT,PPStream*
-USER-AGENT,QIYI*
+USER-AGENT,QQ%E9%9F%B3%E4%B9%90
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
 USER-AGENT,QQMusic*
-USER-AGENT,QYPlayer*
-USER-AGENT,YYeTs*
+USER-AGENT,TencentMidasConnect*
 USER-AGENT,Youku*
 USER-AGENT,baiduyinyue
 USER-AGENT,bilibili*
-USER-AGENT,iQiYi*
-USER-AGENT,iQiyi*
+USER-AGENT,live4iphone*
+USER-AGENT,qqlive4iphone*
 USER-AGENT,walkman*
 USER-AGENT,xiami*
 USER-AGENT,youku*
 USER-AGENT,Himalaya*
-USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
-USER-AGENT,QQ%E9%9F%B3%E4%B9%90
-USER-AGENT,TencentMidasConnect*
-USER-AGENT,live4iphone*
-USER-AGENT,qqlive4iphone*
+USER-AGENT,MGTV*
+USER-AGENT,PPStream*
+USER-AGENT,QIYI*
+USER-AGENT,QYPlayer*
 USER-AGENT,iQIYI*
+USER-AGENT,iQiYi*
+USER-AGENT,iQiyi*
 
 # From: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/BiliBili/BiliBili.list
 # NAME: BiliBili
