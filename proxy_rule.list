@@ -1,13 +1,10 @@
 # Proxy rules list for Shadowrocket
-# Generated on Wed Jul  8 21:13:34 UTC 2026
+# Generated on Wed Jul  8 23:14:56 UTC 2026
 
 
 # From: https://raw.githubusercontent.com/vialan-art/AAA/refs/heads/main/Additional-proxy
-DOMAIN,kb.adguard.com
-DOMAIN,whatshub.top
-DOMAIN,unsplash.com
-
-
+429: Too Many Requests
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
 # From: https://raw.githubusercontent.com/vialan-art/AAA/refs/heads/main/nsfwlist
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX:phncdn.com
