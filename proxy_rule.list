@@ -1,10 +1,13 @@
 # Proxy rules list for Shadowrocket
-# Generated on Wed Jul  8 23:14:56 UTC 2026
+# Generated on Thu Jul  9 03:44:23 UTC 2026
 
 
 # From: https://raw.githubusercontent.com/vialan-art/AAA/refs/heads/main/Additional-proxy
-429: Too Many Requests
-For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
+DOMAIN,kb.adguard.com
+DOMAIN,whatshub.top
+DOMAIN,unsplash.com
+
+
 # From: https://raw.githubusercontent.com/vialan-art/AAA/refs/heads/main/nsfwlist
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX:phncdn.com
@@ -55,13 +58,8 @@ DOMAIN-SUFFIX,chaturbate.com
 DOMAIN-KEYWORD,5d293dac
 
 # From: https://raw.githubusercontent.com/vialan-art/AAA/refs/heads/main/spdtstlist
-DOMAIN,speed.cloudflare.com
-DOMAIN,ipleak.net
-DOMAIN,ping0.cc
-DOMAIN,speedtest.net
-DOMAIN,speedtest.macpaw.com
-DOMAIN-KEYWORD,speed
-
+429: Too Many Requests
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
 # From: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/YouTubeMusic/YouTubeMusic.list
 # NAME: YouTubeMusic
 # AUTHOR: blackmatrix7
