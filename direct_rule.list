@@ -1,5 +1,5 @@
 # Direct rules list for Shadowrocket
-# Generated on Mon Jul 13 17:18:14 UTC 2026
+# Generated on Mon Jul 13 19:29:54 UTC 2026
 
 
 # From: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
@@ -9134,12 +9134,12 @@ IP-CIDR,::1/128,DIRECT
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-07-12 02:54:03
+# UPDATED: 2026-07-14 03:21:08
 # DOMAIN: 291
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 111701
+# DOMAIN-SUFFIX: 111711
 # USER-AGENT: 65
-# TOTAL: 112070
+# TOTAL: 112080
 .0.zone
 .00.net
 .000.link
@@ -19217,6 +19217,7 @@ IP-CIDR,::1/128,DIRECT
 .ad77.com
 .ad778.com
 .ada-post.com
+.adacpp.com
 .adamahf.com
 .adamcdn.com
 .adamcoder.com
@@ -33554,6 +33555,7 @@ IP-CIDR,::1/128,DIRECT
 .color-measure.com
 .color365.com
 .colorbird.com
+.colorfulclouds.com
 .colorfulclouds.net
 .colorfulltech.net
 .colorimeter.com
@@ -39676,6 +39678,7 @@ IP-CIDR,::1/128,DIRECT
 .duoyi.com
 .duoying.com
 .duoyinsu.com
+.duoyiwangluo.com
 .duoyoumi.com
 .duozhi.com
 .duozhuayu.com
@@ -48599,6 +48602,7 @@ IP-CIDR,::1/128,DIRECT
 .gtetern.com
 .gtfund.com
 .gtg56.com
+.gtgjtrip.com
 .gtgqw.com
 .gtgres.com
 .gtht.com
@@ -67357,6 +67361,7 @@ IP-CIDR,::1/128,DIRECT
 .klhpw.com
 .klhuyan.com
 .klicen.com
+.kling-ai.com
 .klingai.com
 .klinlee.com
 .klisedu.com
@@ -69753,6 +69758,7 @@ IP-CIDR,::1/128,DIRECT
 .leyoo.com
 .leyoujia.com
 .leyu.com
+.leyuansu.com
 .leyue100.com
 .leyuglobal.com
 .leyun365.com
@@ -90000,6 +90006,7 @@ IP-CIDR,::1/128,DIRECT
 .shedongyun.com
 .shedoor.com
 .shedunews.com
+.shedunews.net
 .sheec-tencentclb.cloud
 .sheec-tencentclb.com
 .sheec-tencentclb.net
@@ -108024,6 +108031,7 @@ IP-CIDR,::1/128,DIRECT
 .xiaomei.cc
 .xiaomeiti.com
 .xiaomeng1235.com
+.xiaomengai.com
 .xiaomi.com
 .xiaomi.hk
 .xiaomi.net
@@ -112125,6 +112133,7 @@ IP-CIDR,::1/128,DIRECT
 .ygct.com
 .ygdatabase.com
 .ygdl.com
+.ygduoyi.com
 .yge.me
 .ygeer.com
 .ygei.com
@@ -119510,6 +119519,7 @@ IP-CIDR,::1/128,DIRECT
 .zmsq.com
 .zmssh.com
 .zmtpc.com
+.zmtqsh.com
 .zmtquan.com
 .zmufivehospital.com
 .zmumu.com
@@ -121090,14 +121100,14 @@ zzq12345.gearhostpreview.com
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-07-12 02:53:32
+# UPDATED: 2026-07-14 03:20:36
 # DOMAIN: 292
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 112028
+# DOMAIN-SUFFIX: 112038
 # IP-ASN: 1
-# IP-CIDR: 12416
+# IP-CIDR: 12415
 # USER-AGENT: 65
-# TOTAL: 124815
+# TOTAL: 124824
 .0.zone
 .00.net
 .000.link
@@ -131178,6 +131188,7 @@ zzq12345.gearhostpreview.com
 .ad77.com
 .ad778.com
 .ada-post.com
+.adacpp.com
 .adamahf.com
 .adamcdn.com
 .adamcoder.com
@@ -145762,6 +145773,7 @@ zzq12345.gearhostpreview.com
 .color-measure.com
 .color365.com
 .colorbird.com
+.colorfulclouds.com
 .colorfulclouds.net
 .colorfulltech.net
 .colorimeter.com
@@ -151886,6 +151898,7 @@ zzq12345.gearhostpreview.com
 .duoyi.com
 .duoying.com
 .duoyinsu.com
+.duoyiwangluo.com
 .duoyoumi.com
 .duozhi.com
 .duozhuayu.com
@@ -160812,6 +160825,7 @@ zzq12345.gearhostpreview.com
 .gtetern.com
 .gtfund.com
 .gtg56.com
+.gtgjtrip.com
 .gtgqw.com
 .gtgres.com
 .gtht.com
@@ -179589,6 +179603,7 @@ zzq12345.gearhostpreview.com
 .klhpw.com
 .klhuyan.com
 .klicen.com
+.kling-ai.com
 .klingai.com
 .klinlee.com
 .klisedu.com
@@ -181986,6 +182001,7 @@ zzq12345.gearhostpreview.com
 .leyoo.com
 .leyoujia.com
 .leyu.com
+.leyuansu.com
 .leyue100.com
 .leyuglobal.com
 .leyun365.com
@@ -202247,6 +202263,7 @@ zzq12345.gearhostpreview.com
 .shedongyun.com
 .shedoor.com
 .shedunews.com
+.shedunews.net
 .sheec-tencentclb.cloud
 .sheec-tencentclb.com
 .sheec-tencentclb.net
@@ -220304,6 +220321,7 @@ zzq12345.gearhostpreview.com
 .xiaomei.cc
 .xiaomeiti.com
 .xiaomeng1235.com
+.xiaomengai.com
 .xiaomi.com
 .xiaomi.hk
 .xiaomi.net
@@ -224405,6 +224423,7 @@ zzq12345.gearhostpreview.com
 .ygct.com
 .ygdatabase.com
 .ygdl.com
+.ygduoyi.com
 .yge.me
 .ygeer.com
 .ygei.com
@@ -231791,6 +231810,7 @@ zzq12345.gearhostpreview.com
 .zmsq.com
 .zmssh.com
 .zmtpc.com
+.zmtqsh.com
 .zmtquan.com
 .zmufivehospital.com
 .zmumu.com
@@ -237148,18 +237168,20 @@ www.yxssp.com
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-07-12 02:53:32
+# UPDATED: 2026-07-14 03:20:37
 # DOMAIN: 292
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 112028
+# DOMAIN-SUFFIX: 112038
 # IP-ASN: 1
-# IP-CIDR: 12416
+# IP-CIDR: 12415
 # USER-AGENT: 65
-# TOTAL: 124815
+# TOTAL: 124824
 DOMAIN-SUFFIX,alipay
+DOMAIN-SUFFIX,alibaba
+DOMAIN-SUFFIX,taobao
+DOMAIN-SUFFIX,tmall
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
-DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,anquan
 DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,citic
@@ -237167,8 +237189,6 @@ DOMAIN-SUFFIX,icbc
 DOMAIN-SUFFIX,shouji
 DOMAIN-SUFFIX,sina
 DOMAIN-SUFFIX,sohu
-DOMAIN-SUFFIX,taobao
-DOMAIN-SUFFIX,tmall
 DOMAIN-SUFFIX,unicom
 DOMAIN-SUFFIX,wang
 DOMAIN-SUFFIX,weibo
@@ -237216,11 +237236,10 @@ DOMAIN-KEYWORD,beplay
 DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,bilibili
+DOMAIN-KEYWORD,qiyi
 DOMAIN-KEYWORD,hnagroup
 DOMAIN-KEYWORD,stripe
 DOMAIN-KEYWORD,weibo
-DOMAIN-KEYWORD,qiyi
-USER-AGENT,AcFun*
 USER-AGENT,*bili*
 USER-AGENT,Bilibili*
 USER-AGENT,bili*
@@ -237229,24 +237248,22 @@ USER-AGENT,TikTok*
 USER-AGENT,%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C*
 USER-AGENT,%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*
 USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
-USER-AGENT,%E4%BC%98%E9%85%B7*
 USER-AGENT,%E5%8D%B3%E5%88%BB*
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*Vainglory*
 USER-AGENT,AdBlock*
 USER-AGENT,Best%20Trace*
 USER-AGENT,MegaWerewolf*
 USER-AGENT,MicroMessenger%20Client
+USER-AGENT,MicroMessenger*
 USER-AGENT,MicroMessengerClient*
 USER-AGENT,Microsoft*
 USER-AGENT,Moke*
-USER-AGENT,NeteaseMusic*
 USER-AGENT,QQ*
 USER-AGENT,RemotePlay*
 USER-AGENT,TIM*
 USER-AGENT,TeamViewer*
+USER-AGENT,WeChat*
 USER-AGENT,WebTorrent*
-USER-AGENT,YYeTs*
 USER-AGENT,arrowio*
 USER-AGENT,balls*
 USER-AGENT,cmb*
@@ -237255,36 +237272,39 @@ USER-AGENT,eusoft_ting_en_iphone
 USER-AGENT,hearthstone*
 USER-AGENT,hide*
 USER-AGENT,ting_en
+USER-AGENT,%E4%BC%98%E9%85%B7*
+USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*QIYI*
+USER-AGENT,AcFun*
 USER-AGENT,DomesticMedia*
-USER-AGENT,MOO*
-USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
-USER-AGENT,QQMusic*
-USER-AGENT,baiduyinyue
-USER-AGENT,bilibili*
-USER-AGENT,youku*
-USER-AGENT,Himalaya*
 USER-AGENT,MGTV*
-USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
-USER-AGENT,MiguVideo*
 USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
-USER-AGENT,QQ%E9%9F%B3%E4%B9%90
-USER-AGENT,TencentMidasConnect*
-USER-AGENT,live4iphone*
-USER-AGENT,qqlive4iphone*
-USER-AGENT,MicroMessenger*
-USER-AGENT,WeChat*
-USER-AGENT,walkman*
-USER-AGENT,xiami*
-USER-AGENT,Youku*
+USER-AGENT,MOO*
+USER-AGENT,MiguVideo*
+USER-AGENT,NeteaseMusic*
 USER-AGENT,PPStream*
 USER-AGENT,QIYI*
+USER-AGENT,QQ%E9%9F%B3%E4%B9%90
+USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
+USER-AGENT,QQMusic*
 USER-AGENT,QYPlayer*
-USER-AGENT,iQIYI*
+USER-AGENT,TencentMidasConnect*
+USER-AGENT,YYeTs*
+USER-AGENT,Youku*
+USER-AGENT,baiduyinyue
+USER-AGENT,bilibili*
 USER-AGENT,iQiYi*
 USER-AGENT,iQiyi*
+USER-AGENT,live4iphone*
+USER-AGENT,qqlive4iphone*
+USER-AGENT,walkman*
+USER-AGENT,xiami*
+USER-AGENT,youku*
+USER-AGENT,Himalaya*
+USER-AGENT,iQIYI*
 IP-CIDR,0.0.0.0/32,no-resolve
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
@@ -240752,7 +240772,6 @@ IP-CIDR,14.208.0.0/12,no-resolve
 IP-CIDR,14.241.232.0/21,no-resolve
 IP-CIDR,14.255.16.0/24,no-resolve
 IP-CIDR,14.255.238.0/24,no-resolve
-IP-CIDR,14.255.249.0/24,no-resolve
 IP-CIDR,14.255.254.0/24,no-resolve
 IP-CIDR,140.101.208.0/24,no-resolve
 IP-CIDR,140.143.0.0/16,no-resolve
@@ -240967,7 +240986,6 @@ IP-CIDR,154.72.44.0/24,no-resolve
 IP-CIDR,154.72.47.0/24,no-resolve
 IP-CIDR,154.8.128.0/17,no-resolve
 IP-CIDR,154.8.48.0/20,no-resolve
-IP-CIDR,154.84.180.0/24,no-resolve
 IP-CIDR,154.89.32.0/20,no-resolve
 IP-CIDR,154.91.158.0/23,no-resolve
 IP-CIDR,154.94.50.0/24,no-resolve
@@ -241267,9 +241285,7 @@ IP-CIDR,168.160.0.0/16,no-resolve
 IP-CIDR,168.230.0.0/24,no-resolve
 IP-CIDR,17.127.128.0/23,no-resolve
 IP-CIDR,17.127.130.0/24,no-resolve
-IP-CIDR,17.188.211.0/24,no-resolve
 IP-CIDR,17.235.160.0/20,no-resolve
-IP-CIDR,17.33.144.0/24,no-resolve
 IP-CIDR,17.80.0.0/17,no-resolve
 IP-CIDR,17.80.128.0/18,no-resolve
 IP-CIDR,17.80.192.0/19,no-resolve
@@ -248238,7 +248254,7 @@ IP-CIDR,2a0a:8f40:9::/48,no-resolve
 IP-CIDR,2a0a:d681:e000::/40,no-resolve
 IP-CIDR,2a0a:d681:fb00::/40,no-resolve
 IP-CIDR,2a0a:d681:fc00::/38,no-resolve
-IP-CIDR,2a0a:d685:1ff::/48,no-resolve
+IP-CIDR,2a0a:d685:1fe::/47,no-resolve
 IP-CIDR,2a0a:d685:200::/47,no-resolve
 IP-CIDR,2a0a:d685:300::/40,no-resolve
 IP-CIDR,2a0a:d687:f001::/48,no-resolve
@@ -248530,6 +248546,7 @@ IP-CIDR,2a14:7583:f220::/43,no-resolve
 IP-CIDR,2a14:7583:f240::/42,no-resolve
 IP-CIDR,2a14:7583:f300::/46,no-resolve
 IP-CIDR,2a14:7583:f304::/47,no-resolve
+IP-CIDR,2a14:7583:f306::/48,no-resolve
 IP-CIDR,2a14:7583:f411::/48,no-resolve
 IP-CIDR,2a14:7583:f4f0::/47,no-resolve
 IP-CIDR,2a14:7583:f4f4::/48,no-resolve
@@ -249095,6 +249112,7 @@ IP-CIDR,43.93.0.0/16,no-resolve
 IP-CIDR,43.94.0.0/15,no-resolve
 IP-CIDR,43.96.0.0/11,no-resolve
 IP-CIDR,44.30.164.0/24,no-resolve
+IP-CIDR,44.30.171.0/24,no-resolve
 IP-CIDR,44.31.212.0/24,no-resolve
 IP-CIDR,44.31.216.0/24,no-resolve
 IP-CIDR,44.31.28.0/24,no-resolve
@@ -249653,6 +249671,7 @@ IP-CIDR,87.254.207.0/24,no-resolve
 IP-CIDR,87.76.221.0/24,no-resolve
 IP-CIDR,87.76.222.0/24,no-resolve
 IP-CIDR,89.30.124.160/30,no-resolve
+IP-CIDR,91.132.200.0/23,no-resolve
 IP-CIDR,91.233.17.0/24,no-resolve
 IP-CIDR,91.234.36.0/24,no-resolve
 IP-CIDR,93.113.109.104/29,no-resolve
@@ -249707,22 +249726,22 @@ IP-ASN,132203,no-resolve
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-07-12 02:54:04
+# UPDATED: 2026-07-14 03:21:09
 # DOMAIN: 291
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 111701
+# DOMAIN-SUFFIX: 111711
 # USER-AGENT: 65
-# TOTAL: 112070
+# TOTAL: 112080
+DOMAIN-SUFFIX,alibaba
+DOMAIN-SUFFIX,tmall
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
-DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,anquan
 DOMAIN-SUFFIX,citic
 DOMAIN-SUFFIX,icbc
 DOMAIN-SUFFIX,shouji
 DOMAIN-SUFFIX,sina
 DOMAIN-SUFFIX,sohu
-DOMAIN-SUFFIX,tmall
 DOMAIN-SUFFIX,unicom
 DOMAIN-SUFFIX,wang
 DOMAIN-SUFFIX,xihuan
@@ -249769,11 +249788,10 @@ DOMAIN-KEYWORD,beplay
 DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,bilibili
+DOMAIN-KEYWORD,qiyi
 DOMAIN-KEYWORD,hnagroup
 DOMAIN-KEYWORD,stripe
 DOMAIN-KEYWORD,weibo
-DOMAIN-KEYWORD,qiyi
-USER-AGENT,AcFun*
 USER-AGENT,*bili*
 USER-AGENT,Bilibili*
 USER-AGENT,bili*
@@ -249782,24 +249800,22 @@ USER-AGENT,TikTok*
 USER-AGENT,%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C*
 USER-AGENT,%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*
 USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
-USER-AGENT,%E4%BC%98%E9%85%B7*
 USER-AGENT,%E5%8D%B3%E5%88%BB*
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*Vainglory*
 USER-AGENT,AdBlock*
 USER-AGENT,Best%20Trace*
 USER-AGENT,MegaWerewolf*
 USER-AGENT,MicroMessenger%20Client
+USER-AGENT,MicroMessenger*
 USER-AGENT,MicroMessengerClient*
 USER-AGENT,Microsoft*
 USER-AGENT,Moke*
-USER-AGENT,NeteaseMusic*
 USER-AGENT,QQ*
 USER-AGENT,RemotePlay*
 USER-AGENT,TIM*
 USER-AGENT,TeamViewer*
+USER-AGENT,WeChat*
 USER-AGENT,WebTorrent*
-USER-AGENT,YYeTs*
 USER-AGENT,arrowio*
 USER-AGENT,balls*
 USER-AGENT,cmb*
@@ -249808,36 +249824,39 @@ USER-AGENT,eusoft_ting_en_iphone
 USER-AGENT,hearthstone*
 USER-AGENT,hide*
 USER-AGENT,ting_en
+USER-AGENT,%E4%BC%98%E9%85%B7*
+USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*QIYI*
+USER-AGENT,AcFun*
 USER-AGENT,DomesticMedia*
-USER-AGENT,MOO*
-USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
-USER-AGENT,QQMusic*
-USER-AGENT,baiduyinyue
-USER-AGENT,bilibili*
-USER-AGENT,youku*
-USER-AGENT,Himalaya*
 USER-AGENT,MGTV*
-USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
-USER-AGENT,MiguVideo*
 USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
-USER-AGENT,QQ%E9%9F%B3%E4%B9%90
-USER-AGENT,TencentMidasConnect*
-USER-AGENT,live4iphone*
-USER-AGENT,qqlive4iphone*
-USER-AGENT,MicroMessenger*
-USER-AGENT,WeChat*
-USER-AGENT,walkman*
-USER-AGENT,xiami*
-USER-AGENT,Youku*
+USER-AGENT,MOO*
+USER-AGENT,MiguVideo*
+USER-AGENT,NeteaseMusic*
 USER-AGENT,PPStream*
 USER-AGENT,QIYI*
+USER-AGENT,QQ%E9%9F%B3%E4%B9%90
+USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
+USER-AGENT,QQMusic*
 USER-AGENT,QYPlayer*
-USER-AGENT,iQIYI*
+USER-AGENT,TencentMidasConnect*
+USER-AGENT,YYeTs*
+USER-AGENT,Youku*
+USER-AGENT,baiduyinyue
+USER-AGENT,bilibili*
 USER-AGENT,iQiYi*
 USER-AGENT,iQiyi*
+USER-AGENT,live4iphone*
+USER-AGENT,qqlive4iphone*
+USER-AGENT,walkman*
+USER-AGENT,xiami*
+USER-AGENT,youku*
+USER-AGENT,Himalaya*
+USER-AGENT,iQIYI*
 
 # From: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/BiliBili/BiliBili.list
 # NAME: BiliBili
