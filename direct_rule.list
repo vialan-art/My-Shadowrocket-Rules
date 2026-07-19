@@ -1,5 +1,5 @@
 # Direct rules list for Shadowrocket
-# Generated on Sun Jul 19 21:58:53 UTC 2026
+# Generated on Sun Jul 19 23:01:51 UTC 2026
 
 
 # From: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
@@ -9119,6 +9119,10 @@ DOMAIN-SUFFIX,zendesk.com,DIRECT
 DOMAIN-SUFFIX,ziddu.com,DIRECT
 DOMAIN-SUFFIX,zoom.us,DIRECT
 DOMAIN-SUFFIX,cn,DIRECT
+DOMAIN-SUFFIX,tailscale.com,DIRECT
+DOMAIN-SUFFIX,tailscale.io,DIRECT
+DOMAIN-SUFFIX,ts.net,DIRECT
+IP-CIDR,100.64.0.0/10,DIRECT,no-resolve
 GEOIP,CN,DIRECT
 IP-CIDR,192.168.0.0/16,DIRECT
 IP-CIDR,10.0.0.0/8,DIRECT
