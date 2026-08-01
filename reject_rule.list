@@ -1,5 +1,5 @@
 # Reject rules list for Shadowrocket
-# Generated on Sat Aug  1 17:05:12 UTC 2026
+# Generated on Sat Aug  1 19:16:23 UTC 2026
 
 
 # From: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/BlockHttpDNS/BlockHttpDNS.list
@@ -80233,14 +80233,14 @@ IP-CIDR,61.174.50.214/32,no-resolve
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-08-01 03:11:25
+# UPDATED: 2026-08-02 02:58:00
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 16448
 # DOMAIN-KEYWORD: 278
-# DOMAIN-SUFFIX: 245877
+# DOMAIN-SUFFIX: 246141
 # IP-CIDR: 489
 # URL-REGEX: 14
-# TOTAL: 263106
+# TOTAL: 263370
 .0.avmarket.rs
 .0.myikas.com
 .0.net.easyjet.com
@@ -81718,6 +81718,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .1uandun.com
 .1ub29e88i.com
 .1udy3nzsqx.com
+.1ufztt6mkpt1p1krt3.cfd
 .1ujz59h62z.com
 .1ul6b1692e993bxyc3bzhx7.cyou
 .1under.ru
@@ -81740,6 +81741,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .1worldonline.com
 .1x26q3.cn
 .1x3x.com
+.1x6arks9.xyz
 .1xb.icu
 .1xl.co.uk
 .1xlite-208883.top
@@ -82151,6 +82153,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .285680.com
 .2859933b6d.com
 .2878644238.com
+.287o8ff2pyl3ht.cfd
 .28a0578796.com
 .28acglz.com
 .28adea9220.com
@@ -82393,6 +82396,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .2omfz9ygz2.com
 .2onq7kwbrfjbjv65.cfd
 .2orln75bry.com
+.2osb.com
 .2osq127yy.com
 .2ov8tjp9or3f21nc8erh8xv42f5984.rest
 .2owix58z11luk2k.rest
@@ -82713,6 +82717,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .3467b7d02e.com
 .34710af267.com
 .3482f0c95a.com
+.349329f8bd.com
 .34bogatirya.ru
 .34c2f9c751.com
 .34c72d94d3.com
@@ -84523,6 +84528,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .648c44a31f.com
 .648d969d69.com
 .649558.com
+.64bf88068b.com
 .64ce7c22c5.com
 .64f14dbf1b.8dc714cafe.com
 .64f5295d06.com
@@ -84609,6 +84615,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .66a5e92d66.com
 .66f4mej92etu96.cfd
 .66f5dd9691.com
+.66gn17epeny38uvc9l9.rest
 .66hao.cc
 .66infra-strat.com
 .66jo.societegenerale.fr
@@ -85722,6 +85729,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .86hhiuu88n3rpqmhlolf2bzu.cfd
 .86hi9r4f.xyz
 .86kx.com
+.86o5bui4n.com
 .86pjokx7vklxqp5iug2o.cfd
 .86services.net
 .86sijiachetuoyun.com
@@ -86512,6 +86520,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .9db4da6d9f.30c69e6975.com
 .9dca841dfa.com
 .9dcae0f138.com
+.9dd7d84e00.com
 .9dehzr5d2i.com
 .9desires.xyz
 .9dffa299bbc098481e6a.com
@@ -87182,6 +87191,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .a.zuowenku.net
 .a.zuowenxuan.cn
 .a.zxcvads.com
+.a005hakt6.com
 .a00s.net
 .a013.com
 .a04296f070c0146f314d-0dcad72565cb350972beb3666a86f246.r50.cf5.rackcdn.com
@@ -88980,6 +88990,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .abs-cdn.org
 .abs-static.org
 .abs.firstvds.ru
+.abscisssashaysoculina.cfd
 .abseelon.com
 .absentairport.com
 .absentbors.qpon
@@ -89475,6 +89486,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .achelessintegralsigh.com
 .achenesmuchly.rest
 .acheronascyrum.cfd
+.acheronmizzle.shop
 .achetezfacile.com
 .achewattmen.qpon
 .acheworry.com
@@ -94753,6 +94765,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .aeucjiicbgosj.site
 .aeucrt.mistergooddeal.com
 .aeuifgsbjnzpp.online
+.aeuukmhqenlvf.website
 .aevfoobzfsfjx.space
 .aeviagrieves.cfd
 .aevlgbckiceis.website
@@ -96421,6 +96434,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .aircraftreign.com
 .airdoamoord.com
 .airdropcassino.cfd
+.airedohioaxseeds.cfd
 .airfind.com
 .airgeecigee.net
 .airierpoiesis.cyou
@@ -97185,6 +97199,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .alexinceroon.cfd
 .alexisclothe.com
 .alexisclou.top
+.alexisskipped.cfd
 .alexyu.fr
 .alezanlig.store
 .alfa-tel.sk
@@ -98307,6 +98322,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .amvisicerya.cyou
 .amvmzbmzaryya.top
 .amvndrcsfxevr.site
+.amvntixh.in
 .amvtwk.thebottleclub.com
 .amwdtt.alvieromartini.it
 .amwgisnagixqe.store
@@ -98695,6 +98711,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .anddecoyblizzard.com
 .andelect.cfd
 .andersenit.dk
+.andfauna.net
 .andhkruuiigxmkd.com
 .andhrapanful.cfd
 .andhthrewdo.com
@@ -98799,6 +98816,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .anglesadjoiningbloodless.com
 .anglezinccompassionate.com
 .angliaeunedge.cfd
+.anglicefitcher.shop
 .anglingdacker.com
 .anglishreasts.site
 .anglonacarat.click
@@ -103771,6 +103789,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .atrophychumpreentry.com
 .atropicdarius.cfd
 .atroposwithhie.qpon
+.atrousrudish.qpon
 .atrxardarovr.com
 .ats.alot.com
 .ats.auction.co.kr
@@ -103827,6 +103846,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .attainthreatfluffy.com
 .attaleaeblisbreezy.qpon
 .attalgrandly.cfd
+.attalvidenda.com
 .attarbesets.com
 .attarsclallam.qpon
 .attaskanker.cyou
@@ -104247,6 +104267,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .aureliatmeses.com
 .auriclelureful.click
 .aurifygret.cyou
+.aurigidbagio.cyou
 .aurirdelicatgimped.qpon
 .auristquipu.help
 .aurora-d3.herokuapp.com
@@ -104543,6 +104564,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .aviditycantily.cyou
 .avidlyruntee.shop
 .avidnewssource.com
+.aviecayman.qpon
 .avietcombank.com
 .aviewrodlet.com
 .aviiivsxdmbgc.site
@@ -106285,6 +106307,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .balteraided.qpon
 .balteusngapi.cfd
 .balteusrail.qpon
+.balubaeirenic.qpon
 .balunkalends.com
 .balvalur.com
 .balvehgmhw.com
@@ -106782,6 +106805,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .barracuda.verto.exchange
 .barrasdockage.com
 .barrelaffloofatrophy.qpon
+.barrelcider.com
 .barrelhonestlypublicity.com
 .barren-date.pro
 .barren-theory.com
@@ -107285,6 +107309,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .bcgame.top
 .bcggo.ru
 .bcgwetajinklt.website
+.bcgxvxtvkx.com
 .bcgzqzjkyjmfd.store
 .bcgzz.creationl.com
 .bch8.destinia.co
@@ -107349,6 +107374,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .bcvc.mobi
 .bcvideod.com
 .bcvxfgy.xyz
+.bcvxynjpdtrcc.space
 .bcwjqztpkeeop68n5me9q44m5vog3l.cfd
 .bcwljq.batteryempire.de
 .bcwpdvigokzca.space
@@ -107748,6 +107774,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .beamyfogas.qpon
 .beanbounce.net
 .beancontrol.com
+.beanedrollman.shop
 .beaniergrivet.shop
 .beanstalkdata.com
 .beanstock.com
@@ -108170,6 +108197,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .belbenback.live
 .belboon.de
 .belchedemblic.rest
+.belchlipin.com
 .beldamnolos.cfd
 .belderbustic.qpon
 .beldooschae.com
@@ -108302,6 +108330,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .bendaysroit.com
 .bendedfilator.cyou
 .bendfrequency.com
+.bendingdebus.cfd
 .bendingrevivestriped.com
 .bendletcornerbridges.cyou
 .bendrunb.com
@@ -109797,6 +109826,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .biserka.xyz
 .bisetsoliped.com
 .biskerando.com
+.biskkonak.cyou
 .bisko.mall.tv
 .biskteeveeacutish.cfd
 .bisleyserrano.com
@@ -113082,6 +113112,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .bruteportrait.com
 .brutishlylifevoicing.com
 .brutrequit.cfd
+.brutterreshod.cfd
 .brutus.clicknplay.to
 .brutuzzzymudq.world
 .bruytdsxajjey.site
@@ -113145,6 +113176,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .bsbshhxpotmyt.site
 .bschuyenkhoamat.biz
 .bsdev.cn
+.bsdoekrfzlsgj.com
 .bserver.gp-guia.net
 .bservr.com
 .bsfeuihxrczte.space
@@ -115024,6 +115056,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .c615.denverpost.com
 .c635e33b2e.com
 .c64ihqx0gj.com
+.c65cb58426.com
 .c66ab37744.86d0868ed3.com
 .c67524ad03.com
 .c677.wisn.com
@@ -115836,6 +115869,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .canstrm.com
 .cantaraawingly.com
 .cantdogblued.uno
+.cantdogtabanidcorers.cfd
 .canteenelixate.rest
 .canterkenmark.qpon
 .canthaltietick.space
@@ -115901,6 +115935,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .capedhurlpit.cyou
 .capefast.com
 .capelancauking.cyou
+.capellaummps.shop
 .capeneist.rest
 .capeplayer.com
 .caperedlevi.com
@@ -116485,6 +116520,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .caribou.mcgregorpublishing.com
 .caricatureboretangle.com
 .carinasascitic.qpon
+.carinassyrus.qpon
 .caring-amount.pro
 .caring-tune.pro
 .caringcast.com
@@ -116888,6 +116924,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .cattailpectinselected.com
 .cattednatalia.help
 .cattell.loanzify.app
+.cattibetook.cfd
 .cattilysubdual.com
 .cattle.apisyouwonthate.com
 .cattle.driftbot.io
@@ -117676,6 +117713,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .cdn.usezeno.com.br
 .cdn.vaara.id
 .cdn.villaggioportoada.it
+.cdn.visitors.now
 .cdn.wenzhangba.cn
 .cdn.wg.uproxx.com
 .cdn.wusum.com
@@ -117986,6 +118024,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .ceggfe.msc-kreuzfahrten.de
 .cegifompifteefa.net
 .cegrithy.net
+.cegwdxrlymdbm.space
 .cehb1d1lsm.com
 .cehbmaknzpyic.store
 .cehiswasreb.ru
@@ -118822,6 +118861,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .chaussew.net
 .chautcho.com
 .chauwout.xyz
+.chavelscarola.cyou
 .chavoads.com
 .chavosh.org
 .chawerbacca.cyou
@@ -118935,6 +118975,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .cheelteshed.net
 .cheemtoo.com
 .cheemtutso.net
+.cheepalebion.shop
 .cheeperrebring.cyou
 .cheephaimaihakr.net
 .cheepswoibe.qpon
@@ -119075,6 +119116,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .chewhaidroub.net
 .chewinksanify.qpon
 .chewremittanceprovidence.com
+.chewsever.com
 .chewsrompedhemp.com
 .chexiw.com
 .chezoams.com
@@ -119492,6 +119534,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .chromatography.mac-mod.com
 .chromc.com
 .chrommotor.com
+.chromosbuckpot.cfd
 .chronicads.com
 .chronicairliner.com
 .chronicconcernlydia.com
@@ -119556,6 +119599,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .chunkdestructiveenforce.com
 .chunkedearlike.cfd
 .chunkstoreycurled.com
+.chunkyautoman.shop
 .chunkyaward.cfd
 .chunkycactus.com
 .chunkycolobin.life
@@ -120876,6 +120920,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .clicksure.com
 .clicksvenue.com
 .clicksyncflow.com
+.clicktag.de
 .clicktale.net
 .clicktale.pantherssl.com
 .clickterra.net
@@ -121954,6 +121999,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .coarctpoppetnousel.qpon
 .coarooro.net
 .coarseschool.com
+.coarseseggio.shop
 .coastalbloom.xyz
 .coastalcations.cyou
 .coastlineahead.com
@@ -124480,6 +124526,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .cordinghology.info
 .cordingsulfiddoffs.qpon
 .cordplumb.com
+.cordulapulasan.cfd
 .cordulawakens.shop
 .cordydikes.guru
 .cordyreseaus.rest
@@ -125748,6 +125795,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .creaghtain.com
 .creampie.afdss.info
 .creamssicsite.com
+.creamsstacher.cyou
 .creamy-exit.com
 .creamy-recover.com
 .creamymouth.com
@@ -126247,6 +126295,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .crustdisagreeable.com
 .crustedmailbag.qpon
 .crustshazards.help
+.crutchdiminutionantarctic.com
 .crutcheruimsettlement.e.epiqnotification.com
 .crutchstubbornultimatum.com
 .cruthdivisi.life
@@ -126875,6 +126924,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .cueyetwee.site
 .cufcw.com
 .cuffagible.shop
+.cuffeddimmer.com
 .cuffedpil.cfd
 .cufjou.ambarexpress.com
 .cufroa.aboutyou.be
@@ -127527,6 +127577,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .cwtwtvkajwgex.online
 .cwuaxtqahvk.com
 .cwuciqlttztxq.website
+.cwuriw6ktcj7w5z2qyucxhmt7.rest
 .cwuxquolwlfqp.site
 .cwvahnqeauemq.online
 .cwvfikunas.com
@@ -129730,6 +129781,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .dacdn.vwo.com
 .dacesspolia.cyou
 .dachadu.cn
+.daciantackers.shop
 .daciuehpyf.com
 .dackpartner-web.s3.amazonaws.com
 .dacmaiss.com
@@ -135061,6 +135113,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .dealtbroodconstitutional.com
 .dealtoneoddly.com
 .deamhzfvradtf.website
+.deaningpassecanamo.qpon
 .deansent.top
 .deanth.xyz
 .deanvividsquall.com
@@ -135134,6 +135187,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .debursechorti.cyou
 .debutknee.com
 .debutpoignantsudden.com
+.debwdbuqvcg.com
 .decademical.com
 .decafeligiblyhad.com
 .decafidflewed.cyou
@@ -135259,6 +135313,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .dedaishivix.net
 .dedcrfvdj.xyz
 .deddsunland.com
+.deddtalari.shop
 .dedendadolphus.rest
 .dedfearingles.info
 .dedicatedmedia.com
@@ -136537,6 +136592,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .dfu.federicousuelli.com
 .dfuijqrojtvcb.site
 .dfukhtby.com
+.dfukiuubowdft.space
 .dfuman.kasaideia.com.br
 .dfutznmffzefs.site
 .dfuufcsikcian.website
@@ -136861,6 +136917,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .dialergruf.cyou
 .dialgold.com
 .dialisttreflee.cfd
+.diallelpantoumexceed.cfd
 .dialling-abutory.com
 .dialog.dqs.de
 .dialog.losberger.com
@@ -137519,6 +137576,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .dioqto.totaljobs.com
 .diorismkeltswryest.cyou
 .diorismmotes.website
+.diosminfurzier.shop
 .diouidlf98.com
 .diouy9cvtx.xyz
 .dioxidssokes.cfd
@@ -137709,6 +137767,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .disciplinaryconstitute.com
 .disciplinarytreasurertyran.com
 .disciplineebony.com
+.discjockeys.net
 .discloseprogramwednesday.com
 .discobar.space
 .discomfortcreamforester.com
@@ -138197,6 +138256,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .djgqucjpunwhs.store
 .djhbxz.com
 .djhfkcfrdxv.com
+.djhfnwquuayww.website
 .djhhy.com
 .djibeacon.djns.com
 .djinnspasewa.cyou
@@ -138761,6 +138821,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .dmt.qcrx.cn
 .dmt1-img.canon.jp
 .dmtag.jp
+.dmtecdimjszdg.website
 .dmtgo.upc.biz
 .dmth.dematteohome.com
 .dmtopkjucvncs.site
@@ -138996,6 +139057,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .docbao24h.net
 .doccd.xyz
 .docentcliquybepen.cyou
+.docenttracey.qpon
 .docerad.wps.cn
 .doceree.com
 .dochase.com
@@ -140620,6 +140682,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .dsifi.toms.com
 .dsiill.com
 .dsikyf.com
+.dsilbm.com
 .dsimnq.com
 .dsincy.com
 .dsivor.com
@@ -143165,6 +143228,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .eceunutlxxfha.website
 .eceuvtsjfoauc.site
 .ecg21n9t8d.com
+.echardsvirosis.shop
 .echarglyn.shop
 .echarjutka.shop
 .echatu.com
@@ -144302,6 +144366,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .ehjlbjbbqsnct.website
 .ehkng.marymaxim.com
 .ehkwtcwlcewjx.space
+.ehlbjnnzlhpv.com
 .ehlfnpduxldcy.online
 .ehlfs.fullbeauty.com
 .ehlrxixabvzbo.tech
@@ -144633,6 +144698,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .eknaviqetxipo.space
 .eknklrkalozdb.online
 .eknnm.jessakae.com
+.eknrintckqimu.online
 .eknz.cn
 .ekocdokfmzwnz.site
 .ekod.info
@@ -144832,6 +144898,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .elficpheontourers.cyou
 .elfinsande.website
 .elfliketapalos.cfd
+.elflockhormigo.com
 .elfnuhdfebphr.life
 .elfnxscnmtao.com
 .elgdkzio.com
@@ -147349,6 +147416,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .errandfourteenthcatering.com
 .errandsfloes.help
 .errandsracket.com
+.errataanomer.cyou
 .erraticreaction.com
 .errely.com
 .erringgiggles.shop
@@ -148067,6 +148135,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .eubwzwxkyvvdb.website
 .eubynl.baby-sweets.de
 .euchresgabbart.cyou
+.euchresgnarly.qpon
 .eucing.com
 .eucleidoban.cyou
 .eucleu.com
@@ -148097,6 +148166,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .eufunding.ukri.org
 .eugek.travelpro.com
 .eugenearsonmeanwhile.com
+.eugenydenotes.shop
 .eugkpjjonhuts.space
 .eugonichyke.uno
 .eugtm.casio.com
@@ -148167,6 +148237,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .eumenidpetosfraser.cyou
 .eumenidsapa.cfd
 .eumgzcvgskxcz.site
+.eumihbvcyiprs.online
 .eumromqtxaj.com
 .eumtjfyvqtamt.store
 .eunformeranothe.info
@@ -150266,6 +150337,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .fafc5ra5.ru
 .fafc5ra6.ru
 .fafdnhthodzfc.space
+.fafeyrfqyxwivk.com
 .fafflecyprid.shop
 .faffwut.com
 .faffylocusca.shop
@@ -151786,6 +151858,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .ferretyacutely.cyou
 .ferricvalvula.cyou
 .ferrierstrewth.help
+.ferrissuzan.qpon
 .ferrypoemet.com
 .ferthu.seyffer.shop
 .fertilecalfawelessaweless.com
@@ -152273,6 +152346,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .fichatgriseravine.cyou
 .fichier-pdfr.fr
 .ficinhubcap.com
+.fickle-association.com
 .fickle-brush.com
 .fickle-dream.com
 .ficklecapacious.com
@@ -153919,6 +153993,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .flustered-picture.pro
 .flusteredexam.com
 .flusteredfall.pro
+.flutedlimorehire.cyou
 .fluteparental.com
 .fluteranguleindian.cfd
 .flutinablayne.cyou
@@ -154115,6 +154190,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .fnbtt.cleanmama.com
 .fncash.com
 .fncnet1.com
+.fncuzpoq.com
 .fndmg.personalizationmall.com
 .fndnundtdytuv.space
 .fndrsp.net
@@ -154497,6 +154573,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .for-joiyvidspics.online
 .for-joiyvidspics.site
 .forads.pro
+.foragedaccuser.cyou
 .foramendowve.com
 .foramoongussor.com
 .foramphots.cyou
@@ -154962,6 +155039,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .fox.4fox.pl
 .fox.visionaudiovisual.com
 .foxcounter.com
+.foxdfpbmignjdq.com
 .foxijcxwck.com
 .foxilymonacan.qpon
 .foxlagoon.com
@@ -155216,6 +155294,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .fqhtu.theyamazakihome.com
 .fqhucslrtysrl.site
 .fqhueanslwpyi.site
+.fqiaizkfzuqgs.online
 .fqibwvatzzcdj.space
 .fqjgn.etrgovinca.sk
 .fqjxmzlhmfmuk.online
@@ -155703,6 +155782,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .fresnel-events.vimeocdn.com
 .fresnelraggery.cyou
 .fresnobench.com
+.fresnomaniere.cyou
 .fressermafurra.cfd
 .frestacero.com
 .frestime.com
@@ -157046,6 +157126,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .fzc389q8nxip6fmplqw3p.cfd
 .fzcbgedizbt.click
 .fzcfwpodydfnk.site
+.fzcgwycgkipou.online
 .fzchpos.com
 .fzcrfbmjrgyli.site
 .fzcsd33.com
@@ -157080,6 +157161,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .fzjchj.com
 .fzju14tzv7z12gq2cf7gve3ij1m58.cfd
 .fzkizhppiybaj.space
+.fzkxfgpwfmafd.space
 .fzlbvs.schuhe24.de
 .fzlhoawxkxepc.space
 .fzlnk.com
@@ -158539,6 +158621,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .gecko.me
 .gecko.rrrelax.app
 .gecko.withclarify.com
+.gecksastrict.cfd
 .geckxmcccnhbc.space
 .gecl.xyz
 .gecodbchclick.xyz
@@ -159361,6 +159444,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .gevmrjok.com
 .gevnqh.com
 .gevzke.annonces-automobile.com
+.gewjleqnsivvn.site
 .gewuwen.com
 .gewxrcuetanau.site
 .gexaicmughoudy.net
@@ -159616,6 +159700,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .ggmseqjtwwslm.space
 .ggmvge.cheapoair.ca
 .ggnop.lactamo.com
+.ggnrpjdwuwoeq.website
 .ggo10090lq.com
 .ggo10091lq.com
 .ggo10100lq.com
@@ -159737,6 +159822,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .ghixjipeapa.xyz
 .ghjhucekiywqrk.com
 .ghjnpy.com
+.ghjyw4h23.com
 .ghkrndebbziup.online
 .ghkrwjkgbqjel.website
 .ghktwxuzvuufr.online
@@ -159858,6 +159944,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .gibaivoa.com
 .gibbalslucerne.rest
 .gibbarwaiting.com
+.gibbiocasxylic.cfd
 .gibbolheterosdiking.qpon
 .gibbon.711.st
 .gibbosesamfoodzeron.cyou
@@ -168115,6 +168202,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .gwp.xiaojukeji.com
 .gwpifpeauhhwk.online
 .gwpkpiodcnobu.online
+.gwpxwwzcrjhta.website
 .gwqtum.philips.de
 .gwropn.soelu.com
 .gwrpceo.cn
@@ -168891,6 +168979,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .halsouthorool.net
 .halteddropped.com
 .halterchildsabanut.cyou
+.haltesloppy.cfd
 .haltingbadge.com
 .haltingdivision.com
 .haltinggold.com
@@ -169523,6 +169612,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .hawkedbhang.shop
 .hawkedsettles.qpon
 .hawkerypunamu.com
+.hawkerystrand.shop
 .hawkeye-data-production.sciencemag.org.s3-website-us-east-1.amazonaws.com
 .hawkierussel.cyou
 .hawkingtorvid.help
@@ -170170,6 +170260,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .hebeixingfei.com
 .hebenefitssheasht.com
 .hebenefitssheasht.info
+.hebetearriseshaunchy.cyou
 .hebhec.cn
 .hebiichigo.com
 .hebkb.cn
@@ -171912,6 +172003,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .hlreoc.gonuldensevenler.com
 .hlrml.cn
 .hlrqi.lasioinc.com
+.hlrurpqjjvczn.space
 .hlsebwqdwrvpv.website
 .hlserve.com
 .hlstatus.com
@@ -172160,6 +172252,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .hoardsketosehenry.qpon
 .hoareddepulse.com
 .hoaredsavates.com
+.hoarishabiponjoshes.cfd
 .hoarishcaucho.cyou
 .hoarse-dark.pro
 .hoarseairy.com
@@ -173729,6 +173822,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .humbledrovet.cfd
 .humblemotor.pro
 .humbleoven.pro
+.humbleparticular.com
 .humblerenamour.com
 .humbleromecontroversial.com
 .humblestress.com
@@ -174000,6 +174094,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .hvdzdrovccwom.site
 .hvefnbufkpxou.website
 .hvegent.cn
+.hvenb4rt9pqjum.cfd
 .hvert.site
 .hvevwsqsvpoml.website
 .hvfilosbqpzdf.online
@@ -174041,6 +174136,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .hvpojkilqqykq.website
 .hvpsfsuruamnc.icu
 .hvqndbbmvbcrc.online
+.hvqnfgvusjsnc.space
 .hvqwjvoisrnhx.website
 .hvqyf.cn
 .hvrhgt.the-sun.com
@@ -175774,6 +175870,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .igyswjdwkppmo.online
 .igzjakutmbjxo.site
 .igzungpizrd.com
+.igzuwjvfvoqnj.space
 .igzynuqksgauf.site
 .ih.newegg.com
 .ih1.fileforums.com
@@ -176074,6 +176171,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .ikeymutilla.space
 .ikfdugtsrhfmi.online
 .ikfe4izuhbyqrw8gi8gcmiut1oi18vj.rest
+.ikfvlfsqlwsfy.site
 .ikhgxaeobmbb.com
 .ikholm.com
 .ikhzpm6lic5wmz61btrfetqo6cv4gke45.rest
@@ -176133,6 +176231,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .ikronzealu.com
 .ikryuq39ceqgjxnq87k52.cfd
 .ikspzv.fincaraiz.com.co
+.iktfggmhqf.com
 .iktzrzjpugczl.website
 .ikuailian.com
 .ikuaiquwan6.com
@@ -176263,6 +176362,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .illustrateartery.com
 .illustrationapplausespotlight.com
 .illustrationdreadfullythong.com
+.illustrious-consideration.com
 .illustriousarrival.com
 .illustriousmind.pro
 .illustriousoatmeal.com
@@ -176314,6 +176414,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .iltcaf.immobilienscout24.de
 .iltskegkybift.online
 .iludmt.com
+.ilukzknzwcxrf.website
 .ilusors.com
 .ilvgn.johnnyjanosik.com
 .ilvnmoqblnvrp.site
@@ -177997,6 +178098,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .infacejimjam.help
 .infameeagled.com
 .infamous-atmosphere.pro
+.infamous-growth.pro
 .infamousbill.pro
 .infamouschurch.pro
 .infamouslimit.pro
@@ -179162,6 +179264,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .ingeniousestateinvolving.com
 .ingeniousseasickfoolish.com
 .ingenioustech.biz
+.ingenuablepsy.qpon
 .ingerlis.doudare.no
 .ingest-api.evoto.ai
 .ingest-data-afra.snappfood.dev
@@ -179230,6 +179333,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .inhonvhdt.net
 .inhousead.net
 .inhshlfbgkqdw.site
+.inhumeagamete.cfd
 .inhumyszolcov.space
 .ini.litingxin.cn
 .ininmacerad.pro
@@ -179657,6 +179761,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .insightxe.pittsburghlive.com
 .insightxe.vtsgonline.com
 .insigit.com
+.insignificant-bitter.pro
 .insignificant-constant.com
 .insignificant-foot.com
 .insignificantretained.com
@@ -180362,6 +180467,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .inwucno.top
 .inxgfxylzkkgi.one
 .inxzfyeonudds.global
+.inyalamauled.shop
 .inzicht.cz.nl
 .inznbvtcgmfzn.store
 .inzoiwe.com
@@ -180907,6 +181013,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .irhqvzwgldygv.space
 .irhsi.etrendygo.com
 .irhsymtcvduze.website
+.irhzhtcyxozti.online
 .iridescentdusk.com
 .iriditepeiser.qpon
 .iridiumowenize.cyou
@@ -181239,6 +181346,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .isosterrockier.cyou
 .isotachrakers.shop
 .isotelyessedetontine.qpon
+.isotoperhodiccollaud.cfd
 .isotopetaxers.cfd
 .isoualkcjushz.website
 .isoucarmtosoz.online
@@ -181304,6 +181412,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .isymybwvzl.com
 .isypmogfhabmp.space
 .isywjrtn.com
+.isyyczzyjjomv.website
 .iszbchgvidvhw.space
 .iszbxqps.com
 .iszrrgjxekmas.website
@@ -181347,6 +181456,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .itc.insighttrailco.com
 .itcameruptr.com
 .itcgin.net
+.itchbuirdly.qpon
 .itchingaxing.qpon
 .itchinglikely.com
 .itchingunethical.com
@@ -182178,6 +182288,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .j83ad.speedrun.com
 .j85izots6.com
 .j8geljwqehp8mlhq48.cfd
+.j8n60aooj.com
 .j8q3mqqt3c374u5jb.rest
 .j8tzoy3xwn.com
 .j927.statnews.com
@@ -183233,6 +183344,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .jfelljoqquoijo.com
 .jfezwogpa.com
 .jfffe1o97b.com
+.jffoxgufjzmfc.space
 .jfgvom.maatila.co.kr
 .jfhe.0769371.com
 .jfhmuymhjaiui.online
@@ -183988,6 +184100,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .jlabb.canadianboardco.com
 .jlavmdvzxpgqs.online
 .jlawrkjcpahca.space
+.jlbmbquodyvxr.site
 .jlbowtwjqkxoa.space
 .jlbyuart.com
 .jlcarral.com
@@ -184772,6 +184885,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .jpwwqujvnoskd.site
 .jpwzbglshulfq.space
 .jpxzypyulrzyv.online
+.jpyarqadxh.in
 .jpyjtgwltadyi.space
 .jpzbjh.icu
 .jpzdaanhktgiu.online
@@ -185438,6 +185552,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .juevpynpxttzl.site
 .jueyds.top
 .jufenglc.com
+.jufferplatens.cfd
 .jufhxk.audienhearing.com
 .jufjpwpmcc.com
 .jufmgsnsjjcpk.site
@@ -187342,6 +187457,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .kfaktmfqtbw.xyz
 .kfand.com
 .kfareputfeab.org
+.kfayvnkzwwsyt.space
 .kfbjqsqbvnmrj.site
 .kfbmswmmo.com
 .kfbndkkbjbxkq.site
@@ -187445,6 +187561,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .kghzmesashlfi.space
 .kgihdv57il.com
 .kgimudenwjylc.website
+.kgioxibrrjqep.online
 .kgiqptmzhkidx.website
 .kgjks.rails.com
 .kgkmt.ticketrivals.com
@@ -188113,6 +188230,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .kjpiug.whatgoesaroundnyc.com
 .kjpojl.sementa.com
 .kjqas.getbrewsy.com
+.kjqcaydxxrert.website
 .kjqkjp.arnewstyle.com
 .kjqlmeaykennr.top
 .kjrastwgntzqe.website
@@ -189067,6 +189185,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .kozszolgalat.com
 .kp2h7cfjnx4jv6gn.cfd
 .kp79if6i2x7hkcc.rest
+.kp81r5wc5rmkl26hzoc4.cfd
 .kpaamldootvpw.global
 .kpabm.zeroex.com
 .kpapyw.icu
@@ -189629,6 +189748,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .kuffobduumzwl.space
 .kufoogroap.net
 .kufvoyagp.net
+.kufvqdstaemar.site
 .kugeshuffle.com
 .kughkqwlqozru.online
 .kughouft.net
@@ -189730,6 +189850,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .kutdbbfy.xyz
 .kuti8iar.xyz
 .kutjilsi.com
+.kutsidsan.in
 .kuttarmufti.com
 .kutyigeegikcp.space
 .kuuad.com
@@ -190033,6 +190154,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .kxxfdwt.cn
 .kxxyhjamtwozu.space
 .kxyg6l1brzpnlefqmt5yi.cfd
+.kxysrmpkrvekx.site
 .kxyumk.icu
 .ky.5.p2l.info
 .ky1amps1loy8iabe.pleasedonotblockme.com
@@ -191708,6 +191830,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .ldvkmzygcoido.site
 .ldvnehc.xyz
 .ldvuz.org
+.ldvzpuulgzmun.space
 .ldwejycundirn.com
 .ldwizdqfenjo.com
 .ldxeyz.openmedical.co.kr
@@ -191965,6 +192088,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .lebbfksrknrex.website
 .lebenscrimeamarxist.cfd
 .lebinaphy.com
+.lebiqovfwunft.online
 .lebiutacsvaat.website
 .lebkeresxa.ml
 .leboncoan.fr
@@ -192696,6 +192820,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .lguplus.goldenplanet.co.kr
 .lgupyhmwrglwg.space
 .lguteecbqzqln.site
+.lguuvbpnyijxu.online
 .lguvihbqjegvi.website
 .lgvgtl.terrashop.de
 .lgviqkrimvmy.xyz
@@ -195270,6 +195395,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .lnaxgfnttnrye.online
 .lnbjvhefrwuxh.website
 .lnbkckhipmi.com
+.lnbqvaoxbhkze.website
 .lnbswijsipf.com
 .lncfuqbgpnmxm.xyz
 .lncredlbiedate.com
@@ -195385,6 +195511,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .lnzangcha.com
 .lnzitobjnmskk.space
 .lnzjlr.xyz
+.lnzphfagyhpxi.space
 .lnzqmaqzjlnnw.top
 .lnzrsafk.space-suitcases.com
 .lnzsinagpafgv.website
@@ -199901,6 +200028,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .loajawun.com
 .loaladaunena.net
 .loamaushaihu.net
+.loamierallice.cyou
 .loamilybudgingbioral.cfd
 .loan.aol.msk.su
 .loandatec.com
@@ -200597,6 +200725,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .logistics.osmworldwide.com
 .logitepic.com
 .logitrave.fr
+.logjamstill.cfd
 .logkm.dantocmiennui.vn
 .loglabitrufly.top
 .loglady.kiwi.com
@@ -201467,6 +201596,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .lpftvmqzs.com
 .lpfulinotaherere.info
 .lpfvuqqyplupy.site
+.lpfwocjuxhbxo.space
 .lpfztnyr.com
 .lpg02.com
 .lpgouuzcqcfjz.site
@@ -201823,6 +201953,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .lsvard.e-kinoshita.net
 .lsvblpynuezkbf.com
 .lsvfzskgudyyr.site
+.lsvvccoqwylrg.website
 .lswdjtngkdhbe.website
 .lswfmx.stuartweitzman.com
 .lswteiiyfccwt.site
@@ -203967,6 +204098,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .malariarevive.cyou
 .malastasho.pro
 .malatiswirled.com
+.malaxaboil.shop
 .malaxvicus.qpon
 .malaysguaymiebogging.cyou
 .malcare.me
@@ -206162,6 +206294,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .markxa.xyz
 .marliermotes.qpon
 .marlin.firstline.org
+.marlitedippy.qpon
 .marlpitbucku.com
 .marlynothal.shop
 .marmaladestrikingcolourless.com
@@ -206247,6 +206380,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .marvellousperforming.com
 .marvelrespectableinset.com
 .marvelselectedheron.com
+.marvywaled.qpon
 .marwariformer.com
 .marwinhitted.site
 .marx7loki.com
@@ -206319,6 +206453,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .masselfidgets.shop
 .massilypaut.shop
 .massive-dark.pro
+.massive-highway.pro
 .massiveanalyticssys.net
 .massivebasket.com
 .massivemanuscriptestimated.com
@@ -206679,6 +206814,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .mayxanhsg.com
 .mayxanhsupport.com
 .mayyadc.cfd
+.mayzaent.com
 .maz.zba.jp
 .mazamadryest.com
 .mazarine-ap.com
@@ -208515,6 +208651,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .metershookdash.com
 .metertna.ru
 .metfoetushandicraft.com
+.methenestaith.qpon
 .metheny.cn
 .methidekohua.shop
 .methodcash.com
@@ -212128,6 +212265,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .mjurz.springandmulberry.com
 .mjutjc.telstarsurf.de
 .mjuzs.strutmasters.com
+.mjvb60t4g.com
 .mjvkkfolyddcq.website
 .mjvr.cn
 .mjvvklsjsdddh.space
@@ -213514,6 +213652,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .monkeytracker.cz
 .monkeyunseen.com
 .monkishkecked.com
+.monkismsabayon.cfd
 .monkismspanish.cyou
 .monkismstomp.cyou
 .monkmanagementtuesday.com
@@ -213527,6 +213666,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .monnionyusdrum.com
 .monnyfooling.cfd
 .monodonng.cfd
+.monoecyboxen.shop
 .mononchtenue.cyou
 .mononoteapp.firebaseio.com
 .mononymemeline.cfd
@@ -213605,6 +213745,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .moochescramper.com
 .mooddivided.com
 .moodeign.cyou
+.moodierholibut.qpon
 .moodirresolute.com
 .moodjav12.fun
 .moodlerooms.blackboard.com
@@ -213759,6 +213900,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .morebrokedddomname.com
 .moredata.gotaplatsensfoto.se
 .moredetaailsh.com
+.moreduscle.qpon
 .morefastermac.trade
 .morefolks.com
 .morefreecamsecrets.com
@@ -216674,6 +216816,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .naicoapt.com
 .naiep.xyz
 .naifason.xyz
+.naigfattedshamer.qpon
 .naigristoa.com
 .nailadversary.com
 .nailowhe.net
@@ -217426,6 +217569,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .ncetdrzpalozq.space
 .nceteventuryrem.com
 .ncevipdjsuoln.com
+.ncgpcuweuiulu.space
 .ncgqmzm.cn
 .ncgyayuwfmujc.website
 .nch-software.info
@@ -219474,6 +219618,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .nisibtosnmnrx.com
 .nitafu.click
 .nitencymaracarammy.cyou
+.nitgurging.cfd
 .nitheemp.net
 .nithyshipsi.com
 .nitigoly.com
@@ -220241,6 +220386,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .nolosnephila.cfd
 .nolouuelvmzbu.website
 .nolrougn.com
+.nolvbxtoqffzy.online
 .nolzmmmohdwfe.online
 .nom.familysearch.org
 .nom.lds.org
@@ -221350,6 +221496,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .nubileforward.com
 .nubseech.com
 .nubumwpmqpslh.website
+.nucelliscreaky.qpon
 .nucgsx.indestructibleshoes.com
 .nucjcygtzbct.com
 .nuclandary.qnfbfs.cn
@@ -223195,6 +223342,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .oerfucoids.qpon
 .oerstedcalumba.qpon
 .oerxzdstepphr.store
+.oescornrow.shop
 .oesfco.glamira.pl
 .oeslfqfatabdp.website
 .oesnw.com
@@ -226088,6 +226236,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .orgfh.getspeks.com
 .orgiacdoses.cyou
 .orgiastafrits.cyou
+.orgicauldest.cfd
 .orgieslostorage.qpon
 .orgjqhznrwvr.com
 .orgkjaydrxxemoo.net
@@ -226233,6 +226382,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .orseduecrapula.cfd
 .orsmfg.notino.de
 .orsnarking.cfd
+.orsnpnbrncyiw.site
 .orsqgxiuhkitm.website
 .orssengseen.com
 .orssgypxniykf.space
@@ -228642,6 +228792,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .pap.zalando.de
 .papa999.xyz
 .papageienseite.de
+.papagomoslem.cfd
 .papainstogae.qpon
 .papairtoacy.net
 .papajia55.com
@@ -228749,6 +228900,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .parched-mail.com
 .parchedangle.com
 .parcheddustee.life
+.parchedplay.com
 .parchedsofa.com
 .parcookgoofah.qpon
 .pardahsmidis.qpon
@@ -229601,6 +229753,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .passendo.com
 .passengercomprehend.com
 .passengerpage.com
+.passersspiered.qpon
 .passeskannume.cfd
 .passeura.com
 .passewarestamp.help
@@ -229683,6 +229836,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .patarinmangers.top
 .patartnitchbuccal.cfd
 .patate.gupload.xyz
+.patballgammas.qpon
 .patcans.club
 .patchedcyamoid.com
 .patchedknute.cfd
@@ -230933,6 +231087,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .pernineatwindazotea.qpon
 .pernyiunlatch.cyou
 .peronesutoria.qpon
+.peronetonkin.cfd
 .peropusparmese.com
 .peropustautogs.cyou
 .peroutsell.qpon
@@ -231130,6 +231285,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .pevxxyfyhsvlh.global
 .peweocpibxvvi.space
 .pewfeafvlaiwe.online
+.pewpxlxlfsaac.website
 .pewyforz.shop
 .pexavfro.xyz
 .pexcsvjiecyoi.site
@@ -231233,6 +231389,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .pfudp.saltair.com
 .pfugzccdqenfw.online
 .pfuhoaygpop.com
+.pfuitaxmencashoo.cfd
 .pfulhwxjeoi.com
 .pfumefevfhare.space
 .pfundeoutacts.cyou
@@ -231595,6 +231752,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .phirussacmush.net
 .phising-initiative.fr
 .phixls.uaubox.com.br
+.phjelnacnkkli.website
 .phjml.cn
 .phjpiksdnhccr.site
 .phjteuhnuytwqe.com
@@ -231879,6 +232037,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .phywi.org
 .phywifupta.com
 .phzlhhfidmntxc.com
+.phztnfimeghth.space
 .pi-stats.com
 .pi.feedsportal.com
 .pi.ispot.tv
@@ -231912,6 +232071,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .piarecdn.com
 .piaroankenyte.store
 .piasabagiveth.com
+.piaskhaja.cfd
 .piastvicine.cyou
 .piatan.piatannatural.com.br
 .piazzaaiery.qpon
@@ -232185,6 +232345,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .pilsarde.net
 .pilulagabitaroc.cyou
 .pilularatavist.com
+.pilulehomeoid.cfd
 .piluleruggy.com
 .pimamonthon.cfd
 .pimarichexagon.shop
@@ -233444,6 +233605,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .plgtxprvrgume.site
 .plhtxf.firstnavi.jp
 .pliablepeised.shop
+.pliableunsnaky.qpon
 .pliantdummyexasperation.com
 .plianteditdisembark.com
 .pliantethanyowing.qpon
@@ -234460,6 +234622,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .poqjnkdsou.net
 .poqoiwn.com
 .poqup.com
+.poqwepljjnepo.online
 .poqwnllkm.com
 .poqwo3.com
 .poratav.com
@@ -235466,6 +235629,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .premiermylodei.com
 .premierpearlet.shop
 .premisemodula.qpon
+.premitunebbed.cyou
 .premium-live-scan.com
 .premium-members.com
 .premium-offers.com
@@ -235662,6 +235826,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .previouspotato.com
 .previousscambuild.com
 .prevoidfustee.qpon
+.prevoidwhopper.shop
 .prevostslakier.top
 .prevoteglimmer.cyou
 .prevueseugonicjilting.cyou
@@ -235993,6 +236158,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .prk.roverinvolv.bid
 .prksism.com
 .prkudpsduulrx.online
+.prkvciyiwymts.space
 .prkvlr.camper.com
 .prkvsrvtruhlf.online
 .prl.adasgxsp.cc
@@ -236095,6 +236261,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .probablyimmatureresentment.com
 .probablyrespectivelyadhere.com
 .probablyusualcontraction.com
+.probalanvils.cfd
 .probandchiders.help
 .probationpresented.com
 .probationshacksaint.com
@@ -236679,6 +236846,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .protected-redirect.click
 .protectedfolkssomebody.com
 .protectedpeat.com
+.protectedspinster.com
 .protecteverywheredisgraceful.com
 .protectflow.life
 .protectheader.com
@@ -237738,6 +237906,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .puddleincidentally.com
 .puddwz.mister-auto.ie
 .pudencygletty.com
+.pudendaleskeasucrose.cfd
 .pudgygob.world
 .pudhr.paulinafitness.com
 .pudijoghimtoo.net
@@ -238509,6 +238678,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .pvsxzlb.com
 .pvt2202--deab86120ff311f1b0c142dde27851f2.web.val.run
 .pvtag.yahoo.co.jp
+.pvtcfeojlwxrx.online
 .pvtd.cn
 .pvtest.zol.com.cn
 .pvtjt.ancestralsupplements.com
@@ -238871,6 +239041,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .pzemxqyyaynor.site
 .pzemzwvodejwz.website
 .pzevcsnxpnvwb.site
+.pzflzyuagcpai.online
 .pzfov.salomon.com
 .pzfv4rxjklbbjltyz9gonb4vmlympmx55nfbu.rest
 .pzgbqbk.com
@@ -239258,6 +239429,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .qcblzn.pinkpanda.it
 .qcbtygylmnfez.fun
 .qccoccocmedia.vn
+.qccxvtfbk.com
 .qcdch.saltlaboratory.com
 .qceartfa.com
 .qcennhkrzskze.space
@@ -240900,6 +241072,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .qtq632.com
 .qtqcd.bonmarche.co.uk
 .qtqkpddcbddmy.space
+.qtqlkzfpfpxow.website
 .qtqlvy3cww2cnkipfr442vt.cfd
 .qtqqn.thriftvintagefashion.com
 .qtqv3cy43w.com
@@ -240957,6 +241130,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .quaidesbulles.fr
 .quail.trueglowbylaura.com
 .quailnude.com
+.quailsbs.shop
 .quaint-escape.pro
 .quaintbitter.com
 .quaintborder.com
@@ -241658,6 +241832,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .qwwrqxlbplpws.website
 .qwxcs.com
 .qwxfhuzzyhyiu.space
+.qwxfktuzqctax.site
 .qwxolavxykodb.site
 .qwxxufudvlloq.site
 .qwylpm.teljoy.co.za
@@ -242082,6 +242257,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .r8nu86wg.me
 .r8pzycfvwbtwjhi9lfzmiqp461vxph2.rest
 .r932o.com
+.r96h7g97rik8eq8ow.cfd
 .r973.timesheraldonline.com
 .r9ffi.fun
 .r9ljguu1k4.ru
@@ -244704,6 +244880,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .removedidentification.com
 .removedispel.com
 .removedrehabilitation.com
+.remox.com
 .remp-beam.golem.de
 .remp-campaign.golem.de
 .remp.nv.ua
@@ -245750,6 +245927,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .rewinddisgusting.com
 .rewinddubbones.com
 .rewindstagger.com
+.rewiwjmnrjvdc.site
 .rewordsbrogh.life
 .reworkcentavo.cyou
 .rewovenentonic.help
@@ -246160,6 +246338,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .rhythmrule.com
 .rhythmxchange.com
 .rhytic.com
+.rhzmwkiqjjfjv.website
 .rhzofr.icu
 .ri.5.p2l.info
 .ri.mistermenuiserie.com
@@ -246180,6 +246359,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .ribghr.icu
 .ribgreenhousecompose.com
 .ribkdvpyszfm.com
+.ribletslysinsmetusia.cfd
 .riblikestratal.help
 .ribosesshutes.cfd
 .ribqpiocnzc.com
@@ -247149,6 +247329,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .robberysordid.com
 .robbiblubber.org
 .robbindoer.digital
+.robbqjyn.com
 .robcalwith.ru
 .robcohatru.ru
 .robedonedip.com
@@ -247340,6 +247521,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .rokt.com
 .roku-beacons.xumo.com
 .rokymedia.com
+.rol6z3c3r17ny93i26wt34cy1pc21mtw4ri.rest
 .rolandpeon.qpon
 .roldbowdiyegy.online
 .roleacquisitionrighty.com
@@ -247738,6 +247920,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .rovz7ekw3r.com
 .rowansportstriped.com
 .rowaskewoblong.com
+.rowavojtcttxt.online
 .rowdiersnary.uno
 .rowdyraise.pro
 .rowdyrope.pro
@@ -249600,6 +249783,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .rxkayupbjvt.com
 .rxkrnofyhchvm.site
 .rxliwi.ullapopken.com
+.rxlvemmsokvfi.online
 .rxmqrbbhwbdeh.website
 .rxnuglcau.xyz
 .rxnvg.com
@@ -251604,6 +251788,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .sandalsprotist.cyou
 .sandbank56.com
 .sandbank68.com
+.sandbincassiri.qpon
 .sandbox-connectlp.keysight.com
 .sandbox-elq.keysight.com
 .sandbox-elq.keysight.com.cn
@@ -252559,6 +252744,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .scgou.littlepassports.com
 .sch-alt-91.com
 .sch-crt-91.com
+.schanzbordman.cfd
 .schanzweaners.cyou
 .schappebopyrid.qpon
 .scharfdutra.qpon
@@ -252894,6 +253080,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .screwdriverblizzard.com
 .screwerfriseur.cyou
 .screwerpimlico.shop
+.screwsgrazecapon.cyou
 .screwyhotly.cyou
 .scribbens.fr
 .scribblemidday.com
@@ -252954,6 +253141,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .scrolarlutes.help
 .scrollbelow.com
 .scrollisolation.com
+.scrollpop.online
 .scrollservice.com
 .scrolltotop.com
 .scrollye.com
@@ -253023,6 +253211,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .scungesifters.shop
 .scupio.com
 .scupio.net
+.scurdycoercessago.cfd
 .scure-royaibamk.com
 .scurra.space
 .scurrilidylian.shop
@@ -254247,6 +254436,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .sendwebpush.com
 .sendword.ir
 .senecaanoles.com
+.senegalimproof.cfd
 .seneptm.eposcard.co.jp
 .sengimirexes.shop
 .sengiprexes.cfd
@@ -260410,6 +260600,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .shawmrebind.shop
 .shawon.kitchenbazarbd.com
 .shawon1.kitchenbazarbd.com
+.shawskinboteembolon.cyou
 .shawuh2a8nyam09.com
 .shaxegni.com
 .shaxiq.com
@@ -260496,6 +260687,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .shellypartile.com
 .shelter57.com
 .sheltercellar.com
+.shelvyjosh.cfd
 .shemale.house
 .shemalesofhentai.com
 .shenbabao.com
@@ -260708,6 +260900,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .shise.me
 .shisnwatcher.digital
 .shiswashisco.com
+.shitainfamy.cyou
 .shitblimp.gasm.ninja
 .shitcustody.com
 .shitoulm.com
@@ -261421,6 +261614,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .shostobs.net
 .shotdynastyimpetuous.com
 .shotgunchancecruel.com
+.shotmanwoodies.cyou
 .shotstopers.com
 .shottyfoamily.qpon
 .shotyfy.com
@@ -261729,6 +261923,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .siconoi.com
 .sicptmaosfykg.net
 .sicptmaosfykg.xyz
+.sicqybon.com
 .sicyoschows.cyou
 .sid.nordstrom.com
 .sid.starstudd.com
@@ -261901,6 +262096,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .signifyd.com
 .signingunwilling.com
 .signingvehemenceraffle.com
+.signmanswitzer.qpon
 .signoraargent.life
 .signorafusel.qpon
 .signpetition.co
@@ -261970,6 +262166,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .sillagoalgae.website
 .sillagoposs.shop
 .sillaltica.cyou
+.sillararrand.qpon
 .sillierwills.shop
 .sillinessclearly.com
 .sillinessinterfere.com
@@ -262946,6 +263143,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .slaithamitalgodpapa.qpon
 .slakedartouhaleday.cyou
 .slakiervolost.com
+.slakinoltondeoutbred.qpon
 .slamactress.com
 .slammedloftygauze.com
 .slampallies.help
@@ -262966,6 +263164,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .slapbutler.com
 .slapclergymoth.com
 .slapexcitedly.com
+.slapperbroil.cyou
 .slapswingthrough.com
 .slaqandsan.xyz
 .slaresolidi.com
@@ -263140,6 +263339,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .slimopinion.com
 .slimplumbernotable.com
 .slimreply.pro
+.slimshaptic.shop
 .slimspots.com
 .slimtrade.com
 .slimy-sport.pro
@@ -263745,6 +263945,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .smmmkl.hoff.ru
 .smmmqq.com
 .smmnclhggakto.website
+.smmnukhmkbffv.site
 .smmqhjwwrjred.store
 .smmx3.cn
 .smn.dankore.jp
@@ -279080,6 +279281,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .std.o.rxlist.com
 .std.odontoiatrika.it
 .std.stdrapidtestkits.com
+.std72yw0s.com
 .stdirection.com
 .stdl.qq.com
 .stdm.ayudante.jp
@@ -279359,6 +279561,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .stilanzeigen.net
 .stilbdueller.cyou
 .stilbmolted.com
+.stilbumcarapo.shop
 .stildell.com
 .stildreans.com
 .stillawokeathwart.com
@@ -280666,6 +280869,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .subwayhumility.com
 .subx.alpinawein.de
 .subxpk.com
+.succahodorant.cyou
 .succahsflotsam.cfd
 .succeedappointedsteve.com
 .succeedingpeacefully.com
@@ -281576,6 +281780,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .svem.cc
 .sverd.net
 .sverowkatguzh.site
+.svetoborka.link
 .svfbc.finesse.us
 .svfwer.top
 .svgmirkagtgcz.space
@@ -282119,6 +282324,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .swollencompletely.com
 .swomanifefashionis.org
 .swonswksodcbc.website
+.swoobmoczogq.in
 .swoodlander.site
 .swoonedanomala.help
 .swoop.com
@@ -282185,6 +282391,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .swx.0.0.0.0.cn
 .swylysnrppthv.space
 .swzhaohuo.com.cn
+.swzptymsigrdh.site
 .swzrtm.unclereco.com
 .sx.fakjkwp.cn
 .sx.ifm.org
@@ -282324,6 +282531,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .sxmxpm.nectarsleep.com
 .sxncdwwjlvwkz.online
 .sxobqwbiiknjp.website
+.sxoykqrysexu.com
 .sxp.allianz.de
 .sxpexkvqmnkwq.space
 .sxprtoqjwbvuq.website
@@ -284822,6 +285030,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .tankiuz.xyz
 .tankroyaldivide.com
 .tanksfright.com
+.tanmmxyfybzpp.website
 .tannedeluder.cyou
 .tannedposes.cfd
 .tannideilocano.qpon
@@ -284863,6 +285072,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .taobayun.cn
 .taobc.com
 .taobeike.com
+.taobljybvgouh.online
 .taocorloezwno.com
 .taodropship.com
 .taoggou.com
@@ -284973,6 +285183,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .tardangro.com
 .tardecto.cyou
 .tardierrouges.com
+.tardiescomournaphides.cfd
 .tardleuruturiglet.cyou
 .targad.de
 .targaubs.com
@@ -285320,6 +285531,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .tarpitbar.com
 .tarpturfdom.cfd
 .tarqk5.com
+.tarquingumtreemourner.qpon
 .tarreyieldwaned.qpon
 .tarriesthetine.digital
 .tarrilyathenee.com
@@ -285623,6 +285835,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .tb104x.corp.youdao.com
 .tb1mdkeni.com
 .tb1u.com
+.tb3hrrmcgfumj5fvk.cfd
 .tb3t.xyz
 .tb4gv2cp5z.com
 .tb55788.com
@@ -286758,6 +286971,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .tentflooring.biljax.com
 .tenthgiven.com
 .tenthsfrumpy.com
+.tentilyrouth.qpon
 .tentioniaukmlastit.com
 .tentionirreg.com
 .tentionswaver.qpon
@@ -287983,6 +288197,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .thivelunliken.com
 .thj.astrakhan.ru
 .thj36m3dm.com
+.thjfqbwhlegns.website
 .thjhaj.zooart.com.pl
 .thjwxz.xyz
 .thjxvlrjnbqbs.store
@@ -288885,6 +289100,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .tip-ads.de
 .tip-leisusports.com
 .tipburncaiman.cyou
+.tipburnhot.shop
 .tipcartoleron.com
 .tipcatscarola.com
 .tipcatslemanry.qpon
@@ -289578,6 +289794,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .tlq8ufqddj.com
 .tlqjonbqwuwmp.online
 .tlqugk.fashionette.se
+.tlr2wnrb7vofkmhivll7yj8.rest
 .tlrkcj17.de
 .tlrtd.cymbiotika.com
 .tls.coachlykke.dk
@@ -290071,6 +290288,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .toecircle.com
 .toedrawer.com
 .toeholdbarrack.life
+.toelikenymphs.cfd
 .toenaildemand.com
 .toenailfairnessvictorious.com
 .toenailmushensues.cfd
@@ -297440,6 +297658,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .ttbaods.com
 .ttbc.cc
 .ttbm.com
+.ttbu59z6hmxyfl.cfd
 .ttc.africantravelinc.com
 .ttc.haggisadventures.com
 .ttc.highlandexplorertours.com
@@ -298004,6 +298223,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .tusno.com
 .tussahsoxyopia.cyou
 .tussledconies.cyou
+.tussledhurdis.cfd
 .tusslertorpify.qpon
 .tussorekamba.cfd
 .tutaniaintimae.cfd
@@ -298260,6 +298480,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .twigwisp.com
 .twilightinspiredglands.com
 .twilightsentiments.com
+.twilitwolfdomfalcer.qpon
 .twillermobiles.cfd
 .twilmii.top
 .twiltformyl.qpon
@@ -298886,6 +299107,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .u660.theheraldreview.com
 .u66099.com
 .u67qpnaexu.com
+.u6qzzhptfetuto.rest
 .u6u.icu
 .u6uy9lzdcj.com
 .u6yzoru6u.com
@@ -300265,6 +300487,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .ulyhadchos.com
 .ulymhoghpradf.space
 .ulyvjty4rd.com
+.ulywbvwxyyiol.space
 .ulziylkdhxcap.store
 .ulzriwofwavvc.online
 .um-public-panel-prod.s3.amazonaws.com
@@ -300395,6 +300618,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .umrvmb.net.anwalt.de
 .umsgpfloirafp.site
 .umsns.com
+.umssvcwqpokjt.online
 .umswe.com
 .umtlqaamwftxr.website
 .umtudo.com
@@ -301017,6 +301241,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .unlesssecret.com
 .unlika.com
 .unlimbhutlet.cfd
+.unlimitedbarbpuzzlement.com
 .unlimitedteacup.com
 .unlined-you.com
 .unlinedcap.pro
@@ -301216,6 +301441,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .unshinykerite.com
 .unshoutstroth.rest
 .unshutcaitiff.com
+.unsightlyaffect.pro
 .unsigilyphor.com
 .unsingwont.shop
 .unsizedjabber.com
@@ -301633,6 +301859,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .upglideantijam.com
 .upglidetectona.cfd
 .upgliscorom.com
+.upgocauda.cfd
 .upgrade-ms-home.com
 .upgrade.xl9.xunlei.com
 .upgraderservices.cf
@@ -302106,6 +302333,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .urmgui.nationsphotolab.com
 .urmilan.info
 .urnigarted.com
+.urningcense.qpon
 .urnismsoroses.rest
 .urnki.pjsalvage.com
 .urnooiew.com
@@ -303209,6 +303437,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .uufgarwmibysu.online
 .uufjxnfitxtvt.website
 .uufrhwutgdgxe.com
+.uugcoqbjlpcyc.website
 .uugfvrpccibuj.website
 .uugq56e7kychtrpq2xm8v59yol5gn.rest
 .uuhapochhbjzl.site
@@ -303420,6 +303649,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .uxahhowennlqf.website
 .uxazhgibyblus.store
 .uxbygjzvingbv.online
+.uxcdqabxbsq.com
 .uxcjzhltqcgxy.space
 .uxcnhsf.cn
 .uxdfxyepfow.xyz
@@ -303887,6 +304117,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .vaitunoagoapsee.net
 .vaiwhehegrustou.net
 .vaiwhoojoapseet.net
+.vaiwxufuvlmvb.space
 .vajofu.uno
 .vajoru.xyz
 .vajwbkkmklovw.top
@@ -303900,6 +304131,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .val.api.youku.com
 .val.valkenstol.de
 .valack.com
+.valancekuvasz.cyou
 .valdes.net.anwalt.de
 .vale.valevaleriapottery.com
 .valeenjoy.com
@@ -305404,6 +305636,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .vgyppkfadflol.website
 .vgzard.icu
 .vgzglvykuyclh.store
+.vgzogmuqcjhul.space
 .vgzpo.tokidoki.it
 .vgzpyrrekytio.space
 .vh4kpb2zkig2bfcgovjrlj2.rest
@@ -306110,6 +306343,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .viglink.com
 .viglink.fr
 .vignerez.net
+.vigognecerning.cyou
 .vigorous-average.com
 .vigorouslyflamboyant.com
 .vigorouslymicrophone.com
@@ -306239,6 +306473,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .vilayetaurataoctodon.qpon
 .vileeconomical.com
 .vilelaaccable.com
+.vilelaacridyl.shop
 .vilelypulli.cyou
 .vilenexus.com
 .vilercarpetfolk.com
@@ -306350,6 +306585,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .violetlovelines.com
 .violetop33.top
 .violetreading.com
+.violetscelesta.qpon
 .violetsdentals.qpon
 .violindealtcynical.com
 .violineguldens.cyou
@@ -306438,6 +306674,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .vipwqpsoxnmwt.site
 .vipyou.bulkpowders.es
 .viqnyskvqrtzu.space
+.viqonnkopkkjp.site
 .viqyrcsnuaqxvyg.com
 .vir70n.news
 .vira.ru
@@ -307066,6 +307303,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .vmn05pnuh.com
 .vmnerjogspeax.site
 .vmngxjiczmmzm.site
+.vmnrzsiazgmck.space
 .vmntnkbmcdvyy.space
 .vmoitdsrmertx.online
 .vmonetize.com
@@ -308672,6 +308910,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .vxslamouxg.com
 .vxsnk.com
 .vxspxbdivdirz.website
+.vxssaouirigkr.online
 .vxsscpctuiq.com
 .vxtbag.labelleetude.com
 .vxtkmlmumvied.site
@@ -308771,6 +309010,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .vysqlt.essoco.com
 .vysr4o0eg.com
 .vytans.com
+.vytf0mqa0.com
 .vytix.net
 .vytjbahlkcmwn.space
 .vytkxcvmdzgbj.online
@@ -309047,6 +309287,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .w9h6mz6xqp5jeg9y9v857f5t.cfd
 .w9hubvbx8jocj1eml6wi.rest
 .w9l4tr4013tn5mo27t0w.xyz
+.w9m46culkq88bxrt85xyvx61u53.rest
 .w9uwz5966.com
 .wa.5.p2l.info
 .wa.airexperience.dk
@@ -309629,6 +309870,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .wasp.mattjennings.io
 .wasp.orchestra2020.eu
 .waspfestivalchampionship.com
+.waspiermagma.cyou
 .waspilysagene.com
 .waspishamendbulb.com
 .waspishmexican.com
@@ -309984,6 +310226,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .wc4.net
 .wc5cyztpew2t9po8.cfd
 .wc6y3nrv7g.com
+.wc74aa875.com
 .wc87322357rey4fz.cfd
 .wcadlvruvrq.xyz
 .wcail.com
@@ -310778,6 +311021,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .weblog2.eseoul.go.kr
 .weblogger-dynamic-lb.playdom.com
 .weblogiklan.com
+.webls.net
 .weblytics.io
 .webmail.carte-gr.total.fr
 .webmail.grahachemical.co.id
@@ -311222,6 +311466,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .wejqzsufiutaa.site
 .wejvdxiglvuwa.online
 .wek.weck.de
+.wekaukilp.cfd
 .wekazjwmctawy.site
 .wekeahzucvmgn.website
 .wel-wel-fie.com
@@ -311335,6 +311580,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .welsworn.info
 .welt-der-links.de
 .welte.jp
+.weltedsloppypinked.cyou
 .weltercampe.com
 .weltsgtm.weltausholz.de
 .welved.com
@@ -311816,6 +312062,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .wherebywhatsoeverduck.com
 .wheredoyoucomefrom.ovh
 .whereermisdoer.cfd
+.whereisdalle.cfd
 .whereismommy.gq
 .whereismybonus.com
 .whereres.com
@@ -311956,6 +312203,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .whiteforwardlines.com
 .whitehalfabrr.club
 .whiteinflammablejaws.com
+.whitening76.top
 .whitenoisenews.com
 .whitensfest.com
 .whitenshektare.qpon
@@ -312695,6 +312943,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .wishfulthingtreble.com
 .wishfulvineslight.com
 .wishgofox.com
+.wishingbindingemoter.qpon
 .wishinghonourederratic.com
 .wishjolty.com
 .wishjus.com
@@ -315630,6 +315879,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .www.nearestsalon.com
 .www.nebulus30.plus.com
 .www.necklaceu.com
+.www.negativesphere.com
 .www.neonpack.com
 .www.neonracketpro.com
 .www.neptuneads.com
@@ -317408,6 +317658,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .xfztgxt.com
 .xfzyun.com
 .xg-jbpmnru.online
+.xg114bmq7634uen7f7gr8.rest
 .xg2o402yyy.ru
 .xg4ken.com
 .xg6hb.xyz
@@ -317493,6 +317744,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .xhckbgvd0.com
 .xhcsegpi.worldanimalprotection.dk
 .xhct66.com
+.xhdbmapmvtnqf.online
 .xhdhkrqweshxx.com
 .xhdooiqhqpinv.space
 .xhe87zexdk.com
@@ -318955,6 +319207,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .xntcbt.manfield.com
 .xntlhvmcfqdxf.website
 .xntrmky.com
+.xntwwkayczvaj.website
 .xnuewypvwoziz.store
 .xnukcp.cpcompany.com
 .xnumzelehhhnnc.com
@@ -319787,6 +320040,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .xwwnlmicmcmly.website
 .xwxdrtxjwrkqe.store
 .xwxgjtxsrnkrh.space
+.xwxkorepqjcnt.site
 .xwxludcukzfer.rocks
 .xwxmasihzkjoj.online
 .xwxqdfmlsgir.com
@@ -319959,6 +320213,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .xy.fbcdn.net
 .xy.shijialianzuishuai.com
 .xy33.smallable.com
+.xy5ibkrfyjnp5jqyyg3.rest
 .xy7elite.com
 .xya4.groupefsc.com
 .xyahug.luxuryonly.com
@@ -320769,6 +321024,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .yefzjingxudwib.com
 .yegggracile.top
 .yegsbwsspibbk.website
+.yegtaizxtftpo.online
 .yegvjrkcasiwf.space
 .yegziyf.cn
 .yegzkw.xyz
@@ -320776,6 +321032,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .yehsqbrolnmrh.online
 .yehuitudu.cn
 .yehyqc.hugoboss.com
+.yeikszqbyeoej.site
 .yeioreo.net
 .yejvecidmfuqe.space
 .yekavcxlkbejc.online
@@ -321148,6 +321405,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .yhzzzs02.com
 .yi.ximizi.com
 .yi71.com.cn
+.yiawnxikusxbs.site
 .yibapaqndalsv.space
 .yibeksngkvrju.space
 .yibgeftopjk.com
@@ -322561,6 +322819,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .yuapindogtie.shop
 .yuastejdigmex.site
 .yubziosgvkweu.online
+.yucalarvate.qpon
 .yucefa.cn
 .yuckelobongo.com
 .yucksoutshow.life
@@ -322928,6 +323187,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .yxcrcc.xyz
 .yxcxheuw.net
 .yxeawgomuxnix.space
+.yxeeurjfsigad.online
 .yxeqahmgyxqdid.com
 .yxeuunyvnhme.com
 .yxfqar.trendhim.com.au
@@ -323390,6 +323650,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .zamxcn.dmall.co.kr
 .zamxzyrdmqiuh.site
 .zanaflex.1.p2l.info
+.zanellatrophy.cfd
 .zanghaihua.org
 .zangocash.com
 .zangraikri.com
@@ -323429,6 +323690,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .zapmxmdlflprdy.com
 .zapogentasofh.site
 .zapotezincky.com
+.zappeddoltish.cfd
 .zapprecisionadmire.com
 .zapr.in
 .zapunited.com
@@ -323634,6 +323896,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .zcode17.com
 .zcode7.me
 .zcojp.buybluebird.com
+.zcok7117voqo35mz4yffzu72ji.cfd
 .zconaenvbcslb.space
 .zconfig.alibabausercontent.com
 .zcoptry.com
@@ -324479,6 +324742,7 @@ IP-CIDR,61.174.50.214/32,no-resolve
 .zincyfowkdiapir.qpon
 .zinekrtshkgkl.website
 .zineone.com
+.zinganohakopurl.cfd
 .zingaurtoam.net
 .zingingassart.click
 .zingingsuist.cyou
@@ -344309,14 +344573,14 @@ DOMAIN-SUFFIX,navi.gd.chinamobile.com
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-08-01 03:11:26
+# UPDATED: 2026-08-02 02:58:02
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 16448
 # DOMAIN-KEYWORD: 278
-# DOMAIN-SUFFIX: 245877
+# DOMAIN-SUFFIX: 246141
 # IP-CIDR: 489
 # URL-REGEX: 14
-# TOTAL: 263106
+# TOTAL: 263370
 DOMAIN-KEYWORD,-logging.nextmedia.com
 DOMAIN-KEYWORD,-rtb.gravite.net
 DOMAIN-KEYWORD,-s2s.sensic.net
@@ -345103,14 +345367,14 @@ IP-CIDR,2402:db40:5100:1011::5/128
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-08-01 03:11:26
+# UPDATED: 2026-08-02 02:58:02
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 16448
 # DOMAIN-KEYWORD: 278
-# DOMAIN-SUFFIX: 245877
+# DOMAIN-SUFFIX: 246141
 # IP-CIDR: 489
 # URL-REGEX: 14
-# TOTAL: 263106
+# TOTAL: 263370
 DOMAIN-KEYWORD,-logging.nextmedia.com
 DOMAIN-KEYWORD,-rtb.gravite.net
 DOMAIN-KEYWORD,-s2s.sensic.net
@@ -345897,14 +346161,14 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-08-01 03:11:25
+# UPDATED: 2026-08-02 02:58:00
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 16448
 # DOMAIN-KEYWORD: 278
-# DOMAIN-SUFFIX: 245877
+# DOMAIN-SUFFIX: 246141
 # IP-CIDR: 489
 # URL-REGEX: 14
-# TOTAL: 263106
+# TOTAL: 263370
 .0.avmarket.rs
 .0.myikas.com
 .0.net.easyjet.com
@@ -347382,6 +347646,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .1uandun.com
 .1ub29e88i.com
 .1udy3nzsqx.com
+.1ufztt6mkpt1p1krt3.cfd
 .1ujz59h62z.com
 .1ul6b1692e993bxyc3bzhx7.cyou
 .1under.ru
@@ -347404,6 +347669,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .1worldonline.com
 .1x26q3.cn
 .1x3x.com
+.1x6arks9.xyz
 .1xb.icu
 .1xl.co.uk
 .1xlite-208883.top
@@ -347815,6 +348081,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .285680.com
 .2859933b6d.com
 .2878644238.com
+.287o8ff2pyl3ht.cfd
 .28a0578796.com
 .28acglz.com
 .28adea9220.com
@@ -348057,6 +348324,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .2omfz9ygz2.com
 .2onq7kwbrfjbjv65.cfd
 .2orln75bry.com
+.2osb.com
 .2osq127yy.com
 .2ov8tjp9or3f21nc8erh8xv42f5984.rest
 .2owix58z11luk2k.rest
@@ -348377,6 +348645,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .3467b7d02e.com
 .34710af267.com
 .3482f0c95a.com
+.349329f8bd.com
 .34bogatirya.ru
 .34c2f9c751.com
 .34c72d94d3.com
@@ -350187,6 +350456,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .648c44a31f.com
 .648d969d69.com
 .649558.com
+.64bf88068b.com
 .64ce7c22c5.com
 .64f14dbf1b.8dc714cafe.com
 .64f5295d06.com
@@ -350273,6 +350543,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .66a5e92d66.com
 .66f4mej92etu96.cfd
 .66f5dd9691.com
+.66gn17epeny38uvc9l9.rest
 .66hao.cc
 .66infra-strat.com
 .66jo.societegenerale.fr
@@ -351386,6 +351657,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .86hhiuu88n3rpqmhlolf2bzu.cfd
 .86hi9r4f.xyz
 .86kx.com
+.86o5bui4n.com
 .86pjokx7vklxqp5iug2o.cfd
 .86services.net
 .86sijiachetuoyun.com
@@ -352176,6 +352448,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .9db4da6d9f.30c69e6975.com
 .9dca841dfa.com
 .9dcae0f138.com
+.9dd7d84e00.com
 .9dehzr5d2i.com
 .9desires.xyz
 .9dffa299bbc098481e6a.com
@@ -352846,6 +353119,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .a.zuowenku.net
 .a.zuowenxuan.cn
 .a.zxcvads.com
+.a005hakt6.com
 .a00s.net
 .a013.com
 .a04296f070c0146f314d-0dcad72565cb350972beb3666a86f246.r50.cf5.rackcdn.com
@@ -354644,6 +354918,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .abs-cdn.org
 .abs-static.org
 .abs.firstvds.ru
+.abscisssashaysoculina.cfd
 .abseelon.com
 .absentairport.com
 .absentbors.qpon
@@ -355139,6 +355414,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .achelessintegralsigh.com
 .achenesmuchly.rest
 .acheronascyrum.cfd
+.acheronmizzle.shop
 .achetezfacile.com
 .achewattmen.qpon
 .acheworry.com
@@ -360417,6 +360693,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .aeucjiicbgosj.site
 .aeucrt.mistergooddeal.com
 .aeuifgsbjnzpp.online
+.aeuukmhqenlvf.website
 .aevfoobzfsfjx.space
 .aeviagrieves.cfd
 .aevlgbckiceis.website
@@ -362085,6 +362362,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .aircraftreign.com
 .airdoamoord.com
 .airdropcassino.cfd
+.airedohioaxseeds.cfd
 .airfind.com
 .airgeecigee.net
 .airierpoiesis.cyou
@@ -362849,6 +363127,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .alexinceroon.cfd
 .alexisclothe.com
 .alexisclou.top
+.alexisskipped.cfd
 .alexyu.fr
 .alezanlig.store
 .alfa-tel.sk
@@ -363971,6 +364250,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .amvisicerya.cyou
 .amvmzbmzaryya.top
 .amvndrcsfxevr.site
+.amvntixh.in
 .amvtwk.thebottleclub.com
 .amwdtt.alvieromartini.it
 .amwgisnagixqe.store
@@ -364359,6 +364639,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .anddecoyblizzard.com
 .andelect.cfd
 .andersenit.dk
+.andfauna.net
 .andhkruuiigxmkd.com
 .andhrapanful.cfd
 .andhthrewdo.com
@@ -364463,6 +364744,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .anglesadjoiningbloodless.com
 .anglezinccompassionate.com
 .angliaeunedge.cfd
+.anglicefitcher.shop
 .anglingdacker.com
 .anglishreasts.site
 .anglonacarat.click
@@ -369435,6 +369717,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .atrophychumpreentry.com
 .atropicdarius.cfd
 .atroposwithhie.qpon
+.atrousrudish.qpon
 .atrxardarovr.com
 .ats.alot.com
 .ats.auction.co.kr
@@ -369491,6 +369774,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .attainthreatfluffy.com
 .attaleaeblisbreezy.qpon
 .attalgrandly.cfd
+.attalvidenda.com
 .attarbesets.com
 .attarsclallam.qpon
 .attaskanker.cyou
@@ -369911,6 +370195,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .aureliatmeses.com
 .auriclelureful.click
 .aurifygret.cyou
+.aurigidbagio.cyou
 .aurirdelicatgimped.qpon
 .auristquipu.help
 .aurora-d3.herokuapp.com
@@ -370207,6 +370492,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .aviditycantily.cyou
 .avidlyruntee.shop
 .avidnewssource.com
+.aviecayman.qpon
 .avietcombank.com
 .aviewrodlet.com
 .aviiivsxdmbgc.site
@@ -371949,6 +372235,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .balteraided.qpon
 .balteusngapi.cfd
 .balteusrail.qpon
+.balubaeirenic.qpon
 .balunkalends.com
 .balvalur.com
 .balvehgmhw.com
@@ -372446,6 +372733,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .barracuda.verto.exchange
 .barrasdockage.com
 .barrelaffloofatrophy.qpon
+.barrelcider.com
 .barrelhonestlypublicity.com
 .barren-date.pro
 .barren-theory.com
@@ -372949,6 +373237,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .bcgame.top
 .bcggo.ru
 .bcgwetajinklt.website
+.bcgxvxtvkx.com
 .bcgzqzjkyjmfd.store
 .bcgzz.creationl.com
 .bch8.destinia.co
@@ -373013,6 +373302,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .bcvc.mobi
 .bcvideod.com
 .bcvxfgy.xyz
+.bcvxynjpdtrcc.space
 .bcwjqztpkeeop68n5me9q44m5vog3l.cfd
 .bcwljq.batteryempire.de
 .bcwpdvigokzca.space
@@ -373412,6 +373702,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .beamyfogas.qpon
 .beanbounce.net
 .beancontrol.com
+.beanedrollman.shop
 .beaniergrivet.shop
 .beanstalkdata.com
 .beanstock.com
@@ -373834,6 +374125,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .belbenback.live
 .belboon.de
 .belchedemblic.rest
+.belchlipin.com
 .beldamnolos.cfd
 .belderbustic.qpon
 .beldooschae.com
@@ -373966,6 +374258,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .bendaysroit.com
 .bendedfilator.cyou
 .bendfrequency.com
+.bendingdebus.cfd
 .bendingrevivestriped.com
 .bendletcornerbridges.cyou
 .bendrunb.com
@@ -375461,6 +375754,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .biserka.xyz
 .bisetsoliped.com
 .biskerando.com
+.biskkonak.cyou
 .bisko.mall.tv
 .biskteeveeacutish.cfd
 .bisleyserrano.com
@@ -378746,6 +379040,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .bruteportrait.com
 .brutishlylifevoicing.com
 .brutrequit.cfd
+.brutterreshod.cfd
 .brutus.clicknplay.to
 .brutuzzzymudq.world
 .bruytdsxajjey.site
@@ -378809,6 +379104,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .bsbshhxpotmyt.site
 .bschuyenkhoamat.biz
 .bsdev.cn
+.bsdoekrfzlsgj.com
 .bserver.gp-guia.net
 .bservr.com
 .bsfeuihxrczte.space
@@ -380688,6 +380984,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .c615.denverpost.com
 .c635e33b2e.com
 .c64ihqx0gj.com
+.c65cb58426.com
 .c66ab37744.86d0868ed3.com
 .c67524ad03.com
 .c677.wisn.com
@@ -381500,6 +381797,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .canstrm.com
 .cantaraawingly.com
 .cantdogblued.uno
+.cantdogtabanidcorers.cfd
 .canteenelixate.rest
 .canterkenmark.qpon
 .canthaltietick.space
@@ -381565,6 +381863,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .capedhurlpit.cyou
 .capefast.com
 .capelancauking.cyou
+.capellaummps.shop
 .capeneist.rest
 .capeplayer.com
 .caperedlevi.com
@@ -382149,6 +382448,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .caribou.mcgregorpublishing.com
 .caricatureboretangle.com
 .carinasascitic.qpon
+.carinassyrus.qpon
 .caring-amount.pro
 .caring-tune.pro
 .caringcast.com
@@ -382552,6 +382852,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .cattailpectinselected.com
 .cattednatalia.help
 .cattell.loanzify.app
+.cattibetook.cfd
 .cattilysubdual.com
 .cattle.apisyouwonthate.com
 .cattle.driftbot.io
@@ -383340,6 +383641,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .cdn.usezeno.com.br
 .cdn.vaara.id
 .cdn.villaggioportoada.it
+.cdn.visitors.now
 .cdn.wenzhangba.cn
 .cdn.wg.uproxx.com
 .cdn.wusum.com
@@ -383650,6 +383952,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .ceggfe.msc-kreuzfahrten.de
 .cegifompifteefa.net
 .cegrithy.net
+.cegwdxrlymdbm.space
 .cehb1d1lsm.com
 .cehbmaknzpyic.store
 .cehiswasreb.ru
@@ -384486,6 +384789,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .chaussew.net
 .chautcho.com
 .chauwout.xyz
+.chavelscarola.cyou
 .chavoads.com
 .chavosh.org
 .chawerbacca.cyou
@@ -384599,6 +384903,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .cheelteshed.net
 .cheemtoo.com
 .cheemtutso.net
+.cheepalebion.shop
 .cheeperrebring.cyou
 .cheephaimaihakr.net
 .cheepswoibe.qpon
@@ -384739,6 +385044,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .chewhaidroub.net
 .chewinksanify.qpon
 .chewremittanceprovidence.com
+.chewsever.com
 .chewsrompedhemp.com
 .chexiw.com
 .chezoams.com
@@ -385156,6 +385462,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .chromatography.mac-mod.com
 .chromc.com
 .chrommotor.com
+.chromosbuckpot.cfd
 .chronicads.com
 .chronicairliner.com
 .chronicconcernlydia.com
@@ -385220,6 +385527,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .chunkdestructiveenforce.com
 .chunkedearlike.cfd
 .chunkstoreycurled.com
+.chunkyautoman.shop
 .chunkyaward.cfd
 .chunkycactus.com
 .chunkycolobin.life
@@ -386540,6 +386848,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .clicksure.com
 .clicksvenue.com
 .clicksyncflow.com
+.clicktag.de
 .clicktale.net
 .clicktale.pantherssl.com
 .clickterra.net
@@ -387618,6 +387927,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .coarctpoppetnousel.qpon
 .coarooro.net
 .coarseschool.com
+.coarseseggio.shop
 .coastalbloom.xyz
 .coastalcations.cyou
 .coastlineahead.com
@@ -390144,6 +390454,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .cordinghology.info
 .cordingsulfiddoffs.qpon
 .cordplumb.com
+.cordulapulasan.cfd
 .cordulawakens.shop
 .cordydikes.guru
 .cordyreseaus.rest
@@ -391412,6 +391723,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .creaghtain.com
 .creampie.afdss.info
 .creamssicsite.com
+.creamsstacher.cyou
 .creamy-exit.com
 .creamy-recover.com
 .creamymouth.com
@@ -391911,6 +392223,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .crustdisagreeable.com
 .crustedmailbag.qpon
 .crustshazards.help
+.crutchdiminutionantarctic.com
 .crutcheruimsettlement.e.epiqnotification.com
 .crutchstubbornultimatum.com
 .cruthdivisi.life
@@ -392539,6 +392852,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .cueyetwee.site
 .cufcw.com
 .cuffagible.shop
+.cuffeddimmer.com
 .cuffedpil.cfd
 .cufjou.ambarexpress.com
 .cufroa.aboutyou.be
@@ -393191,6 +393505,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .cwtwtvkajwgex.online
 .cwuaxtqahvk.com
 .cwuciqlttztxq.website
+.cwuriw6ktcj7w5z2qyucxhmt7.rest
 .cwuxquolwlfqp.site
 .cwvahnqeauemq.online
 .cwvfikunas.com
@@ -395394,6 +395709,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .dacdn.vwo.com
 .dacesspolia.cyou
 .dachadu.cn
+.daciantackers.shop
 .daciuehpyf.com
 .dackpartner-web.s3.amazonaws.com
 .dacmaiss.com
@@ -400725,6 +401041,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .dealtbroodconstitutional.com
 .dealtoneoddly.com
 .deamhzfvradtf.website
+.deaningpassecanamo.qpon
 .deansent.top
 .deanth.xyz
 .deanvividsquall.com
@@ -400798,6 +401115,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .debursechorti.cyou
 .debutknee.com
 .debutpoignantsudden.com
+.debwdbuqvcg.com
 .decademical.com
 .decafeligiblyhad.com
 .decafidflewed.cyou
@@ -400923,6 +401241,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .dedaishivix.net
 .dedcrfvdj.xyz
 .deddsunland.com
+.deddtalari.shop
 .dedendadolphus.rest
 .dedfearingles.info
 .dedicatedmedia.com
@@ -402201,6 +402520,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .dfu.federicousuelli.com
 .dfuijqrojtvcb.site
 .dfukhtby.com
+.dfukiuubowdft.space
 .dfuman.kasaideia.com.br
 .dfutznmffzefs.site
 .dfuufcsikcian.website
@@ -402525,6 +402845,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .dialergruf.cyou
 .dialgold.com
 .dialisttreflee.cfd
+.diallelpantoumexceed.cfd
 .dialling-abutory.com
 .dialog.dqs.de
 .dialog.losberger.com
@@ -403183,6 +403504,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .dioqto.totaljobs.com
 .diorismkeltswryest.cyou
 .diorismmotes.website
+.diosminfurzier.shop
 .diouidlf98.com
 .diouy9cvtx.xyz
 .dioxidssokes.cfd
@@ -403373,6 +403695,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .disciplinaryconstitute.com
 .disciplinarytreasurertyran.com
 .disciplineebony.com
+.discjockeys.net
 .discloseprogramwednesday.com
 .discobar.space
 .discomfortcreamforester.com
@@ -403861,6 +404184,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .djgqucjpunwhs.store
 .djhbxz.com
 .djhfkcfrdxv.com
+.djhfnwquuayww.website
 .djhhy.com
 .djibeacon.djns.com
 .djinnspasewa.cyou
@@ -404425,6 +404749,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .dmt.qcrx.cn
 .dmt1-img.canon.jp
 .dmtag.jp
+.dmtecdimjszdg.website
 .dmtgo.upc.biz
 .dmth.dematteohome.com
 .dmtopkjucvncs.site
@@ -404660,6 +404985,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .docbao24h.net
 .doccd.xyz
 .docentcliquybepen.cyou
+.docenttracey.qpon
 .docerad.wps.cn
 .doceree.com
 .dochase.com
@@ -406284,6 +406610,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .dsifi.toms.com
 .dsiill.com
 .dsikyf.com
+.dsilbm.com
 .dsimnq.com
 .dsincy.com
 .dsivor.com
@@ -408829,6 +409156,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .eceunutlxxfha.website
 .eceuvtsjfoauc.site
 .ecg21n9t8d.com
+.echardsvirosis.shop
 .echarglyn.shop
 .echarjutka.shop
 .echatu.com
@@ -409966,6 +410294,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .ehjlbjbbqsnct.website
 .ehkng.marymaxim.com
 .ehkwtcwlcewjx.space
+.ehlbjnnzlhpv.com
 .ehlfnpduxldcy.online
 .ehlfs.fullbeauty.com
 .ehlrxixabvzbo.tech
@@ -410297,6 +410626,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .eknaviqetxipo.space
 .eknklrkalozdb.online
 .eknnm.jessakae.com
+.eknrintckqimu.online
 .eknz.cn
 .ekocdokfmzwnz.site
 .ekod.info
@@ -410496,6 +410826,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .elficpheontourers.cyou
 .elfinsande.website
 .elfliketapalos.cfd
+.elflockhormigo.com
 .elfnuhdfebphr.life
 .elfnxscnmtao.com
 .elgdkzio.com
@@ -413013,6 +413344,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .errandfourteenthcatering.com
 .errandsfloes.help
 .errandsracket.com
+.errataanomer.cyou
 .erraticreaction.com
 .errely.com
 .erringgiggles.shop
@@ -413731,6 +414063,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .eubwzwxkyvvdb.website
 .eubynl.baby-sweets.de
 .euchresgabbart.cyou
+.euchresgnarly.qpon
 .eucing.com
 .eucleidoban.cyou
 .eucleu.com
@@ -413761,6 +414094,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .eufunding.ukri.org
 .eugek.travelpro.com
 .eugenearsonmeanwhile.com
+.eugenydenotes.shop
 .eugkpjjonhuts.space
 .eugonichyke.uno
 .eugtm.casio.com
@@ -413831,6 +414165,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .eumenidpetosfraser.cyou
 .eumenidsapa.cfd
 .eumgzcvgskxcz.site
+.eumihbvcyiprs.online
 .eumromqtxaj.com
 .eumtjfyvqtamt.store
 .eunformeranothe.info
@@ -415930,6 +416265,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .fafc5ra5.ru
 .fafc5ra6.ru
 .fafdnhthodzfc.space
+.fafeyrfqyxwivk.com
 .fafflecyprid.shop
 .faffwut.com
 .faffylocusca.shop
@@ -417450,6 +417786,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .ferretyacutely.cyou
 .ferricvalvula.cyou
 .ferrierstrewth.help
+.ferrissuzan.qpon
 .ferrypoemet.com
 .ferthu.seyffer.shop
 .fertilecalfawelessaweless.com
@@ -417937,6 +418274,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .fichatgriseravine.cyou
 .fichier-pdfr.fr
 .ficinhubcap.com
+.fickle-association.com
 .fickle-brush.com
 .fickle-dream.com
 .ficklecapacious.com
@@ -419583,6 +419921,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .flustered-picture.pro
 .flusteredexam.com
 .flusteredfall.pro
+.flutedlimorehire.cyou
 .fluteparental.com
 .fluteranguleindian.cfd
 .flutinablayne.cyou
@@ -419779,6 +420118,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .fnbtt.cleanmama.com
 .fncash.com
 .fncnet1.com
+.fncuzpoq.com
 .fndmg.personalizationmall.com
 .fndnundtdytuv.space
 .fndrsp.net
@@ -420161,6 +420501,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .for-joiyvidspics.online
 .for-joiyvidspics.site
 .forads.pro
+.foragedaccuser.cyou
 .foramendowve.com
 .foramoongussor.com
 .foramphots.cyou
@@ -420626,6 +420967,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .fox.4fox.pl
 .fox.visionaudiovisual.com
 .foxcounter.com
+.foxdfpbmignjdq.com
 .foxijcxwck.com
 .foxilymonacan.qpon
 .foxlagoon.com
@@ -420880,6 +421222,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .fqhtu.theyamazakihome.com
 .fqhucslrtysrl.site
 .fqhueanslwpyi.site
+.fqiaizkfzuqgs.online
 .fqibwvatzzcdj.space
 .fqjgn.etrgovinca.sk
 .fqjxmzlhmfmuk.online
@@ -421367,6 +421710,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .fresnel-events.vimeocdn.com
 .fresnelraggery.cyou
 .fresnobench.com
+.fresnomaniere.cyou
 .fressermafurra.cfd
 .frestacero.com
 .frestime.com
@@ -422710,6 +423054,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .fzc389q8nxip6fmplqw3p.cfd
 .fzcbgedizbt.click
 .fzcfwpodydfnk.site
+.fzcgwycgkipou.online
 .fzchpos.com
 .fzcrfbmjrgyli.site
 .fzcsd33.com
@@ -422744,6 +423089,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .fzjchj.com
 .fzju14tzv7z12gq2cf7gve3ij1m58.cfd
 .fzkizhppiybaj.space
+.fzkxfgpwfmafd.space
 .fzlbvs.schuhe24.de
 .fzlhoawxkxepc.space
 .fzlnk.com
@@ -424203,6 +424549,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .gecko.me
 .gecko.rrrelax.app
 .gecko.withclarify.com
+.gecksastrict.cfd
 .geckxmcccnhbc.space
 .gecl.xyz
 .gecodbchclick.xyz
@@ -425025,6 +425372,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .gevmrjok.com
 .gevnqh.com
 .gevzke.annonces-automobile.com
+.gewjleqnsivvn.site
 .gewuwen.com
 .gewxrcuetanau.site
 .gexaicmughoudy.net
@@ -425280,6 +425628,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .ggmseqjtwwslm.space
 .ggmvge.cheapoair.ca
 .ggnop.lactamo.com
+.ggnrpjdwuwoeq.website
 .ggo10090lq.com
 .ggo10091lq.com
 .ggo10100lq.com
@@ -425401,6 +425750,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .ghixjipeapa.xyz
 .ghjhucekiywqrk.com
 .ghjnpy.com
+.ghjyw4h23.com
 .ghkrndebbziup.online
 .ghkrwjkgbqjel.website
 .ghktwxuzvuufr.online
@@ -425522,6 +425872,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .gibaivoa.com
 .gibbalslucerne.rest
 .gibbarwaiting.com
+.gibbiocasxylic.cfd
 .gibbolheterosdiking.qpon
 .gibbon.711.st
 .gibbosesamfoodzeron.cyou
@@ -433779,6 +434130,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .gwp.xiaojukeji.com
 .gwpifpeauhhwk.online
 .gwpkpiodcnobu.online
+.gwpxwwzcrjhta.website
 .gwqtum.philips.de
 .gwropn.soelu.com
 .gwrpceo.cn
@@ -434555,6 +434907,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .halsouthorool.net
 .halteddropped.com
 .halterchildsabanut.cyou
+.haltesloppy.cfd
 .haltingbadge.com
 .haltingdivision.com
 .haltinggold.com
@@ -435187,6 +435540,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .hawkedbhang.shop
 .hawkedsettles.qpon
 .hawkerypunamu.com
+.hawkerystrand.shop
 .hawkeye-data-production.sciencemag.org.s3-website-us-east-1.amazonaws.com
 .hawkierussel.cyou
 .hawkingtorvid.help
@@ -435834,6 +436188,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .hebeixingfei.com
 .hebenefitssheasht.com
 .hebenefitssheasht.info
+.hebetearriseshaunchy.cyou
 .hebhec.cn
 .hebiichigo.com
 .hebkb.cn
@@ -437576,6 +437931,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .hlreoc.gonuldensevenler.com
 .hlrml.cn
 .hlrqi.lasioinc.com
+.hlrurpqjjvczn.space
 .hlsebwqdwrvpv.website
 .hlserve.com
 .hlstatus.com
@@ -437824,6 +438180,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .hoardsketosehenry.qpon
 .hoareddepulse.com
 .hoaredsavates.com
+.hoarishabiponjoshes.cfd
 .hoarishcaucho.cyou
 .hoarse-dark.pro
 .hoarseairy.com
@@ -439393,6 +439750,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .humbledrovet.cfd
 .humblemotor.pro
 .humbleoven.pro
+.humbleparticular.com
 .humblerenamour.com
 .humbleromecontroversial.com
 .humblestress.com
@@ -439664,6 +440022,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .hvdzdrovccwom.site
 .hvefnbufkpxou.website
 .hvegent.cn
+.hvenb4rt9pqjum.cfd
 .hvert.site
 .hvevwsqsvpoml.website
 .hvfilosbqpzdf.online
@@ -439705,6 +440064,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .hvpojkilqqykq.website
 .hvpsfsuruamnc.icu
 .hvqndbbmvbcrc.online
+.hvqnfgvusjsnc.space
 .hvqwjvoisrnhx.website
 .hvqyf.cn
 .hvrhgt.the-sun.com
@@ -441438,6 +441798,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .igyswjdwkppmo.online
 .igzjakutmbjxo.site
 .igzungpizrd.com
+.igzuwjvfvoqnj.space
 .igzynuqksgauf.site
 .ih.newegg.com
 .ih1.fileforums.com
@@ -441738,6 +442099,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .ikeymutilla.space
 .ikfdugtsrhfmi.online
 .ikfe4izuhbyqrw8gi8gcmiut1oi18vj.rest
+.ikfvlfsqlwsfy.site
 .ikhgxaeobmbb.com
 .ikholm.com
 .ikhzpm6lic5wmz61btrfetqo6cv4gke45.rest
@@ -441797,6 +442159,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .ikronzealu.com
 .ikryuq39ceqgjxnq87k52.cfd
 .ikspzv.fincaraiz.com.co
+.iktfggmhqf.com
 .iktzrzjpugczl.website
 .ikuailian.com
 .ikuaiquwan6.com
@@ -441927,6 +442290,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .illustrateartery.com
 .illustrationapplausespotlight.com
 .illustrationdreadfullythong.com
+.illustrious-consideration.com
 .illustriousarrival.com
 .illustriousmind.pro
 .illustriousoatmeal.com
@@ -441978,6 +442342,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .iltcaf.immobilienscout24.de
 .iltskegkybift.online
 .iludmt.com
+.ilukzknzwcxrf.website
 .ilusors.com
 .ilvgn.johnnyjanosik.com
 .ilvnmoqblnvrp.site
@@ -443661,6 +444026,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .infacejimjam.help
 .infameeagled.com
 .infamous-atmosphere.pro
+.infamous-growth.pro
 .infamousbill.pro
 .infamouschurch.pro
 .infamouslimit.pro
@@ -444826,6 +445192,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .ingeniousestateinvolving.com
 .ingeniousseasickfoolish.com
 .ingenioustech.biz
+.ingenuablepsy.qpon
 .ingerlis.doudare.no
 .ingest-api.evoto.ai
 .ingest-data-afra.snappfood.dev
@@ -444894,6 +445261,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .inhonvhdt.net
 .inhousead.net
 .inhshlfbgkqdw.site
+.inhumeagamete.cfd
 .inhumyszolcov.space
 .ini.litingxin.cn
 .ininmacerad.pro
@@ -445321,6 +445689,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .insightxe.pittsburghlive.com
 .insightxe.vtsgonline.com
 .insigit.com
+.insignificant-bitter.pro
 .insignificant-constant.com
 .insignificant-foot.com
 .insignificantretained.com
@@ -446026,6 +446395,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .inwucno.top
 .inxgfxylzkkgi.one
 .inxzfyeonudds.global
+.inyalamauled.shop
 .inzicht.cz.nl
 .inznbvtcgmfzn.store
 .inzoiwe.com
@@ -446571,6 +446941,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .irhqvzwgldygv.space
 .irhsi.etrendygo.com
 .irhsymtcvduze.website
+.irhzhtcyxozti.online
 .iridescentdusk.com
 .iriditepeiser.qpon
 .iridiumowenize.cyou
@@ -446903,6 +447274,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .isosterrockier.cyou
 .isotachrakers.shop
 .isotelyessedetontine.qpon
+.isotoperhodiccollaud.cfd
 .isotopetaxers.cfd
 .isoualkcjushz.website
 .isoucarmtosoz.online
@@ -446968,6 +447340,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .isymybwvzl.com
 .isypmogfhabmp.space
 .isywjrtn.com
+.isyyczzyjjomv.website
 .iszbchgvidvhw.space
 .iszbxqps.com
 .iszrrgjxekmas.website
@@ -447011,6 +447384,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .itc.insighttrailco.com
 .itcameruptr.com
 .itcgin.net
+.itchbuirdly.qpon
 .itchingaxing.qpon
 .itchinglikely.com
 .itchingunethical.com
@@ -447842,6 +448216,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .j83ad.speedrun.com
 .j85izots6.com
 .j8geljwqehp8mlhq48.cfd
+.j8n60aooj.com
 .j8q3mqqt3c374u5jb.rest
 .j8tzoy3xwn.com
 .j927.statnews.com
@@ -448897,6 +449272,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .jfelljoqquoijo.com
 .jfezwogpa.com
 .jfffe1o97b.com
+.jffoxgufjzmfc.space
 .jfgvom.maatila.co.kr
 .jfhe.0769371.com
 .jfhmuymhjaiui.online
@@ -449652,6 +450028,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .jlabb.canadianboardco.com
 .jlavmdvzxpgqs.online
 .jlawrkjcpahca.space
+.jlbmbquodyvxr.site
 .jlbowtwjqkxoa.space
 .jlbyuart.com
 .jlcarral.com
@@ -450436,6 +450813,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .jpwwqujvnoskd.site
 .jpwzbglshulfq.space
 .jpxzypyulrzyv.online
+.jpyarqadxh.in
 .jpyjtgwltadyi.space
 .jpzbjh.icu
 .jpzdaanhktgiu.online
@@ -451102,6 +451480,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .juevpynpxttzl.site
 .jueyds.top
 .jufenglc.com
+.jufferplatens.cfd
 .jufhxk.audienhearing.com
 .jufjpwpmcc.com
 .jufmgsnsjjcpk.site
@@ -453006,6 +453385,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .kfaktmfqtbw.xyz
 .kfand.com
 .kfareputfeab.org
+.kfayvnkzwwsyt.space
 .kfbjqsqbvnmrj.site
 .kfbmswmmo.com
 .kfbndkkbjbxkq.site
@@ -453109,6 +453489,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .kghzmesashlfi.space
 .kgihdv57il.com
 .kgimudenwjylc.website
+.kgioxibrrjqep.online
 .kgiqptmzhkidx.website
 .kgjks.rails.com
 .kgkmt.ticketrivals.com
@@ -453777,6 +454158,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .kjpiug.whatgoesaroundnyc.com
 .kjpojl.sementa.com
 .kjqas.getbrewsy.com
+.kjqcaydxxrert.website
 .kjqkjp.arnewstyle.com
 .kjqlmeaykennr.top
 .kjrastwgntzqe.website
@@ -454731,6 +455113,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .kozszolgalat.com
 .kp2h7cfjnx4jv6gn.cfd
 .kp79if6i2x7hkcc.rest
+.kp81r5wc5rmkl26hzoc4.cfd
 .kpaamldootvpw.global
 .kpabm.zeroex.com
 .kpapyw.icu
@@ -455293,6 +455676,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .kuffobduumzwl.space
 .kufoogroap.net
 .kufvoyagp.net
+.kufvqdstaemar.site
 .kugeshuffle.com
 .kughkqwlqozru.online
 .kughouft.net
@@ -455394,6 +455778,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .kutdbbfy.xyz
 .kuti8iar.xyz
 .kutjilsi.com
+.kutsidsan.in
 .kuttarmufti.com
 .kutyigeegikcp.space
 .kuuad.com
@@ -455697,6 +456082,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .kxxfdwt.cn
 .kxxyhjamtwozu.space
 .kxyg6l1brzpnlefqmt5yi.cfd
+.kxysrmpkrvekx.site
 .kxyumk.icu
 .ky.5.p2l.info
 .ky1amps1loy8iabe.pleasedonotblockme.com
@@ -457372,6 +457758,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .ldvkmzygcoido.site
 .ldvnehc.xyz
 .ldvuz.org
+.ldvzpuulgzmun.space
 .ldwejycundirn.com
 .ldwizdqfenjo.com
 .ldxeyz.openmedical.co.kr
@@ -457629,6 +458016,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .lebbfksrknrex.website
 .lebenscrimeamarxist.cfd
 .lebinaphy.com
+.lebiqovfwunft.online
 .lebiutacsvaat.website
 .lebkeresxa.ml
 .leboncoan.fr
@@ -458360,6 +458748,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .lguplus.goldenplanet.co.kr
 .lgupyhmwrglwg.space
 .lguteecbqzqln.site
+.lguuvbpnyijxu.online
 .lguvihbqjegvi.website
 .lgvgtl.terrashop.de
 .lgviqkrimvmy.xyz
@@ -460934,6 +461323,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .lnaxgfnttnrye.online
 .lnbjvhefrwuxh.website
 .lnbkckhipmi.com
+.lnbqvaoxbhkze.website
 .lnbswijsipf.com
 .lncfuqbgpnmxm.xyz
 .lncredlbiedate.com
@@ -461049,6 +461439,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .lnzangcha.com
 .lnzitobjnmskk.space
 .lnzjlr.xyz
+.lnzphfagyhpxi.space
 .lnzqmaqzjlnnw.top
 .lnzrsafk.space-suitcases.com
 .lnzsinagpafgv.website
@@ -465565,6 +465956,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .loajawun.com
 .loaladaunena.net
 .loamaushaihu.net
+.loamierallice.cyou
 .loamilybudgingbioral.cfd
 .loan.aol.msk.su
 .loandatec.com
@@ -466261,6 +466653,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .logistics.osmworldwide.com
 .logitepic.com
 .logitrave.fr
+.logjamstill.cfd
 .logkm.dantocmiennui.vn
 .loglabitrufly.top
 .loglady.kiwi.com
@@ -467131,6 +467524,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .lpftvmqzs.com
 .lpfulinotaherere.info
 .lpfvuqqyplupy.site
+.lpfwocjuxhbxo.space
 .lpfztnyr.com
 .lpg02.com
 .lpgouuzcqcfjz.site
@@ -467487,6 +467881,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .lsvard.e-kinoshita.net
 .lsvblpynuezkbf.com
 .lsvfzskgudyyr.site
+.lsvvccoqwylrg.website
 .lswdjtngkdhbe.website
 .lswfmx.stuartweitzman.com
 .lswteiiyfccwt.site
@@ -469631,6 +470026,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .malariarevive.cyou
 .malastasho.pro
 .malatiswirled.com
+.malaxaboil.shop
 .malaxvicus.qpon
 .malaysguaymiebogging.cyou
 .malcare.me
@@ -471826,6 +472222,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .markxa.xyz
 .marliermotes.qpon
 .marlin.firstline.org
+.marlitedippy.qpon
 .marlpitbucku.com
 .marlynothal.shop
 .marmaladestrikingcolourless.com
@@ -471911,6 +472308,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .marvellousperforming.com
 .marvelrespectableinset.com
 .marvelselectedheron.com
+.marvywaled.qpon
 .marwariformer.com
 .marwinhitted.site
 .marx7loki.com
@@ -471983,6 +472381,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .masselfidgets.shop
 .massilypaut.shop
 .massive-dark.pro
+.massive-highway.pro
 .massiveanalyticssys.net
 .massivebasket.com
 .massivemanuscriptestimated.com
@@ -472343,6 +472742,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .mayxanhsg.com
 .mayxanhsupport.com
 .mayyadc.cfd
+.mayzaent.com
 .maz.zba.jp
 .mazamadryest.com
 .mazarine-ap.com
@@ -474179,6 +474579,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .metershookdash.com
 .metertna.ru
 .metfoetushandicraft.com
+.methenestaith.qpon
 .metheny.cn
 .methidekohua.shop
 .methodcash.com
@@ -477792,6 +478193,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .mjurz.springandmulberry.com
 .mjutjc.telstarsurf.de
 .mjuzs.strutmasters.com
+.mjvb60t4g.com
 .mjvkkfolyddcq.website
 .mjvr.cn
 .mjvvklsjsdddh.space
@@ -479178,6 +479580,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .monkeytracker.cz
 .monkeyunseen.com
 .monkishkecked.com
+.monkismsabayon.cfd
 .monkismspanish.cyou
 .monkismstomp.cyou
 .monkmanagementtuesday.com
@@ -479191,6 +479594,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .monnionyusdrum.com
 .monnyfooling.cfd
 .monodonng.cfd
+.monoecyboxen.shop
 .mononchtenue.cyou
 .mononoteapp.firebaseio.com
 .mononymemeline.cfd
@@ -479269,6 +479673,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .moochescramper.com
 .mooddivided.com
 .moodeign.cyou
+.moodierholibut.qpon
 .moodirresolute.com
 .moodjav12.fun
 .moodlerooms.blackboard.com
@@ -479423,6 +479828,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .morebrokedddomname.com
 .moredata.gotaplatsensfoto.se
 .moredetaailsh.com
+.moreduscle.qpon
 .morefastermac.trade
 .morefolks.com
 .morefreecamsecrets.com
@@ -482338,6 +482744,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .naicoapt.com
 .naiep.xyz
 .naifason.xyz
+.naigfattedshamer.qpon
 .naigristoa.com
 .nailadversary.com
 .nailowhe.net
@@ -483090,6 +483497,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .ncetdrzpalozq.space
 .nceteventuryrem.com
 .ncevipdjsuoln.com
+.ncgpcuweuiulu.space
 .ncgqmzm.cn
 .ncgyayuwfmujc.website
 .nch-software.info
@@ -485138,6 +485546,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .nisibtosnmnrx.com
 .nitafu.click
 .nitencymaracarammy.cyou
+.nitgurging.cfd
 .nitheemp.net
 .nithyshipsi.com
 .nitigoly.com
@@ -485905,6 +486314,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .nolosnephila.cfd
 .nolouuelvmzbu.website
 .nolrougn.com
+.nolvbxtoqffzy.online
 .nolzmmmohdwfe.online
 .nom.familysearch.org
 .nom.lds.org
@@ -487014,6 +487424,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .nubileforward.com
 .nubseech.com
 .nubumwpmqpslh.website
+.nucelliscreaky.qpon
 .nucgsx.indestructibleshoes.com
 .nucjcygtzbct.com
 .nuclandary.qnfbfs.cn
@@ -488859,6 +489270,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .oerfucoids.qpon
 .oerstedcalumba.qpon
 .oerxzdstepphr.store
+.oescornrow.shop
 .oesfco.glamira.pl
 .oeslfqfatabdp.website
 .oesnw.com
@@ -491752,6 +492164,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .orgfh.getspeks.com
 .orgiacdoses.cyou
 .orgiastafrits.cyou
+.orgicauldest.cfd
 .orgieslostorage.qpon
 .orgjqhznrwvr.com
 .orgkjaydrxxemoo.net
@@ -491897,6 +492310,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .orseduecrapula.cfd
 .orsmfg.notino.de
 .orsnarking.cfd
+.orsnpnbrncyiw.site
 .orsqgxiuhkitm.website
 .orssengseen.com
 .orssgypxniykf.space
@@ -494306,6 +494720,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .pap.zalando.de
 .papa999.xyz
 .papageienseite.de
+.papagomoslem.cfd
 .papainstogae.qpon
 .papairtoacy.net
 .papajia55.com
@@ -494413,6 +494828,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .parched-mail.com
 .parchedangle.com
 .parcheddustee.life
+.parchedplay.com
 .parchedsofa.com
 .parcookgoofah.qpon
 .pardahsmidis.qpon
@@ -495265,6 +495681,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .passendo.com
 .passengercomprehend.com
 .passengerpage.com
+.passersspiered.qpon
 .passeskannume.cfd
 .passeura.com
 .passewarestamp.help
@@ -495347,6 +495764,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .patarinmangers.top
 .patartnitchbuccal.cfd
 .patate.gupload.xyz
+.patballgammas.qpon
 .patcans.club
 .patchedcyamoid.com
 .patchedknute.cfd
@@ -496597,6 +497015,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .pernineatwindazotea.qpon
 .pernyiunlatch.cyou
 .peronesutoria.qpon
+.peronetonkin.cfd
 .peropusparmese.com
 .peropustautogs.cyou
 .peroutsell.qpon
@@ -496794,6 +497213,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .pevxxyfyhsvlh.global
 .peweocpibxvvi.space
 .pewfeafvlaiwe.online
+.pewpxlxlfsaac.website
 .pewyforz.shop
 .pexavfro.xyz
 .pexcsvjiecyoi.site
@@ -496897,6 +497317,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .pfudp.saltair.com
 .pfugzccdqenfw.online
 .pfuhoaygpop.com
+.pfuitaxmencashoo.cfd
 .pfulhwxjeoi.com
 .pfumefevfhare.space
 .pfundeoutacts.cyou
@@ -497259,6 +497680,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .phirussacmush.net
 .phising-initiative.fr
 .phixls.uaubox.com.br
+.phjelnacnkkli.website
 .phjml.cn
 .phjpiksdnhccr.site
 .phjteuhnuytwqe.com
@@ -497543,6 +497965,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .phywi.org
 .phywifupta.com
 .phzlhhfidmntxc.com
+.phztnfimeghth.space
 .pi-stats.com
 .pi.feedsportal.com
 .pi.ispot.tv
@@ -497576,6 +497999,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .piarecdn.com
 .piaroankenyte.store
 .piasabagiveth.com
+.piaskhaja.cfd
 .piastvicine.cyou
 .piatan.piatannatural.com.br
 .piazzaaiery.qpon
@@ -497849,6 +498273,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .pilsarde.net
 .pilulagabitaroc.cyou
 .pilularatavist.com
+.pilulehomeoid.cfd
 .piluleruggy.com
 .pimamonthon.cfd
 .pimarichexagon.shop
@@ -499108,6 +499533,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .plgtxprvrgume.site
 .plhtxf.firstnavi.jp
 .pliablepeised.shop
+.pliableunsnaky.qpon
 .pliantdummyexasperation.com
 .plianteditdisembark.com
 .pliantethanyowing.qpon
@@ -500124,6 +500550,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .poqjnkdsou.net
 .poqoiwn.com
 .poqup.com
+.poqwepljjnepo.online
 .poqwnllkm.com
 .poqwo3.com
 .poratav.com
@@ -501130,6 +501557,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .premiermylodei.com
 .premierpearlet.shop
 .premisemodula.qpon
+.premitunebbed.cyou
 .premium-live-scan.com
 .premium-members.com
 .premium-offers.com
@@ -501326,6 +501754,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .previouspotato.com
 .previousscambuild.com
 .prevoidfustee.qpon
+.prevoidwhopper.shop
 .prevostslakier.top
 .prevoteglimmer.cyou
 .prevueseugonicjilting.cyou
@@ -501657,6 +502086,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .prk.roverinvolv.bid
 .prksism.com
 .prkudpsduulrx.online
+.prkvciyiwymts.space
 .prkvlr.camper.com
 .prkvsrvtruhlf.online
 .prl.adasgxsp.cc
@@ -501759,6 +502189,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .probablyimmatureresentment.com
 .probablyrespectivelyadhere.com
 .probablyusualcontraction.com
+.probalanvils.cfd
 .probandchiders.help
 .probationpresented.com
 .probationshacksaint.com
@@ -502343,6 +502774,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .protected-redirect.click
 .protectedfolkssomebody.com
 .protectedpeat.com
+.protectedspinster.com
 .protecteverywheredisgraceful.com
 .protectflow.life
 .protectheader.com
@@ -503402,6 +503834,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .puddleincidentally.com
 .puddwz.mister-auto.ie
 .pudencygletty.com
+.pudendaleskeasucrose.cfd
 .pudgygob.world
 .pudhr.paulinafitness.com
 .pudijoghimtoo.net
@@ -504173,6 +504606,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .pvsxzlb.com
 .pvt2202--deab86120ff311f1b0c142dde27851f2.web.val.run
 .pvtag.yahoo.co.jp
+.pvtcfeojlwxrx.online
 .pvtd.cn
 .pvtest.zol.com.cn
 .pvtjt.ancestralsupplements.com
@@ -504535,6 +504969,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .pzemxqyyaynor.site
 .pzemzwvodejwz.website
 .pzevcsnxpnvwb.site
+.pzflzyuagcpai.online
 .pzfov.salomon.com
 .pzfv4rxjklbbjltyz9gonb4vmlympmx55nfbu.rest
 .pzgbqbk.com
@@ -504922,6 +505357,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .qcblzn.pinkpanda.it
 .qcbtygylmnfez.fun
 .qccoccocmedia.vn
+.qccxvtfbk.com
 .qcdch.saltlaboratory.com
 .qceartfa.com
 .qcennhkrzskze.space
@@ -506564,6 +507000,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .qtq632.com
 .qtqcd.bonmarche.co.uk
 .qtqkpddcbddmy.space
+.qtqlkzfpfpxow.website
 .qtqlvy3cww2cnkipfr442vt.cfd
 .qtqqn.thriftvintagefashion.com
 .qtqv3cy43w.com
@@ -506621,6 +507058,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .quaidesbulles.fr
 .quail.trueglowbylaura.com
 .quailnude.com
+.quailsbs.shop
 .quaint-escape.pro
 .quaintbitter.com
 .quaintborder.com
@@ -507322,6 +507760,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .qwwrqxlbplpws.website
 .qwxcs.com
 .qwxfhuzzyhyiu.space
+.qwxfktuzqctax.site
 .qwxolavxykodb.site
 .qwxxufudvlloq.site
 .qwylpm.teljoy.co.za
@@ -507746,6 +508185,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .r8nu86wg.me
 .r8pzycfvwbtwjhi9lfzmiqp461vxph2.rest
 .r932o.com
+.r96h7g97rik8eq8ow.cfd
 .r973.timesheraldonline.com
 .r9ffi.fun
 .r9ljguu1k4.ru
@@ -510368,6 +510808,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .removedidentification.com
 .removedispel.com
 .removedrehabilitation.com
+.remox.com
 .remp-beam.golem.de
 .remp-campaign.golem.de
 .remp.nv.ua
@@ -511414,6 +511855,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .rewinddisgusting.com
 .rewinddubbones.com
 .rewindstagger.com
+.rewiwjmnrjvdc.site
 .rewordsbrogh.life
 .reworkcentavo.cyou
 .rewovenentonic.help
@@ -511824,6 +512266,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .rhythmrule.com
 .rhythmxchange.com
 .rhytic.com
+.rhzmwkiqjjfjv.website
 .rhzofr.icu
 .ri.5.p2l.info
 .ri.mistermenuiserie.com
@@ -511844,6 +512287,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .ribghr.icu
 .ribgreenhousecompose.com
 .ribkdvpyszfm.com
+.ribletslysinsmetusia.cfd
 .riblikestratal.help
 .ribosesshutes.cfd
 .ribqpiocnzc.com
@@ -512813,6 +513257,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .robberysordid.com
 .robbiblubber.org
 .robbindoer.digital
+.robbqjyn.com
 .robcalwith.ru
 .robcohatru.ru
 .robedonedip.com
@@ -513004,6 +513449,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .rokt.com
 .roku-beacons.xumo.com
 .rokymedia.com
+.rol6z3c3r17ny93i26wt34cy1pc21mtw4ri.rest
 .rolandpeon.qpon
 .roldbowdiyegy.online
 .roleacquisitionrighty.com
@@ -513402,6 +513848,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .rovz7ekw3r.com
 .rowansportstriped.com
 .rowaskewoblong.com
+.rowavojtcttxt.online
 .rowdiersnary.uno
 .rowdyraise.pro
 .rowdyrope.pro
@@ -515264,6 +515711,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .rxkayupbjvt.com
 .rxkrnofyhchvm.site
 .rxliwi.ullapopken.com
+.rxlvemmsokvfi.online
 .rxmqrbbhwbdeh.website
 .rxnuglcau.xyz
 .rxnvg.com
@@ -517268,6 +517716,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .sandalsprotist.cyou
 .sandbank56.com
 .sandbank68.com
+.sandbincassiri.qpon
 .sandbox-connectlp.keysight.com
 .sandbox-elq.keysight.com
 .sandbox-elq.keysight.com.cn
@@ -518223,6 +518672,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .scgou.littlepassports.com
 .sch-alt-91.com
 .sch-crt-91.com
+.schanzbordman.cfd
 .schanzweaners.cyou
 .schappebopyrid.qpon
 .scharfdutra.qpon
@@ -518558,6 +519008,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .screwdriverblizzard.com
 .screwerfriseur.cyou
 .screwerpimlico.shop
+.screwsgrazecapon.cyou
 .screwyhotly.cyou
 .scribbens.fr
 .scribblemidday.com
@@ -518618,6 +519069,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .scrolarlutes.help
 .scrollbelow.com
 .scrollisolation.com
+.scrollpop.online
 .scrollservice.com
 .scrolltotop.com
 .scrollye.com
@@ -518687,6 +519139,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .scungesifters.shop
 .scupio.com
 .scupio.net
+.scurdycoercessago.cfd
 .scure-royaibamk.com
 .scurra.space
 .scurrilidylian.shop
@@ -519911,6 +520364,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .sendwebpush.com
 .sendword.ir
 .senecaanoles.com
+.senegalimproof.cfd
 .seneptm.eposcard.co.jp
 .sengimirexes.shop
 .sengiprexes.cfd
@@ -526074,6 +526528,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .shawmrebind.shop
 .shawon.kitchenbazarbd.com
 .shawon1.kitchenbazarbd.com
+.shawskinboteembolon.cyou
 .shawuh2a8nyam09.com
 .shaxegni.com
 .shaxiq.com
@@ -526160,6 +526615,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .shellypartile.com
 .shelter57.com
 .sheltercellar.com
+.shelvyjosh.cfd
 .shemale.house
 .shemalesofhentai.com
 .shenbabao.com
@@ -526372,6 +526828,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .shise.me
 .shisnwatcher.digital
 .shiswashisco.com
+.shitainfamy.cyou
 .shitblimp.gasm.ninja
 .shitcustody.com
 .shitoulm.com
@@ -527085,6 +527542,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .shostobs.net
 .shotdynastyimpetuous.com
 .shotgunchancecruel.com
+.shotmanwoodies.cyou
 .shotstopers.com
 .shottyfoamily.qpon
 .shotyfy.com
@@ -527393,6 +527851,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .siconoi.com
 .sicptmaosfykg.net
 .sicptmaosfykg.xyz
+.sicqybon.com
 .sicyoschows.cyou
 .sid.nordstrom.com
 .sid.starstudd.com
@@ -527565,6 +528024,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .signifyd.com
 .signingunwilling.com
 .signingvehemenceraffle.com
+.signmanswitzer.qpon
 .signoraargent.life
 .signorafusel.qpon
 .signpetition.co
@@ -527634,6 +528094,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .sillagoalgae.website
 .sillagoposs.shop
 .sillaltica.cyou
+.sillararrand.qpon
 .sillierwills.shop
 .sillinessclearly.com
 .sillinessinterfere.com
@@ -528610,6 +529071,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .slaithamitalgodpapa.qpon
 .slakedartouhaleday.cyou
 .slakiervolost.com
+.slakinoltondeoutbred.qpon
 .slamactress.com
 .slammedloftygauze.com
 .slampallies.help
@@ -528630,6 +529092,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .slapbutler.com
 .slapclergymoth.com
 .slapexcitedly.com
+.slapperbroil.cyou
 .slapswingthrough.com
 .slaqandsan.xyz
 .slaresolidi.com
@@ -528804,6 +529267,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .slimopinion.com
 .slimplumbernotable.com
 .slimreply.pro
+.slimshaptic.shop
 .slimspots.com
 .slimtrade.com
 .slimy-sport.pro
@@ -529409,6 +529873,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .smmmkl.hoff.ru
 .smmmqq.com
 .smmnclhggakto.website
+.smmnukhmkbffv.site
 .smmqhjwwrjred.store
 .smmx3.cn
 .smn.dankore.jp
@@ -544744,6 +545209,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .std.o.rxlist.com
 .std.odontoiatrika.it
 .std.stdrapidtestkits.com
+.std72yw0s.com
 .stdirection.com
 .stdl.qq.com
 .stdm.ayudante.jp
@@ -545023,6 +545489,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .stilanzeigen.net
 .stilbdueller.cyou
 .stilbmolted.com
+.stilbumcarapo.shop
 .stildell.com
 .stildreans.com
 .stillawokeathwart.com
@@ -546330,6 +546797,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .subwayhumility.com
 .subx.alpinawein.de
 .subxpk.com
+.succahodorant.cyou
 .succahsflotsam.cfd
 .succeedappointedsteve.com
 .succeedingpeacefully.com
@@ -547240,6 +547708,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .svem.cc
 .sverd.net
 .sverowkatguzh.site
+.svetoborka.link
 .svfbc.finesse.us
 .svfwer.top
 .svgmirkagtgcz.space
@@ -547783,6 +548252,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .swollencompletely.com
 .swomanifefashionis.org
 .swonswksodcbc.website
+.swoobmoczogq.in
 .swoodlander.site
 .swoonedanomala.help
 .swoop.com
@@ -547849,6 +548319,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .swx.0.0.0.0.cn
 .swylysnrppthv.space
 .swzhaohuo.com.cn
+.swzptymsigrdh.site
 .swzrtm.unclereco.com
 .sx.fakjkwp.cn
 .sx.ifm.org
@@ -547988,6 +548459,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .sxmxpm.nectarsleep.com
 .sxncdwwjlvwkz.online
 .sxobqwbiiknjp.website
+.sxoykqrysexu.com
 .sxp.allianz.de
 .sxpexkvqmnkwq.space
 .sxprtoqjwbvuq.website
@@ -550486,6 +550958,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .tankiuz.xyz
 .tankroyaldivide.com
 .tanksfright.com
+.tanmmxyfybzpp.website
 .tannedeluder.cyou
 .tannedposes.cfd
 .tannideilocano.qpon
@@ -550527,6 +551000,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .taobayun.cn
 .taobc.com
 .taobeike.com
+.taobljybvgouh.online
 .taocorloezwno.com
 .taodropship.com
 .taoggou.com
@@ -550637,6 +551111,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .tardangro.com
 .tardecto.cyou
 .tardierrouges.com
+.tardiescomournaphides.cfd
 .tardleuruturiglet.cyou
 .targad.de
 .targaubs.com
@@ -550984,6 +551459,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .tarpitbar.com
 .tarpturfdom.cfd
 .tarqk5.com
+.tarquingumtreemourner.qpon
 .tarreyieldwaned.qpon
 .tarriesthetine.digital
 .tarrilyathenee.com
@@ -551287,6 +551763,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .tb104x.corp.youdao.com
 .tb1mdkeni.com
 .tb1u.com
+.tb3hrrmcgfumj5fvk.cfd
 .tb3t.xyz
 .tb4gv2cp5z.com
 .tb55788.com
@@ -552422,6 +552899,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .tentflooring.biljax.com
 .tenthgiven.com
 .tenthsfrumpy.com
+.tentilyrouth.qpon
 .tentioniaukmlastit.com
 .tentionirreg.com
 .tentionswaver.qpon
@@ -553647,6 +554125,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .thivelunliken.com
 .thj.astrakhan.ru
 .thj36m3dm.com
+.thjfqbwhlegns.website
 .thjhaj.zooart.com.pl
 .thjwxz.xyz
 .thjxvlrjnbqbs.store
@@ -554549,6 +555028,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .tip-ads.de
 .tip-leisusports.com
 .tipburncaiman.cyou
+.tipburnhot.shop
 .tipcartoleron.com
 .tipcatscarola.com
 .tipcatslemanry.qpon
@@ -555242,6 +555722,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .tlq8ufqddj.com
 .tlqjonbqwuwmp.online
 .tlqugk.fashionette.se
+.tlr2wnrb7vofkmhivll7yj8.rest
 .tlrkcj17.de
 .tlrtd.cymbiotika.com
 .tls.coachlykke.dk
@@ -555735,6 +556216,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .toecircle.com
 .toedrawer.com
 .toeholdbarrack.life
+.toelikenymphs.cfd
 .toenaildemand.com
 .toenailfairnessvictorious.com
 .toenailmushensues.cfd
@@ -563104,6 +563586,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .ttbaods.com
 .ttbc.cc
 .ttbm.com
+.ttbu59z6hmxyfl.cfd
 .ttc.africantravelinc.com
 .ttc.haggisadventures.com
 .ttc.highlandexplorertours.com
@@ -563668,6 +564151,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .tusno.com
 .tussahsoxyopia.cyou
 .tussledconies.cyou
+.tussledhurdis.cfd
 .tusslertorpify.qpon
 .tussorekamba.cfd
 .tutaniaintimae.cfd
@@ -563924,6 +564408,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .twigwisp.com
 .twilightinspiredglands.com
 .twilightsentiments.com
+.twilitwolfdomfalcer.qpon
 .twillermobiles.cfd
 .twilmii.top
 .twiltformyl.qpon
@@ -564550,6 +565035,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .u660.theheraldreview.com
 .u66099.com
 .u67qpnaexu.com
+.u6qzzhptfetuto.rest
 .u6u.icu
 .u6uy9lzdcj.com
 .u6yzoru6u.com
@@ -565929,6 +566415,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .ulyhadchos.com
 .ulymhoghpradf.space
 .ulyvjty4rd.com
+.ulywbvwxyyiol.space
 .ulziylkdhxcap.store
 .ulzriwofwavvc.online
 .um-public-panel-prod.s3.amazonaws.com
@@ -566059,6 +566546,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .umrvmb.net.anwalt.de
 .umsgpfloirafp.site
 .umsns.com
+.umssvcwqpokjt.online
 .umswe.com
 .umtlqaamwftxr.website
 .umtudo.com
@@ -566681,6 +567169,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .unlesssecret.com
 .unlika.com
 .unlimbhutlet.cfd
+.unlimitedbarbpuzzlement.com
 .unlimitedteacup.com
 .unlined-you.com
 .unlinedcap.pro
@@ -566880,6 +567369,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .unshinykerite.com
 .unshoutstroth.rest
 .unshutcaitiff.com
+.unsightlyaffect.pro
 .unsigilyphor.com
 .unsingwont.shop
 .unsizedjabber.com
@@ -567297,6 +567787,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .upglideantijam.com
 .upglidetectona.cfd
 .upgliscorom.com
+.upgocauda.cfd
 .upgrade-ms-home.com
 .upgrade.xl9.xunlei.com
 .upgraderservices.cf
@@ -567770,6 +568261,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .urmgui.nationsphotolab.com
 .urmilan.info
 .urnigarted.com
+.urningcense.qpon
 .urnismsoroses.rest
 .urnki.pjsalvage.com
 .urnooiew.com
@@ -568873,6 +569365,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .uufgarwmibysu.online
 .uufjxnfitxtvt.website
 .uufrhwutgdgxe.com
+.uugcoqbjlpcyc.website
 .uugfvrpccibuj.website
 .uugq56e7kychtrpq2xm8v59yol5gn.rest
 .uuhapochhbjzl.site
@@ -569084,6 +569577,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .uxahhowennlqf.website
 .uxazhgibyblus.store
 .uxbygjzvingbv.online
+.uxcdqabxbsq.com
 .uxcjzhltqcgxy.space
 .uxcnhsf.cn
 .uxdfxyepfow.xyz
@@ -569551,6 +570045,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .vaitunoagoapsee.net
 .vaiwhehegrustou.net
 .vaiwhoojoapseet.net
+.vaiwxufuvlmvb.space
 .vajofu.uno
 .vajoru.xyz
 .vajwbkkmklovw.top
@@ -569564,6 +570059,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .val.api.youku.com
 .val.valkenstol.de
 .valack.com
+.valancekuvasz.cyou
 .valdes.net.anwalt.de
 .vale.valevaleriapottery.com
 .valeenjoy.com
@@ -571068,6 +571564,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .vgyppkfadflol.website
 .vgzard.icu
 .vgzglvykuyclh.store
+.vgzogmuqcjhul.space
 .vgzpo.tokidoki.it
 .vgzpyrrekytio.space
 .vh4kpb2zkig2bfcgovjrlj2.rest
@@ -571774,6 +572271,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .viglink.com
 .viglink.fr
 .vignerez.net
+.vigognecerning.cyou
 .vigorous-average.com
 .vigorouslyflamboyant.com
 .vigorouslymicrophone.com
@@ -571903,6 +572401,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .vilayetaurataoctodon.qpon
 .vileeconomical.com
 .vilelaaccable.com
+.vilelaacridyl.shop
 .vilelypulli.cyou
 .vilenexus.com
 .vilercarpetfolk.com
@@ -572014,6 +572513,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .violetlovelines.com
 .violetop33.top
 .violetreading.com
+.violetscelesta.qpon
 .violetsdentals.qpon
 .violindealtcynical.com
 .violineguldens.cyou
@@ -572102,6 +572602,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .vipwqpsoxnmwt.site
 .vipyou.bulkpowders.es
 .viqnyskvqrtzu.space
+.viqonnkopkkjp.site
 .viqyrcsnuaqxvyg.com
 .vir70n.news
 .vira.ru
@@ -572730,6 +573231,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .vmn05pnuh.com
 .vmnerjogspeax.site
 .vmngxjiczmmzm.site
+.vmnrzsiazgmck.space
 .vmntnkbmcdvyy.space
 .vmoitdsrmertx.online
 .vmonetize.com
@@ -574336,6 +574838,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .vxslamouxg.com
 .vxsnk.com
 .vxspxbdivdirz.website
+.vxssaouirigkr.online
 .vxsscpctuiq.com
 .vxtbag.labelleetude.com
 .vxtkmlmumvied.site
@@ -574435,6 +574938,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .vysqlt.essoco.com
 .vysr4o0eg.com
 .vytans.com
+.vytf0mqa0.com
 .vytix.net
 .vytjbahlkcmwn.space
 .vytkxcvmdzgbj.online
@@ -574711,6 +575215,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .w9h6mz6xqp5jeg9y9v857f5t.cfd
 .w9hubvbx8jocj1eml6wi.rest
 .w9l4tr4013tn5mo27t0w.xyz
+.w9m46culkq88bxrt85xyvx61u53.rest
 .w9uwz5966.com
 .wa.5.p2l.info
 .wa.airexperience.dk
@@ -575293,6 +575798,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .wasp.mattjennings.io
 .wasp.orchestra2020.eu
 .waspfestivalchampionship.com
+.waspiermagma.cyou
 .waspilysagene.com
 .waspishamendbulb.com
 .waspishmexican.com
@@ -575648,6 +576154,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .wc4.net
 .wc5cyztpew2t9po8.cfd
 .wc6y3nrv7g.com
+.wc74aa875.com
 .wc87322357rey4fz.cfd
 .wcadlvruvrq.xyz
 .wcail.com
@@ -576442,6 +576949,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .weblog2.eseoul.go.kr
 .weblogger-dynamic-lb.playdom.com
 .weblogiklan.com
+.webls.net
 .weblytics.io
 .webmail.carte-gr.total.fr
 .webmail.grahachemical.co.id
@@ -576886,6 +577394,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .wejqzsufiutaa.site
 .wejvdxiglvuwa.online
 .wek.weck.de
+.wekaukilp.cfd
 .wekazjwmctawy.site
 .wekeahzucvmgn.website
 .wel-wel-fie.com
@@ -576999,6 +577508,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .welsworn.info
 .welt-der-links.de
 .welte.jp
+.weltedsloppypinked.cyou
 .weltercampe.com
 .weltsgtm.weltausholz.de
 .welved.com
@@ -577480,6 +577990,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .wherebywhatsoeverduck.com
 .wheredoyoucomefrom.ovh
 .whereermisdoer.cfd
+.whereisdalle.cfd
 .whereismommy.gq
 .whereismybonus.com
 .whereres.com
@@ -577620,6 +578131,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .whiteforwardlines.com
 .whitehalfabrr.club
 .whiteinflammablejaws.com
+.whitening76.top
 .whitenoisenews.com
 .whitensfest.com
 .whitenshektare.qpon
@@ -578359,6 +578871,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .wishfulthingtreble.com
 .wishfulvineslight.com
 .wishgofox.com
+.wishingbindingemoter.qpon
 .wishinghonourederratic.com
 .wishjolty.com
 .wishjus.com
@@ -581294,6 +581807,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .www.nearestsalon.com
 .www.nebulus30.plus.com
 .www.necklaceu.com
+.www.negativesphere.com
 .www.neonpack.com
 .www.neonracketpro.com
 .www.neptuneads.com
@@ -583072,6 +583586,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .xfztgxt.com
 .xfzyun.com
 .xg-jbpmnru.online
+.xg114bmq7634uen7f7gr8.rest
 .xg2o402yyy.ru
 .xg4ken.com
 .xg6hb.xyz
@@ -583157,6 +583672,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .xhckbgvd0.com
 .xhcsegpi.worldanimalprotection.dk
 .xhct66.com
+.xhdbmapmvtnqf.online
 .xhdhkrqweshxx.com
 .xhdooiqhqpinv.space
 .xhe87zexdk.com
@@ -584619,6 +585135,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .xntcbt.manfield.com
 .xntlhvmcfqdxf.website
 .xntrmky.com
+.xntwwkayczvaj.website
 .xnuewypvwoziz.store
 .xnukcp.cpcompany.com
 .xnumzelehhhnnc.com
@@ -585451,6 +585968,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .xwwnlmicmcmly.website
 .xwxdrtxjwrkqe.store
 .xwxgjtxsrnkrh.space
+.xwxkorepqjcnt.site
 .xwxludcukzfer.rocks
 .xwxmasihzkjoj.online
 .xwxqdfmlsgir.com
@@ -585623,6 +586141,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .xy.fbcdn.net
 .xy.shijialianzuishuai.com
 .xy33.smallable.com
+.xy5ibkrfyjnp5jqyyg3.rest
 .xy7elite.com
 .xya4.groupefsc.com
 .xyahug.luxuryonly.com
@@ -586433,6 +586952,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .yefzjingxudwib.com
 .yegggracile.top
 .yegsbwsspibbk.website
+.yegtaizxtftpo.online
 .yegvjrkcasiwf.space
 .yegziyf.cn
 .yegzkw.xyz
@@ -586440,6 +586960,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .yehsqbrolnmrh.online
 .yehuitudu.cn
 .yehyqc.hugoboss.com
+.yeikszqbyeoej.site
 .yeioreo.net
 .yejvecidmfuqe.space
 .yekavcxlkbejc.online
@@ -586812,6 +587333,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .yhzzzs02.com
 .yi.ximizi.com
 .yi71.com.cn
+.yiawnxikusxbs.site
 .yibapaqndalsv.space
 .yibeksngkvrju.space
 .yibgeftopjk.com
@@ -588225,6 +588747,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .yuapindogtie.shop
 .yuastejdigmex.site
 .yubziosgvkweu.online
+.yucalarvate.qpon
 .yucefa.cn
 .yuckelobongo.com
 .yucksoutshow.life
@@ -588592,6 +589115,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .yxcrcc.xyz
 .yxcxheuw.net
 .yxeawgomuxnix.space
+.yxeeurjfsigad.online
 .yxeqahmgyxqdid.com
 .yxeuunyvnhme.com
 .yxfqar.trendhim.com.au
@@ -589054,6 +589578,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .zamxcn.dmall.co.kr
 .zamxzyrdmqiuh.site
 .zanaflex.1.p2l.info
+.zanellatrophy.cfd
 .zanghaihua.org
 .zangocash.com
 .zangraikri.com
@@ -589093,6 +589618,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .zapmxmdlflprdy.com
 .zapogentasofh.site
 .zapotezincky.com
+.zappeddoltish.cfd
 .zapprecisionadmire.com
 .zapr.in
 .zapunited.com
@@ -589298,6 +589824,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .zcode17.com
 .zcode7.me
 .zcojp.buybluebird.com
+.zcok7117voqo35mz4yffzu72ji.cfd
 .zconaenvbcslb.space
 .zconfig.alibabausercontent.com
 .zcoptry.com
@@ -590143,6 +590670,7 @@ IP-CIDR,2402:db40:5100:1011::5/128,no-resolve
 .zincyfowkdiapir.qpon
 .zinekrtshkgkl.website
 .zineone.com
+.zinganohakopurl.cfd
 .zingaurtoam.net
 .zingingassart.click
 .zingingsuist.cyou
