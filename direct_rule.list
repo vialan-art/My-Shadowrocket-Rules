@@ -1,5 +1,5 @@
 # Direct rules list for Shadowrocket
-# Generated on Tue Aug  4 08:45:52 UTC 2026
+# Generated on Tue Aug  4 11:29:09 UTC 2026
 
 
 # From: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
@@ -8742,6 +8742,7 @@ DOMAIN,fastrouter.org,direct
 DOMAIN,yaene.infini-cloud.net,direct
 DOMAIN,magnumphotos.com,direct
 DOMAIN-SUFFIX,vvnalnlgs.top,direct
+DOMAIN-SUFFIX,opencode.ai,direct
 # 手工定义的 Direct 列表
 #153
 DOMAIN-SUFFIX,icloud-content.com,DIRECT
