@@ -1,5 +1,5 @@
 # Direct rules list for Shadowrocket
-# Generated on Fri Aug 21 17:33:50 UTC 2026
+# Generated on Fri Aug 21 18:42:43 UTC 2026
 
 
 # From: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
@@ -9139,12 +9139,12 @@ IP-CIDR,::1/128,DIRECT
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-08-18 02:32:29
-# DOMAIN: 296
+# UPDATED: 2026-08-22 02:32:12
+# DOMAIN: 267
 # DOMAIN-KEYWORD: 13
 # DOMAIN-SUFFIX: 111011
 # USER-AGENT: 65
-# TOTAL: 111385
+# TOTAL: 111356
 .0.zone
 .00.net
 .000.link
@@ -120125,7 +120125,6 @@ abclive2-lh.akamaihd.net
 activate.activation-v2.kaspersky.com
 activation-v2.kaspersky.com
 admob-cn.com
-afcs.dell.com
 aka-amd-njpwworld-hls-enlive.akamaized.net
 alibaba.cdn.steampipe.steamcontent.com
 aljazeera-eng-hd-live.hls.adaptive.level3.net
@@ -120163,31 +120162,22 @@ channellive.leshantv.net
 chaoan.chaoantv.com
 clickserve.cc-dt.com
 client.amplifi.com
-clientperipherals.dell.com
 cn.download.nvidia.com
 cn.widevine.com
 crl.pki.goog
 crls.pki.goog
-customization-cdn.dell.com
 d9af5a60.edmonst.net
 dartsearch-cn.net
-dds.dell.com
 developer.microsoft.com
-dl.dell.com
 doubleclick-cn.net
 doubleclick.net
 download.jetbrains.com
 e1.vdowowza.vip.hk1.tvb.com
-ea2cn-dev-outlet.dell.com
-ea2cn-prod-outlet.dell.com
-ea2cn-staging-outlet.dell.com
 edge.music-choice-play-chaina1.top.comcast.net
-emoi-cncdn.bing.com
 end-api.shallow.ink
 end.shallow.ink
 f24hls-i.akamaihd.net
 fash1043.cloudycdn.services
-fcs.dell.com
 file.hhtv.cc
 file.mb.leshantv.net
 firebase-settings.crashlytics.com
@@ -120195,13 +120185,7 @@ fm901.cityfm.tw
 fm929.cityfm.tw
 fm971.cityfm.tw
 fm983.cityfm.tw
-fta.dell.com
-ftaapj.dell.com
-ftaemea.dell.com
-ftasitapj.dell.com
 gayotv.net
-gbxgateway-dev.dell.com
-gbxgateway.dell.com
 gonglchuangl.net
 gongyichuangyi.net
 gpb-hls.streamguys1.com
@@ -120217,7 +120201,6 @@ hls.qguiyang.com
 hls.qxtv0763.com
 hls.wlrn.mobi
 httpdvb.slave.ttcatv.tv
-i.dell.com
 i.pki.goog
 icecast-ruvr.cdnvideo.ru
 images-cn-8.ssl-images-amazon.com
@@ -120290,7 +120273,6 @@ ms3.yichuntv.com
 n18.rcs.revma.com
 necgokr2-724.acs.wecandeo.com
 nettvpro.live
-nexus.dell.com
 nhkw-zh-hlscomp.akamaized.net
 nhkwlive-xjp.akamaized.net
 nis.stream.publicradio.org
@@ -120301,7 +120283,6 @@ ocsp.pki.goog
 origin-a.akamaihd.ne
 origin-a.akamaihd.net
 ott-live.olympicchannel.com
-p.cdn.persaas.dell.com
 play.jinnantv.top
 play.scrstv.com
 play.sngdxsn.com
@@ -120326,16 +120307,11 @@ rmtv24hweblive-lh.akamaihd.net
 rthklive1-lh.akamaihd.net
 rthklive2-lh.akamaihd.net
 rtvcdn.com.au
-scene7-cdn.dell.com
 sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 seb.sason.top
 service.urchin.com
-si.cdn.dell.com
 slive.ytn.co.kr
-sm.dell.com
 sms.imagetasks.com
-snp.cdn.dell.com
-snpi.dell.com
 sohucao.duapp.com
 staging-controlbe.floonet.goog
 staging-databe.floonet.goog
@@ -120362,10 +120338,8 @@ stream01.dqtv123.com
 stream1.shopch.jp
 stream2.cprnetwork.org
 streamipcf.akamaized.net
-supportassist.dell.com
 time.xtracloud.net
 tl.gscm.tv
-tp.louisvuitton.com
 trtcanlitv-lh.akamaihd.net
 tv.cnbeijing.xyz
 tv.drs.hhtv.cc
@@ -120373,7 +120347,6 @@ tv.jrsncn.com
 tv.nknews.org
 uni6rtmp.tulix.tv
 update.crashlytics.com
-uplaypc-s-ubisoft.cdn.ubi.com
 v1.one-tv.com
 vip888.kuyun99.com
 voa-lh.akamaihd.net
@@ -120387,9 +120360,7 @@ wowza.montevideo.com.uy
 wowza.ner.gov.tw
 wpc.124ce.sigmacdn.net
 wuwm.streamguys1.com
-www-csb.dell.com
 www.cbsnews.com
-www.dell.com
 www.destinationurl.com
 www.filmon.com
 www.pxcc.com
@@ -120410,14 +120381,14 @@ zzq12345.gearhostpreview.com
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-08-20 02:28:37
-# DOMAIN: 297
+# UPDATED: 2026-08-22 02:31:42
+# DOMAIN: 268
 # DOMAIN-KEYWORD: 13
 # DOMAIN-SUFFIX: 111335
 # IP-ASN: 1
-# IP-CIDR: 12164
+# IP-CIDR: 12166
 # USER-AGENT: 65
-# TOTAL: 123875
+# TOTAL: 123848
 .0.zone
 .00.net
 .000.link
@@ -231718,7 +231689,6 @@ abclive2-lh.akamaihd.net
 activate.activation-v2.kaspersky.com
 activation-v2.kaspersky.com
 admob-cn.com
-afcs.dell.com
 aka-amd-njpwworld-hls-enlive.akamaized.net
 alibaba.cdn.steampipe.steamcontent.com
 aljazeera-eng-hd-live.hls.adaptive.level3.net
@@ -231756,32 +231726,23 @@ channellive.leshantv.net
 chaoan.chaoantv.com
 clickserve.cc-dt.com
 client.amplifi.com
-clientperipherals.dell.com
 cn.download.nvidia.com
 cn.widevine.com
 cpro.baidustatic.com
 crl.pki.goog
 crls.pki.goog
-customization-cdn.dell.com
 d9af5a60.edmonst.net
 dartsearch-cn.net
-dds.dell.com
 developer.microsoft.com
-dl.dell.com
 doubleclick-cn.net
 doubleclick.net
 download.jetbrains.com
 e1.vdowowza.vip.hk1.tvb.com
-ea2cn-dev-outlet.dell.com
-ea2cn-prod-outlet.dell.com
-ea2cn-staging-outlet.dell.com
 edge.music-choice-play-chaina1.top.comcast.net
-emoi-cncdn.bing.com
 end-api.shallow.ink
 end.shallow.ink
 f24hls-i.akamaihd.net
 fash1043.cloudycdn.services
-fcs.dell.com
 file.hhtv.cc
 file.mb.leshantv.net
 firebase-settings.crashlytics.com
@@ -231789,13 +231750,7 @@ fm901.cityfm.tw
 fm929.cityfm.tw
 fm971.cityfm.tw
 fm983.cityfm.tw
-fta.dell.com
-ftaapj.dell.com
-ftaemea.dell.com
-ftasitapj.dell.com
 gayotv.net
-gbxgateway-dev.dell.com
-gbxgateway.dell.com
 gonglchuangl.net
 gongyichuangyi.net
 gpb-hls.streamguys1.com
@@ -231811,7 +231766,6 @@ hls.qguiyang.com
 hls.qxtv0763.com
 hls.wlrn.mobi
 httpdvb.slave.ttcatv.tv
-i.dell.com
 i.pki.goog
 icecast-ruvr.cdnvideo.ru
 images-cn-8.ssl-images-amazon.com
@@ -231884,7 +231838,6 @@ ms3.yichuntv.com
 n18.rcs.revma.com
 necgokr2-724.acs.wecandeo.com
 nettvpro.live
-nexus.dell.com
 nhkw-zh-hlscomp.akamaized.net
 nhkwlive-xjp.akamaized.net
 nis.stream.publicradio.org
@@ -231895,7 +231848,6 @@ ocsp.pki.goog
 origin-a.akamaihd.ne
 origin-a.akamaihd.net
 ott-live.olympicchannel.com
-p.cdn.persaas.dell.com
 play.jinnantv.top
 play.scrstv.com
 play.sngdxsn.com
@@ -231920,16 +231872,11 @@ rmtv24hweblive-lh.akamaihd.net
 rthklive1-lh.akamaihd.net
 rthklive2-lh.akamaihd.net
 rtvcdn.com.au
-scene7-cdn.dell.com
 sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 seb.sason.top
 service.urchin.com
-si.cdn.dell.com
 slive.ytn.co.kr
-sm.dell.com
 sms.imagetasks.com
-snp.cdn.dell.com
-snpi.dell.com
 sohucao.duapp.com
 staging-controlbe.floonet.goog
 staging-databe.floonet.goog
@@ -231956,10 +231903,8 @@ stream01.dqtv123.com
 stream1.shopch.jp
 stream2.cprnetwork.org
 streamipcf.akamaized.net
-supportassist.dell.com
 time.xtracloud.net
 tl.gscm.tv
-tp.louisvuitton.com
 trtcanlitv-lh.akamaihd.net
 tv.cnbeijing.xyz
 tv.drs.hhtv.cc
@@ -231967,7 +231912,6 @@ tv.jrsncn.com
 tv.nknews.org
 uni6rtmp.tulix.tv
 update.crashlytics.com
-uplaypc-s-ubisoft.cdn.ubi.com
 v1.one-tv.com
 vip888.kuyun99.com
 voa-lh.akamaihd.net
@@ -231981,9 +231925,7 @@ wowza.montevideo.com.uy
 wowza.ner.gov.tw
 wpc.124ce.sigmacdn.net
 wuwm.streamguys1.com
-www-csb.dell.com
 www.cbsnews.com
-www.dell.com
 www.destinationurl.com
 www.filmon.com
 www.pxcc.com
@@ -235780,23 +235722,24 @@ www.yxssp.com
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-08-20 02:28:37
-# DOMAIN: 297
+# UPDATED: 2026-08-22 02:31:42
+# DOMAIN: 268
 # DOMAIN-KEYWORD: 13
 # DOMAIN-SUFFIX: 111335
 # IP-ASN: 1
-# IP-CIDR: 12164
+# IP-CIDR: 12166
 # USER-AGENT: 65
-# TOTAL: 123875
+# TOTAL: 123848
+DOMAIN-SUFFIX,alipay
 DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,taobao
 DOMAIN-SUFFIX,tmall
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
-DOMAIN-SUFFIX,alipay
 DOMAIN-SUFFIX,anquan
 DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,citic
+DOMAIN-SUFFIX,icbc
 DOMAIN-SUFFIX,shouji
 DOMAIN-SUFFIX,sina
 DOMAIN-SUFFIX,sohu
@@ -235838,7 +235781,6 @@ DOMAIN-SUFFIX,xn--vuq861b
 DOMAIN-SUFFIX,xn--xhq521b
 DOMAIN-SUFFIX,xn--zfr164b
 DOMAIN-SUFFIX,yun
-DOMAIN-SUFFIX,icbc
 DOMAIN-KEYWORD,.tmall.com
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,alipay
@@ -235852,7 +235794,6 @@ DOMAIN-KEYWORD,qiyi
 DOMAIN-KEYWORD,hnagroup
 DOMAIN-KEYWORD,stripe
 DOMAIN-KEYWORD,weibo
-USER-AGENT,AcFun*
 USER-AGENT,*bili*
 USER-AGENT,Bilibili*
 USER-AGENT,bili*
@@ -235867,7 +235808,6 @@ USER-AGENT,AdBlock*
 USER-AGENT,Best%20Trace*
 USER-AGENT,MegaWerewolf*
 USER-AGENT,MicroMessenger%20Client
-USER-AGENT,MicroMessenger*
 USER-AGENT,MicroMessengerClient*
 USER-AGENT,Microsoft*
 USER-AGENT,Moke*
@@ -235875,7 +235815,6 @@ USER-AGENT,QQ*
 USER-AGENT,RemotePlay*
 USER-AGENT,TIM*
 USER-AGENT,TeamViewer*
-USER-AGENT,WeChat*
 USER-AGENT,WebTorrent*
 USER-AGENT,arrowio*
 USER-AGENT,balls*
@@ -235886,17 +235825,14 @@ USER-AGENT,hearthstone*
 USER-AGENT,hide*
 USER-AGENT,ting_en
 USER-AGENT,%E4%BC%98%E9%85%B7*
-USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*QIYI*
+USER-AGENT,AcFun*
 USER-AGENT,DomesticMedia*
 USER-AGENT,MGTV*
 USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
 USER-AGENT,MOO*
-USER-AGENT,MiguVideo*
-USER-AGENT,NeteaseMusic*
 USER-AGENT,PPStream*
 USER-AGENT,QIYI*
 USER-AGENT,QQ%E9%9F%B3%E4%B9%90
@@ -235906,6 +235842,7 @@ USER-AGENT,QYPlayer*
 USER-AGENT,TencentMidasConnect*
 USER-AGENT,YYeTs*
 USER-AGENT,Youku*
+USER-AGENT,baiduyinyue
 USER-AGENT,bilibili*
 USER-AGENT,iQiYi*
 USER-AGENT,iQiyi*
@@ -235915,7 +235852,12 @@ USER-AGENT,walkman*
 USER-AGENT,xiami*
 USER-AGENT,youku*
 USER-AGENT,Himalaya*
-USER-AGENT,baiduyinyue
+USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
+USER-AGENT,MiguVideo*
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
+USER-AGENT,NeteaseMusic*
+USER-AGENT,MicroMessenger*
+USER-AGENT,WeChat*
 USER-AGENT,iQIYI*
 IP-CIDR,0.0.0.0/32,no-resolve
 IP-CIDR,1.0.1.0/24,no-resolve
@@ -239416,7 +239358,7 @@ IP-CIDR,140.249.0.0/16,no-resolve
 IP-CIDR,140.250.0.0/16,no-resolve
 IP-CIDR,140.255.0.0/16,no-resolve
 IP-CIDR,140.75.0.0/16,no-resolve
-IP-CIDR,141.11.50.0/24,no-resolve
+IP-CIDR,141.11.50.0/23,no-resolve
 IP-CIDR,142.70.0.0/16,no-resolve
 IP-CIDR,142.86.0.0/16,no-resolve
 IP-CIDR,143.191.188.0/22,no-resolve
@@ -239592,7 +239534,6 @@ IP-CIDR,154.19.96.0/19,no-resolve
 IP-CIDR,154.197.128.0/17,no-resolve
 IP-CIDR,154.209.251.0/24,no-resolve
 IP-CIDR,154.36.92.0/23,no-resolve
-IP-CIDR,154.72.42.0/24,no-resolve
 IP-CIDR,154.72.44.0/24,no-resolve
 IP-CIDR,154.72.47.0/24,no-resolve
 IP-CIDR,154.8.128.0/17,no-resolve
@@ -239846,6 +239787,7 @@ IP-CIDR,163.177.0.0/16,no-resolve
 IP-CIDR,163.179.0.0/16,no-resolve
 IP-CIDR,163.181.0.0/16,no-resolve
 IP-CIDR,163.204.0.0/16,no-resolve
+IP-CIDR,163.223.72.0/23,no-resolve
 IP-CIDR,163.227.40.0/23,no-resolve
 IP-CIDR,163.228.0.0/16,no-resolve
 IP-CIDR,163.244.246.0/24,no-resolve
@@ -239881,6 +239823,7 @@ IP-CIDR,166.0.100.0/23,no-resolve
 IP-CIDR,166.0.97.0/24,no-resolve
 IP-CIDR,166.1.139.0/24,no-resolve
 IP-CIDR,166.1.218.0/24,no-resolve
+IP-CIDR,166.1.246.0/23,no-resolve
 IP-CIDR,166.111.0.0/16,no-resolve
 IP-CIDR,166.118.227.88/32,no-resolve
 IP-CIDR,167.139.0.0/16,no-resolve
@@ -247776,6 +247719,7 @@ IP-CIDR,45.81.34.0/24,no-resolve
 IP-CIDR,45.82.241.0/24,no-resolve
 IP-CIDR,45.87.53.0/24,no-resolve
 IP-CIDR,45.87.54.0/24,no-resolve
+IP-CIDR,45.91.139.0/24,no-resolve
 IP-CIDR,46.102.251.0/25,no-resolve
 IP-CIDR,46.151.180.0/23,no-resolve
 IP-CIDR,46.151.182.0/24,no-resolve
@@ -248087,18 +248031,19 @@ IP-ASN,132203,no-resolve
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-08-20 02:29:08
-# DOMAIN: 296
+# UPDATED: 2026-08-22 02:32:13
+# DOMAIN: 267
 # DOMAIN-KEYWORD: 13
 # DOMAIN-SUFFIX: 111011
 # USER-AGENT: 65
-# TOTAL: 111385
+# TOTAL: 111356
 DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,tmall
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
 DOMAIN-SUFFIX,anquan
 DOMAIN-SUFFIX,citic
+DOMAIN-SUFFIX,icbc
 DOMAIN-SUFFIX,shouji
 DOMAIN-SUFFIX,sina
 DOMAIN-SUFFIX,sohu
@@ -248139,7 +248084,6 @@ DOMAIN-SUFFIX,xn--vuq861b
 DOMAIN-SUFFIX,xn--xhq521b
 DOMAIN-SUFFIX,xn--zfr164b
 DOMAIN-SUFFIX,yun
-DOMAIN-SUFFIX,icbc
 DOMAIN-KEYWORD,.tmall.com
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,alipay
@@ -248153,7 +248097,6 @@ DOMAIN-KEYWORD,qiyi
 DOMAIN-KEYWORD,hnagroup
 DOMAIN-KEYWORD,stripe
 DOMAIN-KEYWORD,weibo
-USER-AGENT,AcFun*
 USER-AGENT,*bili*
 USER-AGENT,Bilibili*
 USER-AGENT,bili*
@@ -248168,7 +248111,6 @@ USER-AGENT,AdBlock*
 USER-AGENT,Best%20Trace*
 USER-AGENT,MegaWerewolf*
 USER-AGENT,MicroMessenger%20Client
-USER-AGENT,MicroMessenger*
 USER-AGENT,MicroMessengerClient*
 USER-AGENT,Microsoft*
 USER-AGENT,Moke*
@@ -248176,7 +248118,6 @@ USER-AGENT,QQ*
 USER-AGENT,RemotePlay*
 USER-AGENT,TIM*
 USER-AGENT,TeamViewer*
-USER-AGENT,WeChat*
 USER-AGENT,WebTorrent*
 USER-AGENT,arrowio*
 USER-AGENT,balls*
@@ -248187,17 +248128,14 @@ USER-AGENT,hearthstone*
 USER-AGENT,hide*
 USER-AGENT,ting_en
 USER-AGENT,%E4%BC%98%E9%85%B7*
-USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*QIYI*
+USER-AGENT,AcFun*
 USER-AGENT,DomesticMedia*
 USER-AGENT,MGTV*
 USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
 USER-AGENT,MOO*
-USER-AGENT,MiguVideo*
-USER-AGENT,NeteaseMusic*
 USER-AGENT,PPStream*
 USER-AGENT,QIYI*
 USER-AGENT,QQ%E9%9F%B3%E4%B9%90
@@ -248207,6 +248145,7 @@ USER-AGENT,QYPlayer*
 USER-AGENT,TencentMidasConnect*
 USER-AGENT,YYeTs*
 USER-AGENT,Youku*
+USER-AGENT,baiduyinyue
 USER-AGENT,bilibili*
 USER-AGENT,iQiYi*
 USER-AGENT,iQiyi*
@@ -248216,7 +248155,12 @@ USER-AGENT,walkman*
 USER-AGENT,xiami*
 USER-AGENT,youku*
 USER-AGENT,Himalaya*
-USER-AGENT,baiduyinyue
+USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
+USER-AGENT,MiguVideo*
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
+USER-AGENT,NeteaseMusic*
+USER-AGENT,MicroMessenger*
+USER-AGENT,WeChat*
 USER-AGENT,iQIYI*
 
 # From: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/BiliBili/BiliBili.list
