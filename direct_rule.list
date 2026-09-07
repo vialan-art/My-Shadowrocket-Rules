@@ -1,5 +1,5 @@
 # Direct rules list for Shadowrocket
-# Generated on Mon Sep  7 19:44:58 UTC 2026
+# Generated on Mon Sep  7 22:40:57 UTC 2026
 
 
 # From: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
@@ -9140,12 +9140,12 @@ IP-CIDR,::1/128,DIRECT
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-09-06 03:55:06
+# UPDATED: 2026-09-08 05:05:22
 # DOMAIN: 267
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 110708
+# DOMAIN-SUFFIX: 110725
 # USER-AGENT: 65
-# TOTAL: 111053
+# TOTAL: 111070
 .0.zone
 .00.net
 .000.link
@@ -15759,6 +15759,7 @@ IP-CIDR,::1/128,DIRECT
 .602ab6ff810251.beer
 .602img.com
 .60301c31eca86940.com
+.60353595.com
 .603603b.com
 .603603d.com
 .603966.com
@@ -41233,6 +41234,7 @@ IP-CIDR,::1/128,DIRECT
 .eqxiuzhan.com
 .eqyn.com
 .er07.com
+.er3w.com
 .er8gmvwi54p5x1.com
 .eraclean.com
 .eraedu.com
@@ -47498,6 +47500,7 @@ IP-CIDR,::1/128,DIRECT
 .gomegj.com
 .gomeholdings.com
 .gomehome.com
+.gomeishop.com
 .gomeplus.com
 .gomo.com
 .gomocdn.com
@@ -48265,6 +48268,7 @@ IP-CIDR,::1/128,DIRECT
 .gu166.com
 .gu360.com
 .gua123.com
+.gua9.com
 .guabu.com
 .guaguay.com
 .guahao-inc.com
@@ -57480,6 +57484,7 @@ IP-CIDR,::1/128,DIRECT
 .hyhro.com
 .hyhscm.com
 .hyht.fun
+.hyhudong.com
 .hyhuo.com
 .hyhxt.net
 .hyhy.cc
@@ -59448,6 +59453,7 @@ IP-CIDR,::1/128,DIRECT
 .img4399.com
 .img4me.com
 .img898.com
+.img9g2026.com
 .imgbed.link
 .imgcdc.com
 .imgchr.com
@@ -67147,6 +67153,7 @@ IP-CIDR,::1/128,DIRECT
 .ksco.cc
 .ksdedu.com
 .ksdhgy.com
+.ksdyob.store
 .ksecit.com
 .ksedt.com
 .kseibitools.com
@@ -71767,6 +71774,7 @@ IP-CIDR,::1/128,DIRECT
 .lygsgt.com
 .lygshjd.com
 .lygshlxh.com
+.lygtylk.com
 .lygxwmarathon.com
 .lygxwxqrmyy.com
 .lygyyjt.com
@@ -72967,6 +72975,7 @@ IP-CIDR,::1/128,DIRECT
 .mcfun.tv
 .mcfxw.com
 .mcgsjt.com
+.mcgyaht1023.com
 .mchifi.com
 .mchim.net
 .mchost.guru
@@ -73110,6 +73119,7 @@ IP-CIDR,::1/128,DIRECT
 .mediatek.com
 .mediaxinan.com
 .medical-union.com
+.medicalimagecloud.com
 .medicalqc.com
 .medicexam.net
 .mediecogroup.com
@@ -78274,6 +78284,7 @@ IP-CIDR,::1/128,DIRECT
 .nordkete.com
 .nordonfire.com
 .nordritools.com
+.norglo.com
 .norinco-vehicle.com
 .norinco.com
 .norincogroup-ebuy.com
@@ -90038,6 +90049,7 @@ IP-CIDR,::1/128,DIRECT
 .shougongke.net
 .shougoumingbiao.com
 .shouhaoche.com
+.shouhou.xin
 .shouhougou.com
 .shouhui.com
 .shouhuigroup.com
@@ -101743,6 +101755,7 @@ IP-CIDR,::1/128,DIRECT
 .vvbin.com
 .vvebo.vip
 .vvfeng.com
+.vvghj1023.com
 .vvgroup.com
 .vvhan.com
 .vvhcwpddaa.com
@@ -103718,6 +103731,7 @@ IP-CIDR,::1/128,DIRECT
 .whjuren.com
 .whjxbaby.com
 .whjy.net
+.whjyapp.com
 .whjyx.com
 .whjyxh.com
 .whjyxx.com
@@ -108553,6 +108567,7 @@ IP-CIDR,::1/128,DIRECT
 .xmalaya.com
 .xmamiga.com
 .xmanblog.net
+.xmaosms.com
 .xmasg.com
 .xmayitxt.com
 .xmbankonline.com
@@ -111070,6 +111085,7 @@ IP-CIDR,::1/128,DIRECT
 .yetu.net
 .yew734.com
 .yewanba.com
+.yewcdn.com
 .yewen.us
 .yewuyuan.com
 .yexinggroup.com
@@ -116904,6 +116920,7 @@ IP-CIDR,::1/128,DIRECT
 .zhongguowangshi.com
 .zhongguoym.com
 .zhonggushipping.com
+.zhonghaiqishengkeji.xyz
 .zhonghaitech.com
 .zhonghaojituan.com
 .zhonghengyiyao.com
@@ -120079,14 +120096,14 @@ zzq12345.gearhostpreview.com
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-09-06 03:54:36
+# UPDATED: 2026-09-08 05:04:49
 # DOMAIN: 268
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 111034
+# DOMAIN-SUFFIX: 111051
 # IP-ASN: 1
 # IP-CIDR: 12457
 # USER-AGENT: 65
-# TOTAL: 123838
+# TOTAL: 123855
 .0.zone
 .00.net
 .000.link
@@ -126702,6 +126719,7 @@ zzq12345.gearhostpreview.com
 .602ab6ff810251.beer
 .602img.com
 .60301c31eca86940.com
+.60353595.com
 .603603b.com
 .603603d.com
 .603966.com
@@ -152429,6 +152447,7 @@ zzq12345.gearhostpreview.com
 .eqxiuzhan.com
 .eqyn.com
 .er07.com
+.er3w.com
 .er8gmvwi54p5x1.com
 .eraclean.com
 .eraedu.com
@@ -158695,6 +158714,7 @@ zzq12345.gearhostpreview.com
 .gomegj.com
 .gomeholdings.com
 .gomehome.com
+.gomeishop.com
 .gomeplus.com
 .gomo.com
 .gomocdn.com
@@ -159462,6 +159482,7 @@ zzq12345.gearhostpreview.com
 .gu166.com
 .gu360.com
 .gua123.com
+.gua9.com
 .guabu.com
 .guaguay.com
 .guahao-inc.com
@@ -168685,6 +168706,7 @@ zzq12345.gearhostpreview.com
 .hyhro.com
 .hyhscm.com
 .hyht.fun
+.hyhudong.com
 .hyhuo.com
 .hyhxt.net
 .hyhy.cc
@@ -170655,6 +170677,7 @@ zzq12345.gearhostpreview.com
 .img4399.com
 .img4me.com
 .img898.com
+.img9g2026.com
 .imgbed.link
 .imgcdc.com
 .imgchr.com
@@ -178363,6 +178386,7 @@ zzq12345.gearhostpreview.com
 .ksco.cc
 .ksdedu.com
 .ksdhgy.com
+.ksdyob.store
 .ksecit.com
 .ksedt.com
 .kseibitools.com
@@ -182984,6 +183008,7 @@ zzq12345.gearhostpreview.com
 .lygsgt.com
 .lygshjd.com
 .lygshlxh.com
+.lygtylk.com
 .lygxwmarathon.com
 .lygxwxqrmyy.com
 .lygyyjt.com
@@ -184184,6 +184209,7 @@ zzq12345.gearhostpreview.com
 .mcfun.tv
 .mcfxw.com
 .mcgsjt.com
+.mcgyaht1023.com
 .mchifi.com
 .mchim.net
 .mchost.guru
@@ -184327,6 +184353,7 @@ zzq12345.gearhostpreview.com
 .mediatek.com
 .mediaxinan.com
 .medical-union.com
+.medicalimagecloud.com
 .medicalqc.com
 .medicexam.net
 .mediecogroup.com
@@ -189493,6 +189520,7 @@ zzq12345.gearhostpreview.com
 .nordkete.com
 .nordonfire.com
 .nordritools.com
+.norglo.com
 .norinco-vehicle.com
 .norinco.com
 .norincogroup-ebuy.com
@@ -201267,6 +201295,7 @@ zzq12345.gearhostpreview.com
 .shougongke.net
 .shougoumingbiao.com
 .shouhaoche.com
+.shouhou.xin
 .shouhougou.com
 .shouhui.com
 .shouhuigroup.com
@@ -212988,6 +213017,7 @@ zzq12345.gearhostpreview.com
 .vvbin.com
 .vvebo.vip
 .vvfeng.com
+.vvghj1023.com
 .vvgroup.com
 .vvhan.com
 .vvhcwpddaa.com
@@ -214979,6 +215009,7 @@ zzq12345.gearhostpreview.com
 .whjuren.com
 .whjxbaby.com
 .whjy.net
+.whjyapp.com
 .whjyx.com
 .whjyxh.com
 .whjyxx.com
@@ -219815,6 +219846,7 @@ zzq12345.gearhostpreview.com
 .xmalaya.com
 .xmamiga.com
 .xmanblog.net
+.xmaosms.com
 .xmasg.com
 .xmayitxt.com
 .xmbankonline.com
@@ -222332,6 +222364,7 @@ zzq12345.gearhostpreview.com
 .yetu.net
 .yew734.com
 .yewanba.com
+.yewcdn.com
 .yewen.us
 .yewuyuan.com
 .yexinggroup.com
@@ -228167,6 +228200,7 @@ zzq12345.gearhostpreview.com
 .zhongguowangshi.com
 .zhongguoym.com
 .zhonggushipping.com
+.zhonghaiqishengkeji.xyz
 .zhonghaitech.com
 .zhonghaojituan.com
 .zhonghengyiyao.com
@@ -235119,19 +235153,17 @@ www.yxssp.com
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-09-06 03:54:36
+# UPDATED: 2026-09-08 05:04:49
 # DOMAIN: 268
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 111034
+# DOMAIN-SUFFIX: 111051
 # IP-ASN: 1
 # IP-CIDR: 12457
 # USER-AGENT: 65
-# TOTAL: 123838
-DOMAIN-SUFFIX,alibaba
-DOMAIN-SUFFIX,taobao
-DOMAIN-SUFFIX,tmall
+# TOTAL: 123855
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
+DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,alipay
 DOMAIN-SUFFIX,anquan
 DOMAIN-SUFFIX,baidu
@@ -235140,6 +235172,8 @@ DOMAIN-SUFFIX,icbc
 DOMAIN-SUFFIX,shouji
 DOMAIN-SUFFIX,sina
 DOMAIN-SUFFIX,sohu
+DOMAIN-SUFFIX,taobao
+DOMAIN-SUFFIX,tmall
 DOMAIN-SUFFIX,unicom
 DOMAIN-SUFFIX,wang
 DOMAIN-SUFFIX,weibo
@@ -235187,10 +235221,10 @@ DOMAIN-KEYWORD,beplay
 DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,bilibili
+DOMAIN-KEYWORD,qiyi
 DOMAIN-KEYWORD,hnagroup
 DOMAIN-KEYWORD,stripe
 DOMAIN-KEYWORD,weibo
-DOMAIN-KEYWORD,qiyi
 USER-AGENT,AcFun*
 USER-AGENT,*bili*
 USER-AGENT,Bilibili*
@@ -235200,6 +235234,7 @@ USER-AGENT,TikTok*
 USER-AGENT,%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C*
 USER-AGENT,%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*
 USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
+USER-AGENT,%E4%BC%98%E9%85%B7*
 USER-AGENT,%E5%8D%B3%E5%88%BB*
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*Vainglory*
@@ -235232,30 +235267,29 @@ USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*QIYI*
 USER-AGENT,DomesticMedia*
+USER-AGENT,MGTV*
+USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
 USER-AGENT,MOO*
 USER-AGENT,MiguVideo*
+USER-AGENT,PPStream*
+USER-AGENT,QIYI*
+USER-AGENT,QQ%E9%9F%B3%E4%B9%90
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
 USER-AGENT,QQMusic*
+USER-AGENT,QYPlayer*
+USER-AGENT,Youku*
 USER-AGENT,bilibili*
+USER-AGENT,iQiYi*
+USER-AGENT,iQiyi*
+USER-AGENT,live4iphone*
+USER-AGENT,qqlive4iphone*
 USER-AGENT,walkman*
 USER-AGENT,xiami*
 USER-AGENT,youku*
 USER-AGENT,Himalaya*
-USER-AGENT,MGTV*
-USER-AGENT,baiduyinyue
-USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
-USER-AGENT,QQ%E9%9F%B3%E4%B9%90
 USER-AGENT,TencentMidasConnect*
-USER-AGENT,live4iphone*
-USER-AGENT,qqlive4iphone*
-USER-AGENT,%E4%BC%98%E9%85%B7*
-USER-AGENT,Youku*
-USER-AGENT,PPStream*
-USER-AGENT,QIYI*
-USER-AGENT,QYPlayer*
+USER-AGENT,baiduyinyue
 USER-AGENT,iQIYI*
-USER-AGENT,iQiYi*
-USER-AGENT,iQiyi*
 IP-CIDR,0.0.0.0/32,no-resolve
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
@@ -247719,22 +247753,22 @@ IP-ASN,132203,no-resolve
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-09-06 03:55:07
+# UPDATED: 2026-09-08 05:05:22
 # DOMAIN: 267
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 110708
+# DOMAIN-SUFFIX: 110725
 # USER-AGENT: 65
-# TOTAL: 111053
-DOMAIN-SUFFIX,alibaba
-DOMAIN-SUFFIX,tmall
+# TOTAL: 111070
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
+DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,anquan
 DOMAIN-SUFFIX,citic
 DOMAIN-SUFFIX,icbc
 DOMAIN-SUFFIX,shouji
 DOMAIN-SUFFIX,sina
 DOMAIN-SUFFIX,sohu
+DOMAIN-SUFFIX,tmall
 DOMAIN-SUFFIX,unicom
 DOMAIN-SUFFIX,wang
 DOMAIN-SUFFIX,xihuan
@@ -247781,10 +247815,10 @@ DOMAIN-KEYWORD,beplay
 DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,bilibili
+DOMAIN-KEYWORD,qiyi
 DOMAIN-KEYWORD,hnagroup
 DOMAIN-KEYWORD,stripe
 DOMAIN-KEYWORD,weibo
-DOMAIN-KEYWORD,qiyi
 USER-AGENT,AcFun*
 USER-AGENT,*bili*
 USER-AGENT,Bilibili*
@@ -247794,6 +247828,7 @@ USER-AGENT,TikTok*
 USER-AGENT,%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C*
 USER-AGENT,%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*
 USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
+USER-AGENT,%E4%BC%98%E9%85%B7*
 USER-AGENT,%E5%8D%B3%E5%88%BB*
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*Vainglory*
@@ -247826,30 +247861,29 @@ USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*QIYI*
 USER-AGENT,DomesticMedia*
+USER-AGENT,MGTV*
+USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
 USER-AGENT,MOO*
 USER-AGENT,MiguVideo*
+USER-AGENT,PPStream*
+USER-AGENT,QIYI*
+USER-AGENT,QQ%E9%9F%B3%E4%B9%90
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
 USER-AGENT,QQMusic*
+USER-AGENT,QYPlayer*
+USER-AGENT,Youku*
 USER-AGENT,bilibili*
+USER-AGENT,iQiYi*
+USER-AGENT,iQiyi*
+USER-AGENT,live4iphone*
+USER-AGENT,qqlive4iphone*
 USER-AGENT,walkman*
 USER-AGENT,xiami*
 USER-AGENT,youku*
 USER-AGENT,Himalaya*
-USER-AGENT,MGTV*
-USER-AGENT,baiduyinyue
-USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
-USER-AGENT,QQ%E9%9F%B3%E4%B9%90
 USER-AGENT,TencentMidasConnect*
-USER-AGENT,live4iphone*
-USER-AGENT,qqlive4iphone*
-USER-AGENT,%E4%BC%98%E9%85%B7*
-USER-AGENT,Youku*
-USER-AGENT,PPStream*
-USER-AGENT,QIYI*
-USER-AGENT,QYPlayer*
+USER-AGENT,baiduyinyue
 USER-AGENT,iQIYI*
-USER-AGENT,iQiYi*
-USER-AGENT,iQiyi*
 
 # From: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/BiliBili/BiliBili.list
 # NAME: BiliBili
