@@ -1,5 +1,5 @@
 # Reject rules list for Shadowrocket
-# Generated on Sat Nov 21 09:27:13 UTC 2026
+# Generated on Sat Nov 21 17:15:14 UTC 2026
 
 
 # From: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/BlockHttpDNS/BlockHttpDNS.list
@@ -371791,7 +371791,6 @@ DOMAIN-KEYWORD,dwtrack
 DOMAIN-KEYWORD,guanggao
 DOMAIN-KEYWORD,omgmta
 DOMAIN-KEYWORD,omniture
-DOMAIN-KEYWORD,openx
 DOMAIN-KEYWORD,partnerad
 DOMAIN-KEYWORD,pingfore
 DOMAIN-KEYWORD,socdm
@@ -372304,6 +372303,9 @@ DOMAIN-SUFFIX,mydas.mobi
 DOMAIN-SUFFIX,nend.net
 DOMAIN-SUFFIX,netshelter.net
 DOMAIN-SUFFIX,nexage.com
+DOMAIN-SUFFIX,openx.net
+DOMAIN-SUFFIX,openxenterprise.com
+DOMAIN-SUFFIX,openxmarket.asia
 DOMAIN-SUFFIX,owneriq.net
 DOMAIN-SUFFIX,pixels.asia
 DOMAIN-SUFFIX,plista.com

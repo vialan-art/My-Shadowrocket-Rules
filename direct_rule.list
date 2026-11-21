@@ -1,5 +1,5 @@
 # Direct rules list for Shadowrocket
-# Generated on Sat Nov 21 09:27:16 UTC 2026
+# Generated on Sat Nov 21 17:15:16 UTC 2026
 
 
 # From: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
@@ -839,8 +839,8 @@ DOMAIN-SUFFIX,95516.com
 
 # From: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.list
 # 内容：中国媒体列表
-# 更新：2025-04-12 14:50:04
-# 数量：45条
+# 更新：2026-11-21 22:28:11
+# 数量：39条
 
 # Bilibili 哔哩哔哩
 DOMAIN,apiintl.biliapi.net
@@ -856,6 +856,7 @@ DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,biligame.net
+DOMAIN-SUFFIX,biliimg.com
 DOMAIN-SUFFIX,bilivideo.cn
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,hdslb.com
@@ -881,8 +882,6 @@ URL-REGEX,^https?:\/\/int[\w-\.]+iqiyi\.com
 
 # Letv 乐视
 DOMAIN-SUFFIX,api.mob.app.letv.com
-
-# MOO
 
 # TencentVideo 腾讯视频
 DOMAIN-SUFFIX,v.smtcdns.com
