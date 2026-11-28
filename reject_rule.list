@@ -1,5 +1,5 @@
 # Reject rules list for Shadowrocket
-# Generated on Sat Nov 28 01:21:40 UTC 2026
+# Generated on Sat Nov 28 10:00:22 UTC 2026
 
 
 # From: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/BlockHttpDNS/BlockHttpDNS.list
@@ -372104,7 +372104,6 @@ DOMAIN-SUFFIX,stg8.com
 DOMAIN-SUFFIX,switchadhub.com
 DOMAIN-SUFFIX,sycbbs.com
 DOMAIN-SUFFIX,synacast.com
-DOMAIN-SUFFIX,sysdig.com
 DOMAIN-SUFFIX,talkingdata.com
 DOMAIN-SUFFIX,talkingdata.net
 DOMAIN-SUFFIX,tansuotv.com

@@ -1,5 +1,5 @@
 # Direct rules list for Shadowrocket
-# Generated on Sat Nov 28 01:21:41 UTC 2026
+# Generated on Sat Nov 28 10:00:25 UTC 2026
 
 
 # From: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
@@ -496,6 +496,7 @@ DOMAIN,dota2.wmsj.cn
 DOMAIN,wmsjsteam.com
 DOMAIN,dl.steam.clngaa.com
 DOMAIN,dl.steam.ksyna.com
+DOMAIN,gstore.val.manlaxy.com
 DOMAIN,st.dl.bscstorage.net
 DOMAIN,st.dl.eccdnx.com
 DOMAIN,st.dl.pinyuncloud.com
@@ -506,6 +507,7 @@ DOMAIN,steamstatic.com.8686c.com
 
 # Tencent
 DOMAIN-SUFFIX,foxmail.com
+DOMAIN-SUFFIX,gcloudsvcs.com
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,idqqimg.com
 DOMAIN-SUFFIX,igamecj.com
@@ -836,6 +838,12 @@ DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
 DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,95516.com
+DOMAIN,cn.download.nvidia.com
+DOMAIN-SUFFIX,made-in-china.com
+DOMAIN-SUFFIX,micstatic.com
+DOMAIN-SUFFIX,focuschina.com
+DOMAIN-SUFFIX,vemic.com
+DOMAIN-SUFFIX,trademessenger.com
 
 # From: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.list
 # 内容：中国媒体列表
